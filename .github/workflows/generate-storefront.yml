@@ -18,6 +18,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           repository: ailidmx/GSheetPyCli
+          token: ${{ secrets.GH_PAT }}
           path: gsheetpycli
 
       - name: Setup Python
