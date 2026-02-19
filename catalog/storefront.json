@@ -2,7 +2,7 @@
   "meta": {
     "title": "Casa Bert Mini App",
     "subtitle": "Catálogo dinámico",
-    "updatedAt": "17/02/2026 17:58",
+    "updatedAt": "19/02/2026 16:14",
     "cacheSeconds": 180
   },
   "brand": {
@@ -44,7 +44,7 @@
       "emoji": "🍟",
       "shortDescription": "Selección Casa Bert de botanas (BOTANA MIXTA, CACAHUATE CASCARITA, CACAHUATE ENCHILADO GRANDE).",
       "longDescription": "Categoría BOTANAS de Casa Bert: productos cuidadosamente seleccionados como BOTANA MIXTA, CACAHUATE CASCARITA, CACAHUATE ENCHILADO GRANDE, CACAHUATE GARAMPINADO, CACAHUATE JAPONES HOT NUT. Ideal para ofrecer frescura, buena presentación y consistencia de marca.",
-      "url": "https://casabert.mx/categoria/botanas",
+      "url": "",
       "color": "naranja dorado cálido, textura snack",
       "refs": 19,
       "items": [
@@ -52,10 +52,10 @@
           "name": "BOTANA MIXTA",
           "id": "31",
           "key": "31",
-          "fotoUrl": "https://raw.githubusercontent.com/ailidmx/BertClient/main/img/product/BOTANA_MIXTA.png",
+          "fotoUrl": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/BOTANA_MIXTA.png",
           "img": {
-            "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Failidmx%2FBertClient%2Fmain%2Fimg%2Fproduct%2FBOTANA_MIXTA.png&w=320&h=320&fit=cover&q=72&output=webp",
-            "fullSize": "https://raw.githubusercontent.com/ailidmx/BertClient/main/img/product/BOTANA_MIXTA.png"
+            "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Failidmx%2FBertClient%40main%2Fimg%2Fproduct%2FBOTANA_MIXTA.png&w=320&h=320&fit=cover&q=72&output=webp",
+            "fullSize": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/BOTANA_MIXTA.png"
           },
           "description": "Energía variada y práctica",
           "shortDescription": "Energía variada y práctica",
@@ -70,10 +70,10 @@
           "name": "CACAHUATE ENCHILADO GRANDE",
           "id": "34",
           "key": "34",
-          "fotoUrl": "https://raw.githubusercontent.com/ailidmx/BertClient/main/img/product/CACAHUATE%20ENCHILADO%20GRANDE.png",
+          "fotoUrl": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/CACAHUATE%20ENCHILADO%20GRANDE.png",
           "img": {
-            "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Failidmx%2FBertClient%2Fmain%2Fimg%2Fproduct%2FCACAHUATE%2520ENCHILADO%2520GRANDE.png&w=320&h=320&fit=cover&q=72&output=webp",
-            "fullSize": "https://raw.githubusercontent.com/ailidmx/BertClient/main/img/product/CACAHUATE%20ENCHILADO%20GRANDE.png"
+            "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Failidmx%2FBertClient%40main%2Fimg%2Fproduct%2FCACAHUATE%2520ENCHILADO%2520GRANDE.png&w=320&h=320&fit=cover&q=72&output=webp",
+            "fullSize": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/CACAHUATE%20ENCHILADO%20GRANDE.png"
           },
           "description": "Energía con intensidad",
           "shortDescription": "Energía con intensidad",
@@ -106,10 +106,10 @@
           "name": "CACAHUATE JAPONES HOT NUT",
           "id": "36",
           "key": "36",
-          "fotoUrl": "https://raw.githubusercontent.com/ailidmx/BertClient/main/img/product/CACAHUATE%20JAPONES%20HOT%20NUT.png",
+          "fotoUrl": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/CACAHUATE%20JAPONES%20HOT%20NUT.png",
           "img": {
-            "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Failidmx%2FBertClient%2Fmain%2Fimg%2Fproduct%2FCACAHUATE%2520JAPONES%2520HOT%2520NUT.png&w=320&h=320&fit=cover&q=72&output=webp",
-            "fullSize": "https://raw.githubusercontent.com/ailidmx/BertClient/main/img/product/CACAHUATE%20JAPONES%20HOT%20NUT.png"
+            "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Failidmx%2FBertClient%40main%2Fimg%2Fproduct%2FCACAHUATE%2520JAPONES%2520HOT%2520NUT.png&w=320&h=320&fit=cover&q=72&output=webp",
+            "fullSize": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/CACAHUATE%20JAPONES%20HOT%20NUT.png"
           },
           "description": "Crujiente intenso y energético",
           "shortDescription": "Crujiente intenso y energético",
@@ -142,10 +142,10 @@
           "name": "CACAHUATE JAPONES SIMPLE DELAROSA",
           "id": "38",
           "key": "38",
-          "fotoUrl": "https://raw.githubusercontent.com/ailidmx/BertClient/main/img/product/CACAHUATE%20JAPONES%20SIMPLE%20DELAROSA.png",
+          "fotoUrl": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/CACAHUATE%20JAPONES%20SIMPLE%20DELAROSA.png",
           "img": {
-            "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Failidmx%2FBertClient%2Fmain%2Fimg%2Fproduct%2FCACAHUATE%2520JAPONES%2520SIMPLE%2520DELAROSA.png&w=320&h=320&fit=cover&q=72&output=webp",
-            "fullSize": "https://raw.githubusercontent.com/ailidmx/BertClient/main/img/product/CACAHUATE%20JAPONES%20SIMPLE%20DELAROSA.png"
+            "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Failidmx%2FBertClient%40main%2Fimg%2Fproduct%2FCACAHUATE%2520JAPONES%2520SIMPLE%2520DELAROSA.png&w=320&h=320&fit=cover&q=72&output=webp",
+            "fullSize": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/CACAHUATE%20JAPONES%20SIMPLE%20DELAROSA.png"
           },
           "description": "Crujiente clásico tradicional",
           "shortDescription": "Crujiente clásico tradicional",
@@ -160,10 +160,10 @@
           "name": "CACAHUATE JUMBO C/ CUTICULA",
           "id": "39",
           "key": "39",
-          "fotoUrl": "https://raw.githubusercontent.com/ailidmx/BertClient/main/img/product/CACAHUATE%20CASCARITA.png",
+          "fotoUrl": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/CACAHUATE%20CASCARITA.png",
           "img": {
-            "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Failidmx%2FBertClient%2Fmain%2Fimg%2Fproduct%2FCACAHUATE%2520CASCARITA.png&w=320&h=320&fit=cover&q=72&output=webp",
-            "fullSize": "https://raw.githubusercontent.com/ailidmx/BertClient/main/img/product/CACAHUATE%20CASCARITA.png"
+            "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Failidmx%2FBertClient%40main%2Fimg%2Fproduct%2FCACAHUATE%2520CASCARITA.png&w=320&h=320&fit=cover&q=72&output=webp",
+            "fullSize": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/CACAHUATE%20CASCARITA.png"
           },
           "description": "Energía clásica y natural",
           "shortDescription": "Energía clásica y natural",
@@ -178,10 +178,10 @@
           "name": "CACAHUATE MACHO GRANDE",
           "id": "40",
           "key": "40",
-          "fotoUrl": "https://raw.githubusercontent.com/ailidmx/BertClient/main/img/product/CACAHUATE%20MACHO%20GRANDE.png",
+          "fotoUrl": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/CACAHUATE%20MACHO%20GRANDE.png",
           "img": {
-            "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Failidmx%2FBertClient%2Fmain%2Fimg%2Fproduct%2FCACAHUATE%2520MACHO%2520GRANDE.png&w=320&h=320&fit=cover&q=72&output=webp",
-            "fullSize": "https://raw.githubusercontent.com/ailidmx/BertClient/main/img/product/CACAHUATE%20MACHO%20GRANDE.png"
+            "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Failidmx%2FBertClient%40main%2Fimg%2Fproduct%2FCACAHUATE%2520MACHO%2520GRANDE.png&w=320&h=320&fit=cover&q=72&output=webp",
+            "fullSize": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/CACAHUATE%20MACHO%20GRANDE.png"
           },
           "description": "Energía potente natural",
           "shortDescription": "Energía potente natural",
@@ -196,10 +196,10 @@
           "name": "CACAHUATE MARTAJADO",
           "id": "41",
           "key": "41",
-          "fotoUrl": "https://raw.githubusercontent.com/ailidmx/BertClient/main/img/product/CACAHUATE%20MARTAJADO.png",
+          "fotoUrl": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/CACAHUATE%20MARTAJADO.png",
           "img": {
-            "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Failidmx%2FBertClient%2Fmain%2Fimg%2Fproduct%2FCACAHUATE%2520MARTAJADO.png&w=320&h=320&fit=cover&q=72&output=webp",
-            "fullSize": "https://raw.githubusercontent.com/ailidmx/BertClient/main/img/product/CACAHUATE%20MARTAJADO.png"
+            "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Failidmx%2FBertClient%40main%2Fimg%2Fproduct%2FCACAHUATE%2520MARTAJADO.png&w=320&h=320&fit=cover&q=72&output=webp",
+            "fullSize": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/CACAHUATE%20MARTAJADO.png"
           },
           "description": "Intensidad crujiente picante",
           "shortDescription": "Intensidad crujiente picante",
@@ -398,7 +398,7 @@
       "emoji": "🥣",
       "shortDescription": "Selección Casa Bert de cereales (CEREAL FRUTIRUEDA (FROOT LOOPS), CEREAL HOJUELA AZUCARADA, CEREAL RIKIRROZ MAIZORO (CHOCO KRISPIS)).",
       "longDescription": "Categoría CEREALES de Casa Bert: productos cuidadosamente seleccionados como CEREAL FRUTIRUEDA (FROOT LOOPS), CEREAL HOJUELA AZUCARADA, CEREAL RIKIRROZ MAIZORO (CHOCO KRISPIS). Ideal para ofrecer frescura, buena presentación y consistencia de marca.",
-      "url": "https://casabert.mx/categoria/cereales",
+      "url": "",
       "color": "beige avena natural, textura suave",
       "refs": 3,
       "items": [
@@ -464,7 +464,7 @@
       "emoji": "🍫",
       "shortDescription": "Selección Casa Bert de chocolates (ALMENDRA CON CHOCOLATE, CAFE CON CHOCOLATE, CHISPAS DE CHOCOLATE LUSSEL).",
       "longDescription": "Categoría CHOCOLATES de Casa Bert: productos cuidadosamente seleccionados como ALMENDRA CON CHOCOLATE, CAFE CON CHOCOLATE, CHISPAS DE CHOCOLATE LUSSEL, CHOCOLATE AMARGO S/ AZUCAR, CONFICHOKY. Ideal para ofrecer frescura, buena presentación y consistencia de marca.",
-      "url": "https://casabert.mx/categoria/chocolates",
+      "url": "",
       "color": "marrón cacao profundo, textura gourmet",
       "refs": 8,
       "items": [
@@ -472,10 +472,10 @@
           "name": "ALMENDRA CON CHOCOLATE",
           "id": "7",
           "key": "7",
-          "fotoUrl": "https://raw.githubusercontent.com/ailidmx/BertClient/main/img/product/ALMENDRAS_CON_CHOCOLATE.png",
+          "fotoUrl": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/ALMENDRAS_CON_CHOCOLATE.png",
           "img": {
-            "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Failidmx%2FBertClient%2Fmain%2Fimg%2Fproduct%2FALMENDRAS_CON_CHOCOLATE.png&w=320&h=320&fit=cover&q=72&output=webp",
-            "fullSize": "https://raw.githubusercontent.com/ailidmx/BertClient/main/img/product/ALMENDRAS_CON_CHOCOLATE.png"
+            "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Failidmx%2FBertClient%40main%2Fimg%2Fproduct%2FALMENDRAS_CON_CHOCOLATE.png&w=320&h=320&fit=cover&q=72&output=webp",
+            "fullSize": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/ALMENDRAS_CON_CHOCOLATE.png"
           },
           "description": "Energía crujiente equilibrada",
           "shortDescription": "Energía crujiente equilibrada",
@@ -620,7 +620,7 @@
       "emoji": "🍬",
       "shortDescription": "Selección Casa Bert de dulces (ARO DURAZNO LUCKY, ATE DE MEMBRILLO, BOMBON MEDIANO).",
       "longDescription": "Categoría DULCES de Casa Bert: productos cuidadosamente seleccionados como ARO DURAZNO LUCKY, ATE DE MEMBRILLO, BOMBON MEDIANO, BOMBON MINIATURA, BORRACHITOS. Ideal para ofrecer frescura, buena presentación y consistencia de marca.",
-      "url": "https://casabert.mx/categoria/dulces",
+      "url": "",
       "color": "rosa-magenta vibrante, textura dulce",
       "refs": 17,
       "items": [
@@ -628,10 +628,10 @@
           "name": "ARO DURAZNO LUCKY",
           "id": "18",
           "key": "18",
-          "fotoUrl": "https://raw.githubusercontent.com/ailidmx/BertClient/main/img/product/ARO-DURAZNO-LUCKY.png",
+          "fotoUrl": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/ARO-DURAZNO-LUCKY.png",
           "img": {
-            "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Failidmx%2FBertClient%2Fmain%2Fimg%2Fproduct%2FARO-DURAZNO-LUCKY.png&w=320&h=320&fit=cover&q=72&output=webp",
-            "fullSize": "https://raw.githubusercontent.com/ailidmx/BertClient/main/img/product/ARO-DURAZNO-LUCKY.png"
+            "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Failidmx%2FBertClient%40main%2Fimg%2Fproduct%2FARO-DURAZNO-LUCKY.png&w=320&h=320&fit=cover&q=72&output=webp",
+            "fullSize": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/ARO-DURAZNO-LUCKY.png"
           },
           "description": "Dulce frutal ligero",
           "shortDescription": "Dulce frutal ligero",
@@ -664,10 +664,10 @@
           "name": "BOMBON MEDIANO",
           "id": "28",
           "key": "28",
-          "fotoUrl": "https://raw.githubusercontent.com/ailidmx/BertClient/main/img/product/BOMBON-MEDIANO.png",
+          "fotoUrl": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/BOMBON-MEDIANO.png",
           "img": {
-            "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Failidmx%2FBertClient%2Fmain%2Fimg%2Fproduct%2FBOMBON-MEDIANO.png&w=320&h=320&fit=cover&q=72&output=webp",
-            "fullSize": "https://raw.githubusercontent.com/ailidmx/BertClient/main/img/product/BOMBON-MEDIANO.png"
+            "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Failidmx%2FBertClient%40main%2Fimg%2Fproduct%2FBOMBON-MEDIANO.png&w=320&h=320&fit=cover&q=72&output=webp",
+            "fullSize": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/BOMBON-MEDIANO.png"
           },
           "description": "Suavidad ligera y dulce",
           "shortDescription": "Suavidad ligera y dulce",
@@ -700,10 +700,10 @@
           "name": "BORRACHITOS",
           "id": "30",
           "key": "30",
-          "fotoUrl": "https://raw.githubusercontent.com/ailidmx/BertClient/main/img/product/BORRACHITOS.png",
+          "fotoUrl": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/BORRACHITOS.png",
           "img": {
-            "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Failidmx%2FBertClient%2Fmain%2Fimg%2Fproduct%2FBORRACHITOS.png&w=320&h=320&fit=cover&q=72&output=webp",
-            "fullSize": "https://raw.githubusercontent.com/ailidmx/BertClient/main/img/product/BORRACHITOS.png"
+            "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Failidmx%2FBertClient%40main%2Fimg%2Fproduct%2FBORRACHITOS.png&w=320&h=320&fit=cover&q=72&output=webp",
+            "fullSize": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/BORRACHITOS.png"
           },
           "description": "Tradición dulce mexicana",
           "shortDescription": "Tradición dulce mexicana",
@@ -938,7 +938,7 @@
       "emoji": "🍯",
       "shortDescription": "Selección Casa Bert de endulzantes (AZUCAR ESTANDAR, AZUCAR MASCABADO, PILONCILLO CONO MEXPAN).",
       "longDescription": "Categoría ENDULZANTES de Casa Bert: productos cuidadosamente seleccionados como AZUCAR ESTANDAR, AZUCAR MASCABADO, PILONCILLO CONO MEXPAN, PILONCILLO MOLIDO. Ideal para ofrecer frescura, buena presentación y consistencia de marca.",
-      "url": "https://casabert.mx/categoria/endulzantes",
+      "url": "",
       "color": "ámbar miel dorado, textura natural",
       "refs": 4,
       "items": [
@@ -946,10 +946,10 @@
           "name": "AZUCAR ESTANDAR",
           "id": "24",
           "key": "24",
-          "fotoUrl": "https://raw.githubusercontent.com/ailidmx/BertClient/main/img/product/AZUCAR-ESTANDAR.png",
+          "fotoUrl": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/AZUCAR-ESTANDAR.png",
           "img": {
-            "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Failidmx%2FBertClient%2Fmain%2Fimg%2Fproduct%2FAZUCAR-ESTANDAR.png&w=320&h=320&fit=cover&q=72&output=webp",
-            "fullSize": "https://raw.githubusercontent.com/ailidmx/BertClient/main/img/product/AZUCAR-ESTANDAR.png"
+            "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Failidmx%2FBertClient%40main%2Fimg%2Fproduct%2FAZUCAR-ESTANDAR.png&w=320&h=320&fit=cover&q=72&output=webp",
+            "fullSize": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/AZUCAR-ESTANDAR.png"
           },
           "description": "Dulzor clásico y funcional",
           "shortDescription": "Dulzor clásico y funcional",
@@ -1022,7 +1022,7 @@
       "emoji": "🍭",
       "shortDescription": "Selección Casa Bert de gomitas (FRUTA LUCKY, GOMAS FRUTAS DEL BOSQUE, GOMINA).",
       "longDescription": "Categoría GOMITAS de Casa Bert: productos cuidadosamente seleccionados como FRUTA LUCKY, GOMAS FRUTAS DEL BOSQUE, GOMINA, LOMBRICES, LOMBRICES ACIDITAS (NEON LUCKY). Ideal para ofrecer frescura, buena presentación y consistencia de marca.",
-      "url": "https://casabert.mx/categoria/gomitas",
+      "url": "",
       "color": "rosa-magenta vibrante, textura dulce",
       "refs": 7,
       "items": [
@@ -1160,7 +1160,7 @@
       "emoji": "🌾",
       "shortDescription": "Selección Casa Bert de harinas (GALLETA ANIMALITO, GALLETA AVENA (CAJA), GALLETA BIROTITO (CAJA)).",
       "longDescription": "Categoría HARINAS de Casa Bert: productos cuidadosamente seleccionados como GALLETA ANIMALITO, GALLETA AVENA (CAJA), GALLETA BIROTITO (CAJA), GALLETA CAMPECHANA (CAJA), GALLETA INTEGRAL MULTIGRANO (CAJA). Ideal para ofrecer frescura, buena presentación y consistencia de marca.",
-      "url": "https://casabert.mx/categoria/harinas",
+      "url": "",
       "color": "crema trigo natural, textura fina",
       "refs": 11,
       "items": [
@@ -1370,7 +1370,7 @@
       "emoji": "🥜",
       "shortDescription": "Selección Casa Bert de nueces y frutos secos (ALMENDRA EN POLVO, ALMENDRA ENTERA, ARANDANO OCEAN).",
       "longDescription": "Categoría NUECES Y FRUTOS SECOS de Casa Bert: productos cuidadosamente seleccionados como ALMENDRA EN POLVO, ALMENDRA ENTERA, ARANDANO OCEAN, AVELLANA PELADA, CACAHUATE DORADO. Ideal para ofrecer frescura, buena presentación y consistencia de marca.",
-      "url": "https://casabert.mx/categoria/nueces-y-frutos-secos",
+      "url": "",
       "color": "amarillo-mango luminoso, textura frutal",
       "refs": 16,
       "items": [
@@ -1378,10 +1378,10 @@
           "name": "ALMENDRA EN POLVO",
           "id": "8",
           "key": "8",
-          "fotoUrl": "https://raw.githubusercontent.com/ailidmx/BertClient/main/img/product/ALMENDRA-EN-POLVO.png",
+          "fotoUrl": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/ALMENDRA-EN-POLVO.png",
           "img": {
-            "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Failidmx%2FBertClient%2Fmain%2Fimg%2Fproduct%2FALMENDRA-EN-POLVO.png&w=320&h=320&fit=cover&q=72&output=webp",
-            "fullSize": "https://raw.githubusercontent.com/ailidmx/BertClient/main/img/product/ALMENDRA-EN-POLVO.png"
+            "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Failidmx%2FBertClient%40main%2Fimg%2Fproduct%2FALMENDRA-EN-POLVO.png&w=320&h=320&fit=cover&q=72&output=webp",
+            "fullSize": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/ALMENDRA-EN-POLVO.png"
           },
           "description": "Nutrición versátil y ligera",
           "shortDescription": "Nutrición versátil y ligera",
@@ -1396,10 +1396,10 @@
           "name": "ALMENDRA ENTERA",
           "id": "9",
           "key": "9",
-          "fotoUrl": "https://raw.githubusercontent.com/ailidmx/BertClient/main/img/product/ALMENDRA-ENTERA.PNG",
+          "fotoUrl": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/ALMENDRA-ENTERA.PNG",
           "img": {
-            "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Failidmx%2FBertClient%2Fmain%2Fimg%2Fproduct%2FALMENDRA-ENTERA.PNG&w=320&h=320&fit=cover&q=72&output=webp",
-            "fullSize": "https://raw.githubusercontent.com/ailidmx/BertClient/main/img/product/ALMENDRA-ENTERA.PNG"
+            "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Failidmx%2FBertClient%40main%2Fimg%2Fproduct%2FALMENDRA-ENTERA.PNG&w=320&h=320&fit=cover&q=72&output=webp",
+            "fullSize": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/ALMENDRA-ENTERA.PNG"
           },
           "description": "Energía limpia y saciedad natural",
           "shortDescription": "Energía limpia y saciedad natural",
@@ -1450,10 +1450,10 @@
           "name": "CACAHUATE DORADO",
           "id": "33",
           "key": "33",
-          "fotoUrl": "https://raw.githubusercontent.com/ailidmx/BertClient/main/img/product/CACAHUATE%20DORADO.png",
+          "fotoUrl": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/CACAHUATE%20DORADO.png",
           "img": {
-            "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Failidmx%2FBertClient%2Fmain%2Fimg%2Fproduct%2FCACAHUATE%2520DORADO.png&w=320&h=320&fit=cover&q=72&output=webp",
-            "fullSize": "https://raw.githubusercontent.com/ailidmx/BertClient/main/img/product/CACAHUATE%20DORADO.png"
+            "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Failidmx%2FBertClient%40main%2Fimg%2Fproduct%2FCACAHUATE%2520DORADO.png&w=320&h=320&fit=cover&q=72&output=webp",
+            "fullSize": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/CACAHUATE%20DORADO.png"
           },
           "description": "Energía vegetal crujiente",
           "shortDescription": "Energía vegetal crujiente",
@@ -1670,7 +1670,7 @@
       "emoji": "🧂",
       "shortDescription": "Selección Casa Bert de otros polvos y afines (GRENETINA GEL CENTRO 300 BLUMS).",
       "longDescription": "Categoría OTROS POLVOS Y AFINES de Casa Bert: productos cuidadosamente seleccionados como GRENETINA GEL CENTRO 300 BLUMS. Ideal para ofrecer frescura, buena presentación y consistencia de marca.",
-      "url": "https://casabert.mx/categoria/otros-polvos-y-afines",
+      "url": "",
       "color": "beige cálido natural, textura artesanal",
       "refs": 2,
       "items": [
@@ -1718,7 +1718,7 @@
       "emoji": "🥤",
       "shortDescription": "Selección Casa Bert de productos para bebidas (CACAO MOLIDO, CAFE SOLUBLE, JAMAICA).",
       "longDescription": "Categoría PRODUCTOS PARA BEBIDAS de Casa Bert: productos cuidadosamente seleccionados como CACAO MOLIDO, CAFE SOLUBLE, JAMAICA, LECHE EN POLVO, TAMARINDO ENTERO. Ideal para ofrecer frescura, buena presentación y consistencia de marca.",
-      "url": "https://casabert.mx/categoria/productos-para-bebidas",
+      "url": "",
       "color": "beige cálido natural, textura artesanal",
       "refs": 6,
       "items": [
@@ -1838,7 +1838,7 @@
       "emoji": "🎁",
       "shortDescription": "Selección Casa Bert de regalos (LIBRETA (PIEZA), PULSERA).",
       "longDescription": "Categoría REGALOS de Casa Bert: productos cuidadosamente seleccionados como LIBRETA (PIEZA), PULSERA. Ideal para ofrecer frescura, buena presentación y consistencia de marca.",
-      "url": "https://casabert.mx/categoria/regalos",
+      "url": "",
       "color": "beige cálido natural, textura artesanal",
       "refs": 2,
       "items": [
@@ -1886,7 +1886,7 @@
       "emoji": "🧂",
       "shortDescription": "Selección Casa Bert de sales, especias y condimentos (AJO ENTERO MEDIANO, AJO MOLIDO, ALBAHACA).",
       "longDescription": "Categoría SALES, ESPECIAS Y CONDIMENTOS de Casa Bert: productos cuidadosamente seleccionados como AJO ENTERO MEDIANO, AJO MOLIDO, ALBAHACA, ANIS ESTRELLA, ANIS VERDE. Ideal para ofrecer frescura, buena presentación y consistencia de marca.",
-      "url": "https://casabert.mx/categoria/sales-especias-y-condimentos",
+      "url": "",
       "color": "beige cálido natural, textura artesanal",
       "refs": 36,
       "items": [
@@ -1894,10 +1894,10 @@
           "name": "AJO ENTERO MEDIANO",
           "id": "2",
           "key": "2",
-          "fotoUrl": "https://raw.githubusercontent.com/ailidmx/BertClient/main/img/product/AJO_ENTERO-mediano.png",
+          "fotoUrl": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/AJO_ENTERO-mediano.png",
           "img": {
-            "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Failidmx%2FBertClient%2Fmain%2Fimg%2Fproduct%2FAJO_ENTERO-mediano.png&w=320&h=320&fit=cover&q=72&output=webp",
-            "fullSize": "https://raw.githubusercontent.com/ailidmx/BertClient/main/img/product/AJO_ENTERO-mediano.png"
+            "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Failidmx%2FBertClient%40main%2Fimg%2Fproduct%2FAJO_ENTERO-mediano.png&w=320&h=320&fit=cover&q=72&output=webp",
+            "fullSize": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/AJO_ENTERO-mediano.png"
           },
           "description": "Intensidad natural y defensiva",
           "shortDescription": "Intensidad natural y defensiva",
@@ -1912,10 +1912,10 @@
           "name": "AJO MOLIDO",
           "id": "3",
           "key": "3",
-          "fotoUrl": "https://raw.githubusercontent.com/ailidmx/BertClient/main/img/product/AJO_MOLIDO.png",
+          "fotoUrl": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/AJO_MOLIDO.png",
           "img": {
-            "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Failidmx%2FBertClient%2Fmain%2Fimg%2Fproduct%2FAJO_MOLIDO.png&w=320&h=320&fit=cover&q=72&output=webp",
-            "fullSize": "https://raw.githubusercontent.com/ailidmx/BertClient/main/img/product/AJO_MOLIDO.png"
+            "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Failidmx%2FBertClient%40main%2Fimg%2Fproduct%2FAJO_MOLIDO.png&w=320&h=320&fit=cover&q=72&output=webp",
+            "fullSize": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/AJO_MOLIDO.png"
           },
           "description": "Sabor práctico y potente",
           "shortDescription": "Sabor práctico y potente",
@@ -1930,10 +1930,10 @@
           "name": "ALBAHACA",
           "id": "6",
           "key": "6",
-          "fotoUrl": "https://raw.githubusercontent.com/ailidmx/BertClient/main/img/product/ALBAHACA.png",
+          "fotoUrl": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/ALBAHACA.png",
           "img": {
-            "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Failidmx%2FBertClient%2Fmain%2Fimg%2Fproduct%2FALBAHACA.png&w=320&h=320&fit=cover&q=72&output=webp",
-            "fullSize": "https://raw.githubusercontent.com/ailidmx/BertClient/main/img/product/ALBAHACA.png"
+            "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Failidmx%2FBertClient%40main%2Fimg%2Fproduct%2FALBAHACA.png&w=320&h=320&fit=cover&q=72&output=webp",
+            "fullSize": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/ALBAHACA.png"
           },
           "description": "Aroma fresco y digestivo",
           "shortDescription": "Aroma fresco y digestivo",
@@ -1948,10 +1948,10 @@
           "name": "ANIS ESTRELLA",
           "id": "14",
           "key": "14",
-          "fotoUrl": "https://raw.githubusercontent.com/ailidmx/BertClient/main/img/product/ANIS.png",
+          "fotoUrl": "https://raw.githubusercontent.com/ailidmx/BertClient/refs/heads/main/img/product/ANIS.png",
           "img": {
-            "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Failidmx%2FBertClient%2Fmain%2Fimg%2Fproduct%2FANIS.png&w=320&h=320&fit=cover&q=72&output=webp",
-            "fullSize": "https://raw.githubusercontent.com/ailidmx/BertClient/main/img/product/ANIS.png"
+            "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Failidmx%2FBertClient%2Frefs%2Fheads%2Fmain%2Fimg%2Fproduct%2FANIS.png&w=320&h=320&fit=cover&q=72&output=webp",
+            "fullSize": "https://raw.githubusercontent.com/ailidmx/BertClient/refs/heads/main/img/product/ANIS.png"
           },
           "description": "Aroma cálido y reconfortante",
           "shortDescription": "Aroma cálido y reconfortante",
@@ -1966,10 +1966,10 @@
           "name": "ANIS VERDE",
           "id": "15",
           "key": "15",
-          "fotoUrl": "https://raw.githubusercontent.com/ailidmx/BertClient/main/img/product/ANIS%20VERDE.png",
+          "fotoUrl": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/ANIS%20VERDE.png",
           "img": {
-            "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Failidmx%2FBertClient%2Fmain%2Fimg%2Fproduct%2FANIS%2520VERDE.png&w=320&h=320&fit=cover&q=72&output=webp",
-            "fullSize": "https://raw.githubusercontent.com/ailidmx/BertClient/main/img/product/ANIS%20VERDE.png"
+            "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Failidmx%2FBertClient%40main%2Fimg%2Fproduct%2FANIS%2520VERDE.png&w=320&h=320&fit=cover&q=72&output=webp",
+            "fullSize": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/ANIS%20VERDE.png"
           },
           "description": "Dulzor herbal natural",
           "shortDescription": "Dulzor herbal natural",
@@ -2546,7 +2546,7 @@
       "emoji": "🌰",
       "shortDescription": "Selección Casa Bert de semillas y granos (AJONJOLI NEGRO, AJONJOLI SIN CUTICULA, ALPISTE SIMPLE).",
       "longDescription": "Categoría SEMILLAS Y GRANOS de Casa Bert: productos cuidadosamente seleccionados como AJONJOLI NEGRO, AJONJOLI SIN CUTICULA, ALPISTE SIMPLE, ALUBIA GRANDE, AMARANTO. Ideal para ofrecer frescura, buena presentación y consistencia de marca.",
-      "url": "https://casabert.mx/categoria/semillas-y-granos",
+      "url": "",
       "color": "beige avena natural, textura suave",
       "refs": 31,
       "items": [
@@ -2554,10 +2554,10 @@
           "name": "AJONJOLI NEGRO",
           "id": "4",
           "key": "4",
-          "fotoUrl": "https://raw.githubusercontent.com/ailidmx/BertClient/main/img/product/AJONJOLI_NEGRO.png",
+          "fotoUrl": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/AJONJOLI_NEGRO.png",
           "img": {
-            "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Failidmx%2FBertClient%2Fmain%2Fimg%2Fproduct%2FAJONJOLI_NEGRO.png&w=320&h=320&fit=cover&q=72&output=webp",
-            "fullSize": "https://raw.githubusercontent.com/ailidmx/BertClient/main/img/product/AJONJOLI_NEGRO.png"
+            "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Failidmx%2FBertClient%40main%2Fimg%2Fproduct%2FAJONJOLI_NEGRO.png&w=320&h=320&fit=cover&q=72&output=webp",
+            "fullSize": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/AJONJOLI_NEGRO.png"
           },
           "description": "Minerales y energía vegetal",
           "shortDescription": "Minerales y energía vegetal",
@@ -2572,10 +2572,10 @@
           "name": "AJONJOLI SIN CUTICULA",
           "id": "5",
           "key": "5",
-          "fotoUrl": "https://raw.githubusercontent.com/ailidmx/BertClient/main/img/product/AJONJOLI_SIN_CUTICULA.png",
+          "fotoUrl": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/AJONJOLI_SIN_CUTICULA.png",
           "img": {
-            "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Failidmx%2FBertClient%2Fmain%2Fimg%2Fproduct%2FAJONJOLI_SIN_CUTICULA.png&w=320&h=320&fit=cover&q=72&output=webp",
-            "fullSize": "https://raw.githubusercontent.com/ailidmx/BertClient/main/img/product/AJONJOLI_SIN_CUTICULA.png"
+            "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Failidmx%2FBertClient%40main%2Fimg%2Fproduct%2FAJONJOLI_SIN_CUTICULA.png&w=320&h=320&fit=cover&q=72&output=webp",
+            "fullSize": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/AJONJOLI_SIN_CUTICULA.png"
           },
           "description": "Energía ligera y versátil",
           "shortDescription": "Energía ligera y versátil",
@@ -2590,10 +2590,10 @@
           "name": "ALPISTE SIMPLE",
           "id": "10",
           "key": "10",
-          "fotoUrl": "https://raw.githubusercontent.com/ailidmx/BertClient/main/img/product/ALPISTE_SIMPLE.png",
+          "fotoUrl": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/ALPISTE_SIMPLE.png",
           "img": {
-            "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Failidmx%2FBertClient%2Fmain%2Fimg%2Fproduct%2FALPISTE_SIMPLE.png&w=320&h=320&fit=cover&q=72&output=webp",
-            "fullSize": "https://raw.githubusercontent.com/ailidmx/BertClient/main/img/product/ALPISTE_SIMPLE.png"
+            "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Failidmx%2FBertClient%40main%2Fimg%2Fproduct%2FALPISTE_SIMPLE.png&w=320&h=320&fit=cover&q=72&output=webp",
+            "fullSize": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/ALPISTE_SIMPLE.png"
           },
           "description": "Energía vegetal ligera",
           "shortDescription": "Energía vegetal ligera",
@@ -2608,10 +2608,10 @@
           "name": "ALUBIA GRANDE",
           "id": "11",
           "key": "11",
-          "fotoUrl": "https://raw.githubusercontent.com/ailidmx/BertClient/main/img/product/ALUBIA_GRANDE.png",
+          "fotoUrl": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/ALUBIA_GRANDE.png",
           "img": {
-            "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Failidmx%2FBertClient%2Fmain%2Fimg%2Fproduct%2FALUBIA_GRANDE.png&w=320&h=320&fit=cover&q=72&output=webp",
-            "fullSize": "https://raw.githubusercontent.com/ailidmx/BertClient/main/img/product/ALUBIA_GRANDE.png"
+            "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Failidmx%2FBertClient%40main%2Fimg%2Fproduct%2FALUBIA_GRANDE.png&w=320&h=320&fit=cover&q=72&output=webp",
+            "fullSize": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/ALUBIA_GRANDE.png"
           },
           "description": "Proteína vegetal completa",
           "shortDescription": "Proteína vegetal completa",
@@ -2626,10 +2626,10 @@
           "name": "AMARANTO",
           "id": "12",
           "key": "12",
-          "fotoUrl": "https://raw.githubusercontent.com/ailidmx/BertClient/main/img/product/AMARANTO.png",
+          "fotoUrl": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/AMARANTO.png",
           "img": {
-            "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Failidmx%2FBertClient%2Fmain%2Fimg%2Fproduct%2FAMARANTO.png&w=320&h=320&fit=cover&q=72&output=webp",
-            "fullSize": "https://raw.githubusercontent.com/ailidmx/BertClient/main/img/product/AMARANTO.png"
+            "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Failidmx%2FBertClient%40main%2Fimg%2Fproduct%2FAMARANTO.png&w=320&h=320&fit=cover&q=72&output=webp",
+            "fullSize": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/AMARANTO.png"
           },
           "description": "Fuerza ancestral y nutrición densa",
           "shortDescription": "Fuerza ancestral y nutrición densa",
@@ -2644,10 +2644,10 @@
           "name": "ARROZ INTEGRAL",
           "id": "19",
           "key": "19",
-          "fotoUrl": "https://raw.githubusercontent.com/ailidmx/BertClient/main/img/product/ARROZ-INTEGRAL.png",
+          "fotoUrl": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/ARROZ-INTEGRAL.png",
           "img": {
-            "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Failidmx%2FBertClient%2Fmain%2Fimg%2Fproduct%2FARROZ-INTEGRAL.png&w=320&h=320&fit=cover&q=72&output=webp",
-            "fullSize": "https://raw.githubusercontent.com/ailidmx/BertClient/main/img/product/ARROZ-INTEGRAL.png"
+            "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Failidmx%2FBertClient%40main%2Fimg%2Fproduct%2FARROZ-INTEGRAL.png&w=320&h=320&fit=cover&q=72&output=webp",
+            "fullSize": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/ARROZ-INTEGRAL.png"
           },
           "description": "Energía estable y natural",
           "shortDescription": "Energía estable y natural",
@@ -2806,10 +2806,10 @@
           "name": "GARBANZO",
           "id": "101",
           "key": "101",
-          "fotoUrl": "https://raw.githubusercontent.com/ailidmx/BertClient/main/img/product/GARBANZO.png",
+          "fotoUrl": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/GARBANZO.png",
           "img": {
-            "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Failidmx%2FBertClient%2Fmain%2Fimg%2Fproduct%2FGARBANZO.png&w=320&h=320&fit=cover&q=72&output=webp",
-            "fullSize": "https://raw.githubusercontent.com/ailidmx/BertClient/main/img/product/GARBANZO.png"
+            "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Failidmx%2FBertClient%40main%2Fimg%2Fproduct%2FGARBANZO.png&w=320&h=320&fit=cover&q=72&output=webp",
+            "fullSize": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/GARBANZO.png"
           },
           "description": "Proteína vegetal y saciedad",
           "shortDescription": "Proteína vegetal y saciedad",
@@ -3116,7 +3116,7 @@
       "emoji": "🥗",
       "shortDescription": "Selección Casa Bert de snack saludable (AMOROZ AMARANTO CHICO (PAQUETE DE 10), BETABEL DESHIDRATADO, CAMOTE DESHIDRATADO).",
       "longDescription": "Categoría SNACK SALUDABLE de Casa Bert: productos cuidadosamente seleccionados como AMOROZ AMARANTO CHICO (PAQUETE DE 10), BETABEL DESHIDRATADO, CAMOTE DESHIDRATADO, CHICHARRON DE SOYA, GRANOLA SANTA MAURA. Ideal para ofrecer frescura, buena presentación y consistencia de marca.",
-      "url": "https://casabert.mx/categoria/snack-saludable",
+      "url": "",
       "color": "beige cálido natural, textura artesanal",
       "refs": 19,
       "items": [
@@ -3470,7 +3470,7 @@
       "emoji": "🍵",
       "shortDescription": "Selección Casa Bert de tisanas herbales (ABANGO, CALENDULA TALLO, COLA DE CABALLO).",
       "longDescription": "Categoría TISANAS HERBALES de Casa Bert: productos cuidadosamente seleccionados como ABANGO, CALENDULA TALLO, COLA DE CABALLO, HIERBABUENA, HOJA EUCALIPTO. Ideal para ofrecer frescura, buena presentación y consistencia de marca.",
-      "url": "https://casabert.mx/categoria/tisanas-herbales",
+      "url": "",
       "color": "beige cálido natural, textura artesanal",
       "refs": 18,
       "items": [
@@ -3478,10 +3478,10 @@
           "name": "ABANGO",
           "id": "1",
           "key": "1",
-          "fotoUrl": "https://raw.githubusercontent.com/ailidmx/BertClient/main/img/product/ABANGO.png",
+          "fotoUrl": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/ABANGO.png",
           "img": {
-            "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Failidmx%2FBertClient%2Fmain%2Fimg%2Fproduct%2FABANGO.png&w=320&h=320&fit=cover&q=72&output=webp",
-            "fullSize": "https://raw.githubusercontent.com/ailidmx/BertClient/main/img/product/ABANGO.png"
+            "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Failidmx%2FBertClient%40main%2Fimg%2Fproduct%2FABANGO.png&w=320&h=320&fit=cover&q=72&output=webp",
+            "fullSize": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/ABANGO.png"
           },
           "description": "Mezcla herbal tradicional",
           "shortDescription": "Mezcla herbal tradicional",
@@ -3808,8 +3808,44 @@
       "longDescription": "",
       "url": "",
       "color": "",
-      "refs": 1,
+      "refs": 4,
       "items": [
+        {
+          "name": "CUCHARADA DE TAMARINDO",
+          "id": "",
+          "key": "",
+          "fotoUrl": "",
+          "img": {
+            "thumbnail": "",
+            "fullSize": ""
+          },
+          "description": "",
+          "shortDescription": "",
+          "longDescription": "",
+          "price": 15.0,
+          "weight": 5.0,
+          "unit": "pieza",
+          "peso": "5 pieza",
+          "category_id": "CAT_sincategoria"
+        },
+        {
+          "name": "PINOLE",
+          "id": "",
+          "key": "",
+          "fotoUrl": "",
+          "img": {
+            "thumbnail": "",
+            "fullSize": ""
+          },
+          "description": "",
+          "shortDescription": "",
+          "longDescription": "",
+          "price": 15.0,
+          "weight": 100.0,
+          "unit": "g",
+          "peso": "100 g",
+          "category_id": "CAT_sincategoria"
+        },
         {
           "name": "SOYA TEXTURIZADA",
           "id": "186",
@@ -3826,6 +3862,24 @@
           "weight": 125.0,
           "unit": "g",
           "peso": "125 g",
+          "category_id": "CAT_sincategoria"
+        },
+        {
+          "name": "TAMALITO DE TAMARINDO",
+          "id": "201",
+          "key": "201",
+          "fotoUrl": "",
+          "img": {
+            "thumbnail": "",
+            "fullSize": ""
+          },
+          "description": "",
+          "shortDescription": "",
+          "longDescription": "",
+          "price": 15.0,
+          "weight": 4.0,
+          "unit": "pieza",
+          "peso": "4 pieza",
           "category_id": "CAT_sincategoria"
         }
       ]
