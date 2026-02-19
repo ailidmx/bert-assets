@@ -1,0 +1,61 @@
+name: generate-storefront
+
+on:
+  workflow_dispatch:
+  repository_dispatch:
+    types: [generate_storefront]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout assets repo
+        uses: actions/checkout@v4
+
+      - name: Checkout GSheetPyCli scripts
+        uses: actions/checkout@v4
+        with:
+          repository: ailidmx/GSheetPyCli
+          path: gsheetpycli
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install deps
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r gsheetpycli/requirements.txt
+
+      - name: Generate catalog/storefront.json
+        env:
+          GSHEET_SERVICE_ACCOUNT_JSON: ${{ secrets.GSHEET_SERVICE_ACCOUNT_JSON }}
+        run: |
+          mkdir -p /tmp/keys catalog
+          cat > /tmp/keys/sheet-cli.json <<'JSON'
+          ${{ secrets.GSHEET_SERVICE_ACCOUNT_JSON }}
+          JSON
+          python gsheetpycli/generate_storefront_json.py \
+            --creds /tmp/keys/sheet-cli.json \
+            --sheet "1XdMrGB9Je9w-oVj3V0qM-92WNd8TFjmvo0sqG5w_5xc" \
+            --general-sheet "GENERAL" \
+            --settings-sheet "SETTINGS" \
+            --categories-sheet "CATEGORIAS" \
+            --output "catalog/storefront.json" \
+            --tz "America/Mexico_City" \
+            --default-price 15
+
+      - name: Commit and push when changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add catalog/storefront.json
+          if git diff --cached --quiet; then
+            echo "No storefront changes"
+            exit 0
+          fi
+          git commit -m "chore: refresh storefront catalog"
+          git push

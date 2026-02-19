@@ -1,0 +1,174 @@
+name: regen-product-image
+
+on:
+  workflow_dispatch:
+    inputs:
+      product_name:
+        description: 'Product name (ARTICULO)'
+        required: true
+      category:
+        description: 'Category (optional)'
+        required: false
+        default: ''
+      chat_id:
+        description: 'Telegram chat id to notify (optional)'
+        required: false
+        default: ''
+      mode:
+        description: 'regen | bertify'
+        required: false
+        default: 'regen'
+      source_image_url:
+        description: 'Source image URL for bertify mode (optional)'
+        required: false
+        default: ''
+      source_original_url:
+        description: 'Original user image URL to store/notify (optional)'
+        required: false
+        default: ''
+  repository_dispatch:
+    types: [regen_product_image]
+
+jobs:
+  regen:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout assets repo
+        uses: actions/checkout@v4
+
+      - name: Checkout GSheetPyCli scripts
+        uses: actions/checkout@v4
+        with:
+          repository: ailidmx/GSheetPyCli
+          path: gsheetpycli
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install deps
+        run: |
+          python -m pip install --upgrade pip
+          pip install gspread google-auth
+
+      - name: Notify queued (Telegram)
+        env:
+          BOT_NOTIFY_URL: ${{ secrets.BOT_NOTIFY_URL }}
+          BOT_NOTIFY_TOKEN: ${{ secrets.BOT_NOTIFY_TOKEN }}
+          CHAT_ID: ${{ github.event.inputs.chat_id || github.event.client_payload.chat_id || '' }}
+          PRODUCT_NAME: ${{ github.event.inputs.product_name || github.event.client_payload.product_name || '' }}
+          RUN_URL: https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}
+        run: |
+          if [ -z "$CHAT_ID" ] || [ -z "$BOT_NOTIFY_URL" ]; then
+            echo "Skip queued notify (missing chat_id or BOT_NOTIFY_URL)"
+            exit 0
+          fi
+          curl -sS -G "$BOT_NOTIFY_URL" \
+            --data-urlencode "action=regen_notify" \
+            --data-urlencode "token=${BOT_NOTIFY_TOKEN}" \
+            --data-urlencode "chatId=${CHAT_ID}" \
+            --data-urlencode "status=queued" \
+            --data-urlencode "productName=${PRODUCT_NAME}" \
+            --data-urlencode "runUrl=${RUN_URL}"
+
+      - name: Regenerate one image + update sheet URLs
+        id: regen
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          GCP_SA_JSON: ${{ secrets.GCP_SA_JSON }}
+          PRODUCT_NAME_INPUT: ${{ github.event.inputs.product_name || github.event.client_payload.product_name || '' }}
+          CATEGORY_INPUT: ${{ github.event.inputs.category || github.event.client_payload.category || '' }}
+          MODE_INPUT: ${{ github.event.inputs.mode || github.event.client_payload.mode || 'regen' }}
+          SOURCE_IMAGE_URL_INPUT: ${{ github.event.inputs.source_image_url || github.event.client_payload.source_image_url || '' }}
+          SOURCE_ORIGINAL_URL_INPUT: ${{ github.event.inputs.source_original_url || github.event.client_payload.source_original_url || '' }}
+        run: |
+          RESULT_JSON="$(python gsheetpycli/scripts/regen_product_image.py \
+            --product-name "${PRODUCT_NAME_INPUT}" \
+            --category "${CATEGORY_INPUT}" \
+            --sheet-id "1XdMrGB9Je9w-oVj3V0qM-92WNd8TFjmvo0sqG5w_5xc" \
+            --sheet-name "GENERAL" \
+            --repo-owner "ailidmx" \
+            --repo-name "bert-assets" \
+            --repo-ref "main" \
+            --prompt-file "gsheetpycli/prompt_casabert.txt" \
+            --mode "${MODE_INPUT}" \
+            --source-image-url "${SOURCE_IMAGE_URL_INPUT}" \
+            --source-original-url "${SOURCE_ORIGINAL_URL_INPUT}")"
+          echo "$RESULT_JSON"
+          IMAGE_URL="$(python - "$RESULT_JSON" <<'PY'
+import json,sys
+obj=json.loads(sys.argv[1])
+print(obj.get('cdn_url',''))
+PY
+          )"
+          echo "image_url=$IMAGE_URL" >> "$GITHUB_OUTPUT"
+          SOURCE_ORIGINAL_URL="$(python - "$RESULT_JSON" <<'PY'
+import json,sys
+obj=json.loads(sys.argv[1])
+print(obj.get('source_original_url',''))
+PY
+          )"
+          echo "source_original_url=$SOURCE_ORIGINAL_URL" >> "$GITHUB_OUTPUT"
+
+      - name: Notify done (Telegram)
+        if: success()
+        env:
+          BOT_NOTIFY_URL: ${{ secrets.BOT_NOTIFY_URL }}
+          BOT_NOTIFY_TOKEN: ${{ secrets.BOT_NOTIFY_TOKEN }}
+          CHAT_ID: ${{ github.event.inputs.chat_id || github.event.client_payload.chat_id || '' }}
+          PRODUCT_NAME: ${{ github.event.inputs.product_name || github.event.client_payload.product_name || '' }}
+          IMAGE_URL: ${{ steps.regen.outputs.image_url }}
+          SOURCE_ORIGINAL_URL: ${{ steps.regen.outputs.source_original_url }}
+          RUN_URL: https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}
+        run: |
+          if [ -z "$CHAT_ID" ] || [ -z "$BOT_NOTIFY_URL" ]; then
+            echo "Skip done notify (missing chat_id or BOT_NOTIFY_URL)"
+            exit 0
+          fi
+          curl -sS -G "$BOT_NOTIFY_URL" \
+            --data-urlencode "action=regen_notify" \
+            --data-urlencode "token=${BOT_NOTIFY_TOKEN}" \
+            --data-urlencode "chatId=${CHAT_ID}" \
+            --data-urlencode "status=done" \
+            --data-urlencode "productName=${PRODUCT_NAME}" \
+            --data-urlencode "imageUrl=${IMAGE_URL}" \
+            --data-urlencode "sourceOriginalUrl=${SOURCE_ORIGINAL_URL}" \
+            --data-urlencode "runUrl=${RUN_URL}"
+
+      - name: Notify failed (Telegram)
+        if: failure()
+        env:
+          BOT_NOTIFY_URL: ${{ secrets.BOT_NOTIFY_URL }}
+          BOT_NOTIFY_TOKEN: ${{ secrets.BOT_NOTIFY_TOKEN }}
+          CHAT_ID: ${{ github.event.inputs.chat_id || github.event.client_payload.chat_id || '' }}
+          PRODUCT_NAME: ${{ github.event.inputs.product_name || github.event.client_payload.product_name || '' }}
+          RUN_URL: https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}
+        run: |
+          if [ -z "$CHAT_ID" ] || [ -z "$BOT_NOTIFY_URL" ]; then
+            echo "Skip failed notify (missing chat_id or BOT_NOTIFY_URL)"
+            exit 0
+          fi
+          curl -sS -G "$BOT_NOTIFY_URL" \
+            --data-urlencode "action=regen_notify" \
+            --data-urlencode "token=${BOT_NOTIFY_TOKEN}" \
+            --data-urlencode "chatId=${CHAT_ID}" \
+            --data-urlencode "status=failed" \
+            --data-urlencode "productName=${PRODUCT_NAME}" \
+            --data-urlencode "error=workflow failed" \
+            --data-urlencode "runUrl=${RUN_URL}"
+
+      - name: Commit & push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add img/product
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+          PRODUCT_NAME_COMMIT="${{ github.event.inputs.product_name || github.event.client_payload.product_name || 'product' }}"
+          git commit -m "chore: regen image for ${PRODUCT_NAME_COMMIT}"
+          git push origin main
