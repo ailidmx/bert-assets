@@ -2,7 +2,7 @@
   "meta": {
     "title": "Casa Bert Mini App",
     "subtitle": "Catálogo dinámico",
-    "updatedAt": "19/02/2026 18:46",
+    "updatedAt": "19/02/2026 18:48",
     "cacheSeconds": 180
   },
   "brand": {
@@ -1292,8 +1292,8 @@
         },
         {
           "name": "PALOMITA QUESO",
-          "id": "",
-          "key": "",
+          "id": "201",
+          "key": "201",
           "fotoUrl": "",
           "img": {
             "thumbnail": "",
@@ -1874,8 +1874,8 @@
         },
         {
           "name": "CUCHARADA DE TAMARINDO",
-          "id": "",
-          "key": "",
+          "id": "202",
+          "key": "202",
           "fotoUrl": "",
           "img": {
             "thumbnail": "",
@@ -2630,8 +2630,8 @@
         },
         {
           "name": "PINOLE",
-          "id": "",
-          "key": "",
+          "id": "203",
+          "key": "203",
           "fotoUrl": "",
           "img": {
             "thumbnail": "",
