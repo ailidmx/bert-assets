@@ -2,7 +2,7 @@
   "meta": {
     "title": "Casa Bert Mini App",
     "subtitle": "Catálogo dinámico",
-    "updatedAt": "19/02/2026 20:28",
+    "updatedAt": "19/02/2026 21:53",
     "cacheSeconds": 180
   },
   "brand": {
@@ -2208,9 +2208,9 @@
           "id": "14",
           "key": "14",
           "img": {
-            "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Failidmx%2Fbert-assets%40main%2Fimg%2Fproduct%2Fai%2FANIS.png&w=320&h=320&fit=cover&q=72&output=webp",
-            "carousel": "https://images.weserv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Failidmx%2Fbert-assets%40main%2Fimg%2Fproduct%2Fai%2FANIS.png&w=640&h=640&fit=cover&q=74&output=webp",
-            "fullSize": "https://cdn.jsdelivr.net/gh/ailidmx/bert-assets@main/img/product/ai/ANIS.png"
+            "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fassets.casabert.mx%2Fimg%2Fproduct%2FANIS.png&w=320&h=320&fit=cover&q=72&output=webp",
+            "carousel": "https://images.weserv.nl/?url=https%3A%2F%2Fassets.casabert.mx%2Fimg%2Fproduct%2FANIS.png&w=640&h=640&fit=cover&q=74&output=webp",
+            "fullSize": "https://assets.casabert.mx/img/product/ANIS.png"
           },
           "description": "Aroma cálido y reconfortante",
           "shortDescription": "Aroma cálido y reconfortante",
