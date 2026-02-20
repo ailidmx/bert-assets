@@ -2,7 +2,7 @@
   "meta": {
     "title": "Casa Bert Mini App",
     "subtitle": "Catálogo dinámico",
-    "updatedAt": "19/02/2026 18:48",
+    "updatedAt": "19/02/2026 18:52",
     "cacheSeconds": 180
   },
   "brand": {
@@ -3898,13 +3898,13 @@
     },
     {
       "name": "Extras (No alimentos)",
-      "id": "CAT_extrasnoalimentos",
-      "emoji": "",
-      "shortDescription": "",
+      "id": "C21",
+      "emoji": "🧩",
+      "shortDescription": "Accesorios y extras de compra rápida",
       "longDescription": "",
       "url": "",
       "color": "",
-      "refs": 3,
+      "refs": 0,
       "items": [
         {
           "name": "GOMINA",
@@ -3922,7 +3922,7 @@
           "weight": 60.0,
           "unit": "g",
           "peso": "60 g",
-          "category_id": "CAT_extrasnoalimentos"
+          "category_id": "C21"
         },
         {
           "name": "LIBRETA (PIEZA)",
@@ -3940,7 +3940,7 @@
           "weight": 1.0,
           "unit": "pieza",
           "peso": "1 pieza",
-          "category_id": "CAT_extrasnoalimentos"
+          "category_id": "C21"
         },
         {
           "name": "PULSERA",
@@ -3958,7 +3958,7 @@
           "weight": 1.0,
           "unit": "pieza",
           "peso": "1 pieza",
-          "category_id": "CAT_extrasnoalimentos"
+          "category_id": "C21"
         }
       ]
     }
