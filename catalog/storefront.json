@@ -2,7 +2,7 @@
   "meta": {
     "title": "Casa Bert Mini App",
     "subtitle": "Catálogo dinámico",
-    "updatedAt": "19/02/2026 18:52",
+    "updatedAt": "19/02/2026 19:54",
     "cacheSeconds": 180
   },
   "brand": {
@@ -39,1032 +39,6 @@
   },
   "catalog": [
     {
-      "name": "Granos y superfoods",
-      "id": "C1",
-      "emoji": "🌾",
-      "shortDescription": "Energía limpia y nutrición diaria",
-      "longDescription": "",
-      "url": "",
-      "color": "",
-      "refs": 0,
-      "items": [
-        {
-          "name": "AMARANTO",
-          "id": "12",
-          "key": "12",
-          "fotoUrl": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/AMARANTO.png",
-          "img": {
-            "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Failidmx%2FBertClient%40main%2Fimg%2Fproduct%2FAMARANTO.png&w=320&h=320&fit=cover&q=72&output=webp",
-            "fullSize": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/AMARANTO.png"
-          },
-          "description": "Fuerza ancestral y nutrición densa",
-          "shortDescription": "Fuerza ancestral y nutrición densa",
-          "longDescription": "El amaranto es un grano tradicional rico en proteína vegetal y minerales esenciales.",
-          "price": 15.0,
-          "weight": 50.0,
-          "unit": "g",
-          "peso": "50 g",
-          "category_id": "C1"
-        },
-        {
-          "name": "AMOROZ AMARANTO CHICO",
-          "id": "13",
-          "key": "13",
-          "fotoUrl": "https://raw.githubusercontent.com/ailidmx/BertClient/main/img/product/AMARNATO-CHICO.png",
-          "img": {
-            "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Failidmx%2FBertClient%2Fmain%2Fimg%2Fproduct%2FAMARNATO-CHICO.png&w=320&h=320&fit=cover&q=72&output=webp",
-            "fullSize": "https://raw.githubusercontent.com/ailidmx/BertClient/main/img/product/AMARNATO-CHICO.png"
-          },
-          "description": "Energía dulce ancestral",
-          "shortDescription": "Energía dulce ancestral",
-          "longDescription": "Pequeñas barras de amaranto que combinan tradición y energía práctica para el día.",
-          "price": 15.0,
-          "weight": 2.0,
-          "unit": "pieza",
-          "peso": "2 pieza",
-          "category_id": "C1"
-        },
-        {
-          "name": "ARROZ INTEGRAL",
-          "id": "19",
-          "key": "19",
-          "fotoUrl": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/ARROZ-INTEGRAL.png",
-          "img": {
-            "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Failidmx%2FBertClient%40main%2Fimg%2Fproduct%2FARROZ-INTEGRAL.png&w=320&h=320&fit=cover&q=72&output=webp",
-            "fullSize": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/ARROZ-INTEGRAL.png"
-          },
-          "description": "Energía estable y natural",
-          "shortDescription": "Energía estable y natural",
-          "longDescription": "El arroz integral conserva fibra y nutrientes para una energía progresiva.",
-          "price": 15.0,
-          "weight": 280.0,
-          "unit": "g",
-          "peso": "280 g",
-          "category_id": "C1"
-        },
-        {
-          "name": "AVENA INTEGRAL GRANDE",
-          "id": "23",
-          "key": "23",
-          "fotoUrl": "",
-          "img": {
-            "thumbnail": "",
-            "fullSize": ""
-          },
-          "description": "Energía prolongada y bienestar digestivo",
-          "shortDescription": "Energía prolongada y bienestar digestivo",
-          "longDescription": "La avena integral ayuda a mantener energía constante durante la mañana.",
-          "price": 15.0,
-          "weight": 350.0,
-          "unit": "g",
-          "peso": "350 g",
-          "category_id": "C1"
-        },
-        {
-          "name": "CHIA DELGADA",
-          "id": "63",
-          "key": "63",
-          "fotoUrl": "",
-          "img": {
-            "thumbnail": "",
-            "fullSize": ""
-          },
-          "description": "Fibra esencial y equilibrio natural",
-          "shortDescription": "Fibra esencial y equilibrio natural",
-          "longDescription": "Rica en fibra y ácidos grasos esenciales, la chía favorece la saciedad y el equilibrio digestivo. Fácil de incorporar en smoothies y desayunos.",
-          "price": 15.0,
-          "weight": 65.0,
-          "unit": "g",
-          "peso": "65 g",
-          "category_id": "C1"
-        },
-        {
-          "name": "GRANOLA SANTA MAURA",
-          "id": "105",
-          "key": "105",
-          "fotoUrl": "",
-          "img": {
-            "thumbnail": "",
-            "fullSize": ""
-          },
-          "description": "Energía completa y equilibrada",
-          "shortDescription": "Energía completa y equilibrada",
-          "longDescription": "Mezcla de cereales y semillas para energía sostenida.",
-          "price": 15.0,
-          "weight": 75.0,
-          "unit": "g",
-          "peso": "75 g",
-          "category_id": "C1"
-        },
-        {
-          "name": "HARINA DE AMARANTO",
-          "id": "109",
-          "key": "109",
-          "fotoUrl": "",
-          "img": {
-            "thumbnail": "",
-            "fullSize": ""
-          },
-          "description": "Nutrición ancestral en cada receta",
-          "shortDescription": "Nutrición ancestral en cada receta",
-          "longDescription": "Enriquece recetas con proteína vegetal natural.",
-          "price": 15.0,
-          "weight": 40.0,
-          "unit": "g",
-          "peso": "40 g",
-          "category_id": "C1"
-        },
-        {
-          "name": "HARINA DE AVENA",
-          "id": "110",
-          "key": "110",
-          "fotoUrl": "",
-          "img": {
-            "thumbnail": "",
-            "fullSize": ""
-          },
-          "description": "Base nutritiva y versátil",
-          "shortDescription": "Base nutritiva y versátil",
-          "longDescription": "Conserva la fibra del grano para preparaciones equilibradas.",
-          "price": 15.0,
-          "weight": 110.0,
-          "unit": "g",
-          "peso": "110 g",
-          "category_id": "C1"
-        },
-        {
-          "name": "LINAZA",
-          "id": "133",
-          "key": "133",
-          "fotoUrl": "",
-          "img": {
-            "thumbnail": "",
-            "fullSize": ""
-          },
-          "description": "Energía vegetal y digestión ligera",
-          "shortDescription": "Energía vegetal y digestión ligera",
-          "longDescription": "Fuente natural de fibra y grasas saludables, la linaza aporta equilibrio y energía estable.",
-          "price": 15.0,
-          "weight": 100.0,
-          "unit": "g",
-          "peso": "100 g",
-          "category_id": "C1"
-        },
-        {
-          "name": "LINAZA MOLIDA",
-          "id": "134",
-          "key": "134",
-          "fotoUrl": "",
-          "img": {
-            "thumbnail": "",
-            "fullSize": ""
-          },
-          "description": "Nutrición activa y práctica",
-          "shortDescription": "Nutrición activa y práctica",
-          "longDescription": "La versión molida facilita la absorción de nutrientes y mejora la textura de preparaciones saludables.",
-          "price": 15.0,
-          "weight": 60.0,
-          "unit": "g",
-          "peso": "60 g",
-          "category_id": "C1"
-        },
-        {
-          "name": "POLEN",
-          "id": "174",
-          "key": "174",
-          "fotoUrl": "",
-          "img": {
-            "thumbnail": "",
-            "fullSize": ""
-          },
-          "description": "Nutrientes naturales concentrados",
-          "shortDescription": "Nutrientes naturales concentrados",
-          "longDescription": "Producto natural con densidad nutricional elevada.",
-          "price": 15.0,
-          "weight": 30.0,
-          "unit": "g",
-          "peso": "30 g",
-          "category_id": "C1"
-        },
-        {
-          "name": "QUINOA PERLADA",
-          "id": "177",
-          "key": "177",
-          "fotoUrl": "",
-          "img": {
-            "thumbnail": "",
-            "fullSize": ""
-          },
-          "description": "Proteína vegetal completa",
-          "shortDescription": "Proteína vegetal completa",
-          "longDescription": "La quinoa destaca por su aporte equilibrado de proteína vegetal y energía sostenida.",
-          "price": 15.0,
-          "weight": 85.0,
-          "unit": "g",
-          "peso": "85 g",
-          "category_id": "C1"
-        },
-        {
-          "name": "TAPIOCA",
-          "id": "190",
-          "key": "190",
-          "fotoUrl": "",
-          "img": {
-            "thumbnail": "",
-            "fullSize": ""
-          },
-          "description": "Energía ligera versátil",
-          "shortDescription": "Energía ligera versátil",
-          "longDescription": "Base suave ideal para postres y bebidas.",
-          "price": 15.0,
-          "weight": 100.0,
-          "unit": "g",
-          "peso": "100 g",
-          "category_id": "C1"
-        }
-      ]
-    },
-    {
-      "name": "Proteína vegetal",
-      "id": "C2",
-      "emoji": "💪",
-      "shortDescription": "Proteínas vegetales para comidas completas",
-      "longDescription": "",
-      "url": "",
-      "color": "",
-      "refs": 0,
-      "items": [
-        {
-          "name": "CHICHARRON DE SOYA",
-          "id": "64",
-          "key": "64",
-          "fotoUrl": "",
-          "img": {
-            "thumbnail": "",
-            "fullSize": ""
-          },
-          "description": "Proteína vegetal crujiente",
-          "shortDescription": "Proteína vegetal crujiente",
-          "longDescription": "Alternativa vegetal rica en proteína.",
-          "price": 15.0,
-          "weight": 25.0,
-          "unit": "g",
-          "peso": "25 g",
-          "category_id": "C2"
-        },
-        {
-          "name": "FRIJOL AYOCOTE PINTO",
-          "id": "84",
-          "key": "84",
-          "fotoUrl": "",
-          "img": {
-            "thumbnail": "",
-            "fullSize": ""
-          },
-          "description": "Proteína vegetal robusta",
-          "shortDescription": "Proteína vegetal robusta",
-          "longDescription": "Variante nutritiva rica en fibra y proteína vegetal.",
-          "price": 15.0,
-          "weight": 100.0,
-          "unit": "g",
-          "peso": "100 g",
-          "category_id": "C2"
-        },
-        {
-          "name": "FRIJOL NEGRO",
-          "id": "85",
-          "key": "85",
-          "fotoUrl": "",
-          "img": {
-            "thumbnail": "",
-            "fullSize": ""
-          },
-          "description": "Tradición nutritiva y energía completa",
-          "shortDescription": "Tradición nutritiva y energía completa",
-          "longDescription": "El frijol negro aporta proteína vegetal y minerales esenciales.",
-          "price": 15.0,
-          "weight": 370.0,
-          "unit": "g",
-          "peso": "370 g",
-          "category_id": "C2"
-        },
-        {
-          "name": "FRIJOL PERUANO HIGUERA",
-          "id": "86",
-          "key": "86",
-          "fotoUrl": "",
-          "img": {
-            "thumbnail": "",
-            "fullSize": ""
-          },
-          "description": "Energía vegetal equilibrada",
-          "shortDescription": "Energía vegetal equilibrada",
-          "longDescription": "Frijol versátil como base alimentaria tradicional.",
-          "price": 15.0,
-          "weight": 310.0,
-          "unit": "g",
-          "peso": "310 g",
-          "category_id": "C2"
-        },
-        {
-          "name": "FRIJOL TEXANO",
-          "id": "87",
-          "key": "87",
-          "fotoUrl": "",
-          "img": {
-            "thumbnail": "",
-            "fullSize": ""
-          },
-          "description": "Base nutritiva clásica",
-          "shortDescription": "Base nutritiva clásica",
-          "longDescription": "Fuente vegetal accesible y práctica.",
-          "price": 15.0,
-          "weight": 333.0,
-          "unit": "g",
-          "peso": "333 g",
-          "category_id": "C2"
-        },
-        {
-          "name": "GARBANZO",
-          "id": "101",
-          "key": "101",
-          "fotoUrl": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/GARBANZO.png",
-          "img": {
-            "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Failidmx%2FBertClient%40main%2Fimg%2Fproduct%2FGARBANZO.png&w=320&h=320&fit=cover&q=72&output=webp",
-            "fullSize": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/GARBANZO.png"
-          },
-          "description": "Proteína vegetal y saciedad",
-          "shortDescription": "Proteína vegetal y saciedad",
-          "longDescription": "El garbanzo aporta proteína vegetal y fibra para comidas equilibradas.",
-          "price": 15.0,
-          "weight": 250.0,
-          "unit": "g",
-          "peso": "250 g",
-          "category_id": "C2"
-        },
-        {
-          "name": "HABA PELADA",
-          "id": "108",
-          "key": "108",
-          "fotoUrl": "",
-          "img": {
-            "thumbnail": "",
-            "fullSize": ""
-          },
-          "description": "Nutrición vegetal ligera",
-          "shortDescription": "Nutrición vegetal ligera",
-          "longDescription": "Fuente de proteína vegetal y fibra.",
-          "price": 15.0,
-          "weight": 85.0,
-          "unit": "g",
-          "peso": "85 g",
-          "category_id": "C2"
-        },
-        {
-          "name": "LENTEJA GRANDE",
-          "id": "131",
-          "key": "131",
-          "fotoUrl": "",
-          "img": {
-            "thumbnail": "",
-            "fullSize": ""
-          },
-          "description": "Energía nutritiva y balanceada",
-          "shortDescription": "Energía nutritiva y balanceada",
-          "longDescription": "Rica en proteína vegetal, la lenteja es base de una alimentación consciente.",
-          "price": 15.0,
-          "weight": 300.0,
-          "unit": "g",
-          "peso": "300 g",
-          "category_id": "C2"
-        },
-        {
-          "name": "SOYA TEXTURIZADA",
-          "id": "186",
-          "key": "186",
-          "fotoUrl": "",
-          "img": {
-            "thumbnail": "",
-            "fullSize": ""
-          },
-          "description": "",
-          "shortDescription": "",
-          "longDescription": "",
-          "price": 15.0,
-          "weight": 125.0,
-          "unit": "g",
-          "peso": "125 g",
-          "category_id": "C2"
-        }
-      ]
-    },
-    {
-      "name": "Semillas y nueces",
-      "id": "C3",
-      "emoji": "🥜",
-      "shortDescription": "Grasas buenas, fibra y saciedad",
-      "longDescription": "",
-      "url": "",
-      "color": "",
-      "refs": 0,
-      "items": [
-        {
-          "name": "AJONJOLI NEGRO",
-          "id": "4",
-          "key": "4",
-          "fotoUrl": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/AJONJOLI_NEGRO.png",
-          "img": {
-            "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Failidmx%2FBertClient%40main%2Fimg%2Fproduct%2FAJONJOLI_NEGRO.png&w=320&h=320&fit=cover&q=72&output=webp",
-            "fullSize": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/AJONJOLI_NEGRO.png"
-          },
-          "description": "Minerales y energía vegetal",
-          "shortDescription": "Minerales y energía vegetal",
-          "longDescription": "El ajonjolí negro es una semilla rica en grasas saludables y minerales naturales. Ideal para aportar textura, sabor y valor nutricional a preparaciones equilibradas.",
-          "price": 15.0,
-          "weight": 30.0,
-          "unit": "g",
-          "peso": "30 g",
-          "category_id": "C3"
-        },
-        {
-          "name": "AJONJOLI SIN CUTICULA",
-          "id": "5",
-          "key": "5",
-          "fotoUrl": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/AJONJOLI_SIN_CUTICULA.png",
-          "img": {
-            "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Failidmx%2FBertClient%40main%2Fimg%2Fproduct%2FAJONJOLI_SIN_CUTICULA.png&w=320&h=320&fit=cover&q=72&output=webp",
-            "fullSize": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/AJONJOLI_SIN_CUTICULA.png"
-          },
-          "description": "Energía ligera y versátil",
-          "shortDescription": "Energía ligera y versátil",
-          "longDescription": "Semilla suave y fácil de integrar en recetas dulces o saladas. Fuente natural de grasas saludables y proteína vegetal.",
-          "price": 15.0,
-          "weight": 75.0,
-          "unit": "g",
-          "peso": "75 g",
-          "category_id": "C3"
-        },
-        {
-          "name": "ALMENDRA EN POLVO",
-          "id": "8",
-          "key": "8",
-          "fotoUrl": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/ALMENDRA-EN-POLVO.png",
-          "img": {
-            "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Failidmx%2FBertClient%40main%2Fimg%2Fproduct%2FALMENDRA-EN-POLVO.png&w=320&h=320&fit=cover&q=72&output=webp",
-            "fullSize": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/ALMENDRA-EN-POLVO.png"
-          },
-          "description": "Nutrición versátil y ligera",
-          "shortDescription": "Nutrición versátil y ligera",
-          "longDescription": "La almendra en polvo conserva los beneficios naturales del fruto entero en una forma práctica y versátil. Rica en grasas saludables y proteína vegetal, es perfecta para smoothies, repostería consciente o preparaciones saludables.",
-          "price": 15.0,
-          "weight": 30.0,
-          "unit": "g",
-          "peso": "30 g",
-          "category_id": "C3"
-        },
-        {
-          "name": "ALMENDRA ENTERA",
-          "id": "9",
-          "key": "9",
-          "fotoUrl": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/ALMENDRA-ENTERA.PNG",
-          "img": {
-            "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Failidmx%2FBertClient%40main%2Fimg%2Fproduct%2FALMENDRA-ENTERA.PNG&w=320&h=320&fit=cover&q=72&output=webp",
-            "fullSize": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/ALMENDRA-ENTERA.PNG"
-          },
-          "description": "Energía limpia y saciedad natural",
-          "shortDescription": "Energía limpia y saciedad natural",
-          "longDescription": "La almendra entera aporta energía estable gracias a su contenido natural en grasas saludables, fibra y proteína vegetal. Ideal como snack práctico o complemento en desayunos y ensaladas. Un alimento simple, nutritivo y accesible que ayuda a mantener el equilibrio y la saciedad durante el día.",
-          "price": 15.0,
-          "weight": 30.0,
-          "unit": "g",
-          "peso": "30 g",
-          "category_id": "C3"
-        },
-        {
-          "name": "AVELLANA PELADA",
-          "id": "22",
-          "key": "22",
-          "fotoUrl": "",
-          "img": {
-            "thumbnail": "",
-            "fullSize": ""
-          },
-          "description": "Energía suave y antioxidante natural",
-          "shortDescription": "Energía suave y antioxidante natural",
-          "longDescription": "La avellana pelada combina sabor y nutrición en un formato práctico. Fuente natural de grasas saludables y antioxidantes, aporta energía progresiva sin picos bruscos.",
-          "price": 15.0,
-          "weight": 25.0,
-          "unit": "g",
-          "peso": "25 g",
-          "category_id": "C3"
-        },
-        {
-          "name": "NUEZ DE CASTILLA",
-          "id": "152",
-          "key": "152",
-          "fotoUrl": "",
-          "img": {
-            "thumbnail": "",
-            "fullSize": ""
-          },
-          "description": "Fuerza vegetal y equilibrio",
-          "shortDescription": "Fuerza vegetal y equilibrio",
-          "longDescription": "La nuez de Castilla destaca por su riqueza en ácidos grasos esenciales y nutrientes clave. Su perfil natural favorece la energía sostenida y el bienestar general.",
-          "price": 15.0,
-          "weight": 25.0,
-          "unit": "g",
-          "peso": "25 g",
-          "category_id": "C3"
-        },
-        {
-          "name": "NUEZ DE LA INDIA CON SAL",
-          "id": "153",
-          "key": "153",
-          "fotoUrl": "",
-          "img": {
-            "thumbnail": "",
-            "fullSize": ""
-          },
-          "description": "Energía premium salada",
-          "shortDescription": "Energía premium salada",
-          "longDescription": "Nuez de la India con sal que aporta grasas saludables y textura firme.",
-          "price": 15.0,
-          "weight": 30.0,
-          "unit": "g",
-          "peso": "30 g",
-          "category_id": "C3"
-        },
-        {
-          "name": "NUEZ MITADES",
-          "id": "154",
-          "key": "154",
-          "fotoUrl": "",
-          "img": {
-            "thumbnail": "",
-            "fullSize": ""
-          },
-          "description": "Energía completa y natural",
-          "shortDescription": "Energía completa y natural",
-          "longDescription": "Las mitades de nuez son una opción práctica y nutritiva para el día a día. Ricas en grasas saludables y fibra, ayudan a mantener la saciedad.",
-          "price": 15.0,
-          "weight": 25.0,
-          "unit": "g",
-          "peso": "25 g",
-          "category_id": "C3"
-        },
-        {
-          "name": "NUEZ MIXTA",
-          "id": "155",
-          "key": "155",
-          "fotoUrl": "",
-          "img": {
-            "thumbnail": "",
-            "fullSize": ""
-          },
-          "description": "Nutrición variada y balanceada",
-          "shortDescription": "Nutrición variada y balanceada",
-          "longDescription": "La nuez mixta ofrece una combinación equilibrada de frutos secos que aportan grasas saludables y energía sostenida en un formato práctico.",
-          "price": 15.0,
-          "weight": 60.0,
-          "unit": "g",
-          "peso": "60 g",
-          "category_id": "C3"
-        },
-        {
-          "name": "PEPITA CALABAZA CRUDA IMPORTADA",
-          "id": "166",
-          "key": "166",
-          "fotoUrl": "",
-          "img": {
-            "thumbnail": "",
-            "fullSize": ""
-          },
-          "description": "Minerales esenciales y energía natural",
-          "shortDescription": "Minerales esenciales y energía natural",
-          "longDescription": "Rica en grasas saludables y proteína vegetal.",
-          "price": 15.0,
-          "weight": 50.0,
-          "unit": "g",
-          "peso": "50 g",
-          "category_id": "C3"
-        },
-        {
-          "name": "PISTACHE CHIO",
-          "id": "172",
-          "key": "172",
-          "fotoUrl": "",
-          "img": {
-            "thumbnail": "",
-            "fullSize": ""
-          },
-          "description": "Energía crujiente premium",
-          "shortDescription": "Energía crujiente premium",
-          "longDescription": "Fuente vegetal rica en grasas saludables.",
-          "price": 15.0,
-          "weight": 30.0,
-          "unit": "g",
-          "peso": "30 g",
-          "category_id": "C3"
-        },
-        {
-          "name": "SEMILLA ALFALFA ATOYAC",
-          "id": "182",
-          "key": "182",
-          "fotoUrl": "",
-          "img": {
-            "thumbnail": "",
-            "fullSize": ""
-          },
-          "description": "",
-          "shortDescription": "",
-          "longDescription": "",
-          "price": 15.0,
-          "weight": 40.0,
-          "unit": "g",
-          "peso": "40 g",
-          "category_id": "C3"
-        },
-        {
-          "name": "SEMILLA GIRASOL CRUDA IMPORTADA",
-          "id": "183",
-          "key": "183",
-          "fotoUrl": "",
-          "img": {
-            "thumbnail": "",
-            "fullSize": ""
-          },
-          "description": "Energía ligera y nutritiva",
-          "shortDescription": "Energía ligera y nutritiva",
-          "longDescription": "Fuente natural de vitamina E y grasas saludables.",
-          "price": 15.0,
-          "weight": 60.0,
-          "unit": "g",
-          "peso": "60 g",
-          "category_id": "C3"
-        }
-      ]
-    },
-    {
-      "name": "Fruta natural/deshidratada",
-      "id": "C4",
-      "emoji": "🍓",
-      "shortDescription": "Dulzor natural para snack saludable",
-      "longDescription": "",
-      "url": "",
-      "color": "",
-      "refs": 0,
-      "items": [
-        {
-          "name": "ARANDANO OCEAN",
-          "id": "16",
-          "key": "16",
-          "fotoUrl": "",
-          "img": {
-            "thumbnail": "",
-            "fullSize": ""
-          },
-          "description": "Antioxidantes y energía ligera",
-          "shortDescription": "Antioxidantes y energía ligera",
-          "longDescription": "El arándano deshidratado aporta sabor y compuestos antioxidantes naturales en un formato práctico para el día a día.",
-          "price": 15.0,
-          "weight": 65.0,
-          "unit": "g",
-          "peso": "65 g",
-          "category_id": "C4"
-        },
-        {
-          "name": "CHABACANO ENTERO",
-          "id": "62",
-          "key": "62",
-          "fotoUrl": "",
-          "img": {
-            "thumbnail": "",
-            "fullSize": ""
-          },
-          "description": "Dulzor natural concentrado",
-          "shortDescription": "Dulzor natural concentrado",
-          "longDescription": "Fruta deshidratada con fibra y energía práctica.",
-          "price": 15.0,
-          "weight": 25.0,
-          "unit": "g",
-          "peso": "25 g",
-          "category_id": "C4"
-        },
-        {
-          "name": "CIRUELA PASA S/HUESO",
-          "id": "70",
-          "key": "70",
-          "fotoUrl": "",
-          "img": {
-            "thumbnail": "",
-            "fullSize": ""
-          },
-          "description": "Fibra natural y digestión ligera",
-          "shortDescription": "Fibra natural y digestión ligera",
-          "longDescription": "La ciruela pasa es conocida por su aporte natural de fibra. Su sabor dulce y textura suave la hacen ideal como snack funcional.",
-          "price": 15.0,
-          "weight": 50.0,
-          "unit": "g",
-          "peso": "50 g",
-          "category_id": "C4"
-        },
-        {
-          "name": "DATIL GRANDE MEDJOOL",
-          "id": "83",
-          "key": "83",
-          "fotoUrl": "",
-          "img": {
-            "thumbnail": "",
-            "fullSize": ""
-          },
-          "description": "Energía natural inmediata",
-          "shortDescription": "Energía natural inmediata",
-          "longDescription": "El dátil Medjool es una fuente natural de energía gracias a sus azúcares propios. Ideal para recargar vitalidad antes o después de actividad física.",
-          "price": 15.0,
-          "weight": 50.0,
-          "unit": "g",
-          "peso": "50 g",
-          "category_id": "C4"
-        },
-        {
-          "name": "MANZANA DESHIDRATADA ANILLOS",
-          "id": "148",
-          "key": "148",
-          "fotoUrl": "",
-          "img": {
-            "thumbnail": "",
-            "fullSize": ""
-          },
-          "description": "Dulzor natural y fibra",
-          "shortDescription": "Dulzor natural y fibra",
-          "longDescription": "Snack práctico con aporte natural de fibra.",
-          "price": 15.0,
-          "weight": 45.0,
-          "unit": "g",
-          "peso": "45 g",
-          "category_id": "C4"
-        },
-        {
-          "name": "PLATANO DESHYDRATADO",
-          "id": "173",
-          "key": "173",
-          "fotoUrl": "",
-          "img": {
-            "thumbnail": "",
-            "fullSize": ""
-          },
-          "description": "Energía rápida y natural",
-          "shortDescription": "Energía rápida y natural",
-          "longDescription": "Ideal antes o después de actividad física.",
-          "price": 15.0,
-          "weight": 30.0,
-          "unit": "g",
-          "peso": "30 g",
-          "category_id": "C4"
-        },
-        {
-          "name": "UVA PASA MEDIANA",
-          "id": "200",
-          "key": "200",
-          "fotoUrl": "",
-          "img": {
-            "thumbnail": "",
-            "fullSize": ""
-          },
-          "description": "Dulzor natural y energía",
-          "shortDescription": "Dulzor natural y energía",
-          "longDescription": "Fruta deshidratada con aporte natural de energía.",
-          "price": 15.0,
-          "weight": 80.0,
-          "unit": "g",
-          "peso": "80 g",
-          "category_id": "C4"
-        }
-      ]
-    },
-    {
-      "name": "Opciones sin azúcar",
-      "id": "C5",
-      "emoji": "🚫🍬",
-      "shortDescription": "Sabor sin azúcar añadida",
-      "longDescription": "",
-      "url": "",
-      "color": "",
-      "refs": 0,
-      "items": [
-        {
-          "name": "CHOCOLATE AMARGO S/ AZUCAR",
-          "id": "69",
-          "key": "69",
-          "fotoUrl": "",
-          "img": {
-            "thumbnail": "",
-            "fullSize": ""
-          },
-          "description": "Intensidad pura y antioxidante",
-          "shortDescription": "Intensidad pura y antioxidante",
-          "longDescription": "El chocolate amargo sin azúcar ofrece sabor profundo y compuestos naturales del cacao.",
-          "price": 15.0,
-          "weight": 15.0,
-          "unit": "g",
-          "peso": "15 g",
-          "category_id": "C5"
-        }
-      ]
-    },
-    {
-      "name": "Cacahuates",
-      "id": "C6",
-      "emoji": "🥜",
-      "shortDescription": "El clásico antojo crujiente",
-      "longDescription": "",
-      "url": "",
-      "color": "",
-      "refs": 0,
-      "items": [
-        {
-          "name": "CACAHUATE C/CARAMEL",
-          "id": "32",
-          "key": "32",
-          "fotoUrl": "",
-          "img": {
-            "thumbnail": "",
-            "fullSize": ""
-          },
-          "description": "Energía dulce y crujiente",
-          "shortDescription": "Energía dulce y crujiente",
-          "longDescription": "El cacahuate con caramelo mezcla proteína vegetal con recubrimiento dulce crujiente.",
-          "price": 15.0,
-          "weight": 2.0,
-          "unit": "pieza",
-          "peso": "2 pieza",
-          "category_id": "C6"
-        },
-        {
-          "name": "CACAHUATE DORADO",
-          "id": "33",
-          "key": "33",
-          "fotoUrl": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/CACAHUATE%20DORADO.png",
-          "img": {
-            "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Failidmx%2FBertClient%40main%2Fimg%2Fproduct%2FCACAHUATE%2520DORADO.png&w=320&h=320&fit=cover&q=72&output=webp",
-            "fullSize": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/CACAHUATE%20DORADO.png"
-          },
-          "description": "Energía vegetal crujiente",
-          "shortDescription": "Energía vegetal crujiente",
-          "longDescription": "Cacahuate tostado que aporta proteína vegetal y grasas saludables en formato práctico.",
-          "price": 15.0,
-          "weight": 90.0,
-          "unit": "g",
-          "peso": "90 g",
-          "category_id": "C6"
-        },
-        {
-          "name": "CACAHUATE ENCHILADO GRANDE",
-          "id": "34",
-          "key": "34",
-          "fotoUrl": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/CACAHUATE%20ENCHILADO%20GRANDE.png",
-          "img": {
-            "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Failidmx%2FBertClient%40main%2Fimg%2Fproduct%2FCACAHUATE%2520ENCHILADO%2520GRANDE.png&w=320&h=320&fit=cover&q=72&output=webp",
-            "fullSize": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/CACAHUATE%20ENCHILADO%20GRANDE.png"
-          },
-          "description": "Energía con intensidad",
-          "shortDescription": "Energía con intensidad",
-          "longDescription": "Perfil picante y energético.",
-          "price": 15.0,
-          "weight": 90.0,
-          "unit": "g",
-          "peso": "90 g",
-          "category_id": "C6"
-        },
-        {
-          "name": "CACAHUATE GARAMPINADO",
-          "id": "35",
-          "key": "35",
-          "fotoUrl": "",
-          "img": {
-            "thumbnail": "",
-            "fullSize": ""
-          },
-          "description": "Dulce crujiente tradicional",
-          "shortDescription": "Dulce crujiente tradicional",
-          "longDescription": "Mezcla clásica de energía y textura.",
-          "price": 15.0,
-          "weight": 90.0,
-          "unit": "g",
-          "peso": "90 g",
-          "category_id": "C6"
-        },
-        {
-          "name": "CACAHUATE JAPONES HOT NUT",
-          "id": "36",
-          "key": "36",
-          "fotoUrl": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/CACAHUATE%20JAPONES%20HOT%20NUT.png",
-          "img": {
-            "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Failidmx%2FBertClient%40main%2Fimg%2Fproduct%2FCACAHUATE%2520JAPONES%2520HOT%2520NUT.png&w=320&h=320&fit=cover&q=72&output=webp",
-            "fullSize": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/CACAHUATE%20JAPONES%20HOT%20NUT.png"
-          },
-          "description": "Crujiente intenso y energético",
-          "shortDescription": "Crujiente intenso y energético",
-          "longDescription": "Textura firme con sabor especiado.",
-          "price": 15.0,
-          "weight": 90.0,
-          "unit": "g",
-          "peso": "90 g",
-          "category_id": "C6"
-        },
-        {
-          "name": "CACAHUATE JAPONES HOT QUESO",
-          "id": "37",
-          "key": "37",
-          "fotoUrl": "",
-          "img": {
-            "thumbnail": "",
-            "fullSize": ""
-          },
-          "description": "Crujiente intenso y sabroso",
-          "shortDescription": "Crujiente intenso y sabroso",
-          "longDescription": "Cacahuate con cubierta crujiente sabor queso, ideal como botana energética.",
-          "price": 15.0,
-          "weight": 90.0,
-          "unit": "g",
-          "peso": "90 g",
-          "category_id": "C6"
-        },
-        {
-          "name": "CACAHUATE JAPONES SIMPLE DELAROSA",
-          "id": "38",
-          "key": "38",
-          "fotoUrl": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/CACAHUATE%20JAPONES%20SIMPLE%20DELAROSA.png",
-          "img": {
-            "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Failidmx%2FBertClient%40main%2Fimg%2Fproduct%2FCACAHUATE%2520JAPONES%2520SIMPLE%2520DELAROSA.png&w=320&h=320&fit=cover&q=72&output=webp",
-            "fullSize": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/CACAHUATE%20JAPONES%20SIMPLE%20DELAROSA.png"
-          },
-          "description": "Crujiente clásico tradicional",
-          "shortDescription": "Crujiente clásico tradicional",
-          "longDescription": "Versión tradicional del cacahuate japonés con textura firme y energética.",
-          "price": 15.0,
-          "weight": 90.0,
-          "unit": "g",
-          "peso": "90 g",
-          "category_id": "C6"
-        },
-        {
-          "name": "CACAHUATE JUMBO C/ CUTICULA",
-          "id": "39",
-          "key": "39",
-          "fotoUrl": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/CACAHUATE%20CASCARITA.png",
-          "img": {
-            "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Failidmx%2FBertClient%40main%2Fimg%2Fproduct%2FCACAHUATE%2520CASCARITA.png&w=320&h=320&fit=cover&q=72&output=webp",
-            "fullSize": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/CACAHUATE%20CASCARITA.png"
-          },
-          "description": "Energía clásica y natural",
-          "shortDescription": "Energía clásica y natural",
-          "longDescription": "Fuente natural de proteína vegetal.",
-          "price": 15.0,
-          "weight": 90.0,
-          "unit": "g",
-          "peso": "90 g",
-          "category_id": "C6"
-        },
-        {
-          "name": "CACAHUATE MACHO GRANDE",
-          "id": "40",
-          "key": "40",
-          "fotoUrl": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/CACAHUATE%20MACHO%20GRANDE.png",
-          "img": {
-            "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Failidmx%2FBertClient%40main%2Fimg%2Fproduct%2FCACAHUATE%2520MACHO%2520GRANDE.png&w=320&h=320&fit=cover&q=72&output=webp",
-            "fullSize": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/CACAHUATE%20MACHO%20GRANDE.png"
-          },
-          "description": "Energía potente natural",
-          "shortDescription": "Energía potente natural",
-          "longDescription": "Cacahuate de mayor tamaño con perfil tostado intenso y textura firme.",
-          "price": 15.0,
-          "weight": 90.0,
-          "unit": "g",
-          "peso": "90 g",
-          "category_id": "C6"
-        },
-        {
-          "name": "CACAHUATE MARTAJADO",
-          "id": "41",
-          "key": "41",
-          "fotoUrl": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/CACAHUATE%20MARTAJADO.png",
-          "img": {
-            "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Failidmx%2FBertClient%40main%2Fimg%2Fproduct%2FCACAHUATE%2520MARTAJADO.png&w=320&h=320&fit=cover&q=72&output=webp",
-            "fullSize": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/CACAHUATE%20MARTAJADO.png"
-          },
-          "description": "Intensidad crujiente picante",
-          "shortDescription": "Intensidad crujiente picante",
-          "longDescription": "Cacahuate triturado con carácter especiado y energía práctica.",
-          "price": 15.0,
-          "weight": 90.0,
-          "unit": "g",
-          "peso": "90 g",
-          "category_id": "C6"
-        }
-      ]
-    },
-    {
       "name": "Botanas saladas",
       "id": "C7",
       "emoji": "🧂",
@@ -1072,7 +46,7 @@
       "longDescription": "",
       "url": "",
       "color": "",
-      "refs": 0,
+      "refs": 18,
       "items": [
         {
           "name": "BOTANA MIXTA",
@@ -1401,266 +375,194 @@
       ]
     },
     {
-      "name": "Snacks enchilados/deshidratados",
-      "id": "C9",
-      "emoji": "🌶️",
-      "shortDescription": "Picante rico con toque mexicano",
+      "name": "Cacahuates",
+      "id": "C6",
+      "emoji": "🥜",
+      "shortDescription": "El clásico antojo crujiente",
       "longDescription": "",
       "url": "",
       "color": "",
-      "refs": 0,
+      "refs": 10,
       "items": [
         {
-          "name": "BETABEL DESHIDRATADO",
-          "id": "26",
-          "key": "26",
-          "fotoUrl": "https://raw.githubusercontent.com/ailidmx/BertClient/main/img/product/BETABEL.png",
+          "name": "CACAHUATE C/CARAMEL",
+          "id": "32",
+          "key": "32",
+          "fotoUrl": "",
           "img": {
-            "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Failidmx%2FBertClient%2Fmain%2Fimg%2Fproduct%2FBETABEL.png&w=320&h=320&fit=cover&q=72&output=webp",
-            "fullSize": "https://raw.githubusercontent.com/ailidmx/BertClient/main/img/product/BETABEL.png"
+            "thumbnail": "",
+            "fullSize": ""
+          },
+          "description": "Energía dulce y crujiente",
+          "shortDescription": "Energía dulce y crujiente",
+          "longDescription": "El cacahuate con caramelo mezcla proteína vegetal con recubrimiento dulce crujiente.",
+          "price": 15.0,
+          "weight": 2.0,
+          "unit": "pieza",
+          "peso": "2 pieza",
+          "category_id": "C6"
+        },
+        {
+          "name": "CACAHUATE DORADO",
+          "id": "33",
+          "key": "33",
+          "fotoUrl": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/CACAHUATE%20DORADO.png",
+          "img": {
+            "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Failidmx%2FBertClient%40main%2Fimg%2Fproduct%2FCACAHUATE%2520DORADO.png&w=320&h=320&fit=cover&q=72&output=webp",
+            "fullSize": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/CACAHUATE%20DORADO.png"
           },
           "description": "Energía vegetal crujiente",
           "shortDescription": "Energía vegetal crujiente",
-          "longDescription": "Alternativa vegetal práctica con aporte de fibra natural.",
+          "longDescription": "Cacahuate tostado que aporta proteína vegetal y grasas saludables en formato práctico.",
           "price": 15.0,
-          "weight": 30.0,
+          "weight": 90.0,
           "unit": "g",
-          "peso": "30 g",
-          "category_id": "C9"
+          "peso": "90 g",
+          "category_id": "C6"
         },
         {
-          "name": "CAMOTE ADOBADO",
-          "id": "47",
-          "key": "47",
+          "name": "CACAHUATE ENCHILADO GRANDE",
+          "id": "34",
+          "key": "34",
+          "fotoUrl": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/CACAHUATE%20ENCHILADO%20GRANDE.png",
+          "img": {
+            "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Failidmx%2FBertClient%40main%2Fimg%2Fproduct%2FCACAHUATE%2520ENCHILADO%2520GRANDE.png&w=320&h=320&fit=cover&q=72&output=webp",
+            "fullSize": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/CACAHUATE%20ENCHILADO%20GRANDE.png"
+          },
+          "description": "Energía con intensidad",
+          "shortDescription": "Energía con intensidad",
+          "longDescription": "Perfil picante y energético.",
+          "price": 15.0,
+          "weight": 90.0,
+          "unit": "g",
+          "peso": "90 g",
+          "category_id": "C6"
+        },
+        {
+          "name": "CACAHUATE GARAMPINADO",
+          "id": "35",
+          "key": "35",
           "fotoUrl": "",
           "img": {
             "thumbnail": "",
             "fullSize": ""
           },
-          "description": "Dulzor especiado natural",
-          "shortDescription": "Dulzor especiado natural",
-          "longDescription": "Camote con toque adobado que combina dulzor y carácter.",
+          "description": "Dulce crujiente tradicional",
+          "shortDescription": "Dulce crujiente tradicional",
+          "longDescription": "Mezcla clásica de energía y textura.",
           "price": 15.0,
-          "weight": 30.0,
+          "weight": 90.0,
           "unit": "g",
-          "peso": "30 g",
-          "category_id": "C9"
+          "peso": "90 g",
+          "category_id": "C6"
         },
         {
-          "name": "CAMOTE DESHIDRATADO",
-          "id": "48",
-          "key": "48",
+          "name": "CACAHUATE JAPONES HOT NUT",
+          "id": "36",
+          "key": "36",
+          "fotoUrl": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/CACAHUATE%20JAPONES%20HOT%20NUT.png",
+          "img": {
+            "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Failidmx%2FBertClient%40main%2Fimg%2Fproduct%2FCACAHUATE%2520JAPONES%2520HOT%2520NUT.png&w=320&h=320&fit=cover&q=72&output=webp",
+            "fullSize": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/CACAHUATE%20JAPONES%20HOT%20NUT.png"
+          },
+          "description": "Crujiente intenso y energético",
+          "shortDescription": "Crujiente intenso y energético",
+          "longDescription": "Textura firme con sabor especiado.",
+          "price": 15.0,
+          "weight": 90.0,
+          "unit": "g",
+          "peso": "90 g",
+          "category_id": "C6"
+        },
+        {
+          "name": "CACAHUATE JAPONES HOT QUESO",
+          "id": "37",
+          "key": "37",
           "fotoUrl": "",
           "img": {
             "thumbnail": "",
             "fullSize": ""
           },
-          "description": "Dulzor natural y energía estable",
-          "shortDescription": "Dulzor natural y energía estable",
-          "longDescription": "Fuente de carbohidratos naturales para energía progresiva.",
+          "description": "Crujiente intenso y sabroso",
+          "shortDescription": "Crujiente intenso y sabroso",
+          "longDescription": "Cacahuate con cubierta crujiente sabor queso, ideal como botana energética.",
           "price": 15.0,
-          "weight": 30.0,
+          "weight": 90.0,
           "unit": "g",
-          "peso": "30 g",
-          "category_id": "C9"
+          "peso": "90 g",
+          "category_id": "C6"
         },
         {
-          "name": "FRUTA PICADA",
-          "id": "90",
-          "key": "90",
-          "fotoUrl": "",
+          "name": "CACAHUATE JAPONES SIMPLE DELAROSA",
+          "id": "38",
+          "key": "38",
+          "fotoUrl": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/CACAHUATE%20JAPONES%20SIMPLE%20DELAROSA.png",
           "img": {
-            "thumbnail": "",
-            "fullSize": ""
+            "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Failidmx%2FBertClient%40main%2Fimg%2Fproduct%2FCACAHUATE%2520JAPONES%2520SIMPLE%2520DELAROSA.png&w=320&h=320&fit=cover&q=72&output=webp",
+            "fullSize": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/CACAHUATE%20JAPONES%20SIMPLE%20DELAROSA.png"
           },
-          "description": "Energía frutal práctica",
-          "shortDescription": "Energía frutal práctica",
-          "longDescription": "Mezcla de fruta deshidratada lista para consumo.",
+          "description": "Crujiente clásico tradicional",
+          "shortDescription": "Crujiente clásico tradicional",
+          "longDescription": "Versión tradicional del cacahuate japonés con textura firme y energética.",
           "price": 15.0,
-          "weight": 60.0,
+          "weight": 90.0,
           "unit": "g",
-          "peso": "60 g",
-          "category_id": "C9"
+          "peso": "90 g",
+          "category_id": "C6"
         },
         {
-          "name": "JAMAICA C/ CHILE",
-          "id": "119",
-          "key": "119",
-          "fotoUrl": "",
+          "name": "CACAHUATE JUMBO C/ CUTICULA",
+          "id": "39",
+          "key": "39",
+          "fotoUrl": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/CACAHUATE%20CASCARITA.png",
           "img": {
-            "thumbnail": "",
-            "fullSize": ""
+            "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Failidmx%2FBertClient%40main%2Fimg%2Fproduct%2FCACAHUATE%2520CASCARITA.png&w=320&h=320&fit=cover&q=72&output=webp",
+            "fullSize": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/CACAHUATE%20CASCARITA.png"
           },
-          "description": "Frescura con carácter",
-          "shortDescription": "Frescura con carácter",
-          "longDescription": "La jamaica con chile combina acidez refrescante con un toque vibrante.",
+          "description": "Energía clásica y natural",
+          "shortDescription": "Energía clásica y natural",
+          "longDescription": "Fuente natural de proteína vegetal.",
           "price": 15.0,
-          "weight": 20.0,
+          "weight": 90.0,
           "unit": "g",
-          "peso": "20 g",
-          "category_id": "C9"
+          "peso": "90 g",
+          "category_id": "C6"
         },
         {
-          "name": "JICAMA ADOBADA",
-          "id": "122",
-          "key": "122",
-          "fotoUrl": "",
+          "name": "CACAHUATE MACHO GRANDE",
+          "id": "40",
+          "key": "40",
+          "fotoUrl": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/CACAHUATE%20MACHO%20GRANDE.png",
           "img": {
-            "thumbnail": "",
-            "fullSize": ""
+            "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Failidmx%2FBertClient%40main%2Fimg%2Fproduct%2FCACAHUATE%2520MACHO%2520GRANDE.png&w=320&h=320&fit=cover&q=72&output=webp",
+            "fullSize": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/CACAHUATE%20MACHO%20GRANDE.png"
           },
-          "description": "Frescura natural con intensidad",
-          "shortDescription": "Frescura natural con intensidad",
-          "longDescription": "Botana ligera con toque especiado.",
+          "description": "Energía potente natural",
+          "shortDescription": "Energía potente natural",
+          "longDescription": "Cacahuate de mayor tamaño con perfil tostado intenso y textura firme.",
           "price": 15.0,
-          "weight": 30.0,
+          "weight": 90.0,
           "unit": "g",
-          "peso": "30 g",
-          "category_id": "C9"
+          "peso": "90 g",
+          "category_id": "C6"
         },
         {
-          "name": "JICAMA C/ LIMON",
-          "id": "123",
-          "key": "123",
-          "fotoUrl": "",
+          "name": "CACAHUATE MARTAJADO",
+          "id": "41",
+          "key": "41",
+          "fotoUrl": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/CACAHUATE%20MARTAJADO.png",
           "img": {
-            "thumbnail": "",
-            "fullSize": ""
+            "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Failidmx%2FBertClient%40main%2Fimg%2Fproduct%2FCACAHUATE%2520MARTAJADO.png&w=320&h=320&fit=cover&q=72&output=webp",
+            "fullSize": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/CACAHUATE%20MARTAJADO.png"
           },
-          "description": "Frescura cítrica ligera",
-          "shortDescription": "Frescura cítrica ligera",
-          "longDescription": "Snack vegetal con perfil ácido refrescante y textura ligera.",
+          "description": "Intensidad crujiente picante",
+          "shortDescription": "Intensidad crujiente picante",
+          "longDescription": "Cacahuate triturado con carácter especiado y energía práctica.",
           "price": 15.0,
-          "weight": 30.0,
+          "weight": 90.0,
           "unit": "g",
-          "peso": "30 g",
-          "category_id": "C9"
-        },
-        {
-          "name": "JICAMA FUEGO",
-          "id": "124",
-          "key": "124",
-          "fotoUrl": "",
-          "img": {
-            "thumbnail": "",
-            "fullSize": ""
-          },
-          "description": "Intensidad vegetal picante",
-          "shortDescription": "Intensidad vegetal picante",
-          "longDescription": "Jícama deshidratada con perfil especiado intenso.",
-          "price": 15.0,
-          "weight": 30.0,
-          "unit": "g",
-          "peso": "30 g",
-          "category_id": "C9"
-        },
-        {
-          "name": "JICAMA HABANERO",
-          "id": "125",
-          "key": "125",
-          "fotoUrl": "",
-          "img": {
-            "thumbnail": "",
-            "fullSize": ""
-          },
-          "description": "Picante vibrante vegetal",
-          "shortDescription": "Picante vibrante vegetal",
-          "longDescription": "Snack vegetal con toque habanero y carácter dinámico.",
-          "price": 15.0,
-          "weight": 30.0,
-          "unit": "g",
-          "peso": "30 g",
-          "category_id": "C9"
-        },
-        {
-          "name": "JICAMA QUESO",
-          "id": "126",
-          "key": "126",
-          "fotoUrl": "",
-          "img": {
-            "thumbnail": "",
-            "fullSize": ""
-          },
-          "description": "Frescura con sabor intenso",
-          "shortDescription": "Frescura con sabor intenso",
-          "longDescription": "Variante vegetal con perfil especiado.",
-          "price": 15.0,
-          "weight": 30.0,
-          "unit": "g",
-          "peso": "30 g",
-          "category_id": "C9"
-        },
-        {
-          "name": "JICAMA SALSAS NEGRAS",
-          "id": "127",
-          "key": "127",
-          "fotoUrl": "",
-          "img": {
-            "thumbnail": "",
-            "fullSize": ""
-          },
-          "description": "Vegetal vibrante",
-          "shortDescription": "Vegetal vibrante",
-          "longDescription": "Botana ligera con intensidad característica.",
-          "price": 15.0,
-          "weight": 0,
-          "unit": "g",
-          "peso": "",
-          "category_id": "C9"
-        },
-        {
-          "name": "MANGO NATURAL ENCHILADO PREMIER",
-          "id": "145",
-          "key": "145",
-          "fotoUrl": "",
-          "img": {
-            "thumbnail": "",
-            "fullSize": ""
-          },
-          "description": "Energía tropical con carácter",
-          "shortDescription": "Energía tropical con carácter",
-          "longDescription": "Mango deshidratado con equilibrio dulce-picante.",
-          "price": 15.0,
-          "weight": 40.0,
-          "unit": "g",
-          "peso": "40 g",
-          "category_id": "C9"
-        },
-        {
-          "name": "MANGO PETACON CHAMOY",
-          "id": "146",
-          "key": "146",
-          "fotoUrl": "",
-          "img": {
-            "thumbnail": "",
-            "fullSize": ""
-          },
-          "description": "Dulce picante tropical",
-          "shortDescription": "Dulce picante tropical",
-          "longDescription": "Mango con chamoy que combina dulzor y carácter.",
-          "price": 15.0,
-          "weight": 70.0,
-          "unit": "g",
-          "peso": "70 g",
-          "category_id": "C9"
-        },
-        {
-          "name": "PEPINO C/ SALSAS NEGRAS",
-          "id": "165",
-          "key": "165",
-          "fotoUrl": "",
-          "img": {
-            "thumbnail": "",
-            "fullSize": ""
-          },
-          "description": "Frescura intensa vegetal",
-          "shortDescription": "Frescura intensa vegetal",
-          "longDescription": "Pepino deshidratado con perfil especiado y ligero.",
-          "price": 15.0,
-          "weight": 30.0,
-          "unit": "g",
-          "peso": "30 g",
-          "category_id": "C9"
+          "peso": "90 g",
+          "category_id": "C6"
         }
       ]
     },
@@ -1672,7 +574,7 @@
       "longDescription": "",
       "url": "",
       "color": "",
-      "refs": 0,
+      "refs": 26,
       "items": [
         {
           "name": "ALMENDRA CON CHOCOLATE",
@@ -2145,6 +1047,72 @@
       ]
     },
     {
+      "name": "Extras (No alimentos)",
+      "id": "C21",
+      "emoji": "🧩",
+      "shortDescription": "Accesorios y extras de compra rápida",
+      "longDescription": "",
+      "url": "",
+      "color": "",
+      "refs": 3,
+      "items": [
+        {
+          "name": "GOMINA",
+          "id": "104",
+          "key": "104",
+          "fotoUrl": "",
+          "img": {
+            "thumbnail": "",
+            "fullSize": ""
+          },
+          "description": "Textura suave y dulce",
+          "shortDescription": "Textura suave y dulce",
+          "longDescription": "Dulce con consistencia firme y perfil clásico.",
+          "price": 15.0,
+          "weight": 60.0,
+          "unit": "g",
+          "peso": "60 g",
+          "category_id": "C21"
+        },
+        {
+          "name": "LIBRETA (PIEZA)",
+          "id": "132",
+          "key": "132",
+          "fotoUrl": "",
+          "img": {
+            "thumbnail": "",
+            "fullSize": ""
+          },
+          "description": "Organización práctica",
+          "shortDescription": "Organización práctica",
+          "longDescription": "Libreta funcional para planificación y notas cotidianas.",
+          "price": 15.0,
+          "weight": 1.0,
+          "unit": "pieza",
+          "peso": "1 pieza",
+          "category_id": "C21"
+        },
+        {
+          "name": "PULSERA",
+          "id": "176",
+          "key": "176",
+          "fotoUrl": "",
+          "img": {
+            "thumbnail": "",
+            "fullSize": ""
+          },
+          "description": "Detalle sencillo",
+          "shortDescription": "Detalle sencillo",
+          "longDescription": "Accesorio ligero ideal como pequeño detalle.",
+          "price": 15.0,
+          "weight": 1.0,
+          "unit": "pieza",
+          "peso": "1 pieza",
+          "category_id": "C21"
+        }
+      ]
+    },
+    {
       "name": "Galletas",
       "id": "C11",
       "emoji": "🍪",
@@ -2152,7 +1120,7 @@
       "longDescription": "",
       "url": "",
       "color": "",
-      "refs": 0,
+      "refs": 11,
       "items": [
         {
           "name": "GALLETA ANIMALITO",
@@ -2355,68 +1323,464 @@
       ]
     },
     {
-      "name": "Cereales comerciales",
-      "id": "C12",
-      "emoji": "🥣",
-      "shortDescription": "Cereales favoritos para snack rápido",
+      "name": "Semillas especiales",
+      "id": "C8",
+      "emoji": "🌱",
+      "shortDescription": "Semillas funcionales para uso específico",
       "longDescription": "",
       "url": "",
       "color": "",
-      "refs": 0,
+      "refs": 1,
       "items": [
         {
-          "name": "CEREAL FRUTIRUEDA (FROOT LOOPS)",
-          "id": "58",
-          "key": "58",
-          "fotoUrl": "",
+          "name": "ALPISTE SIMPLE",
+          "id": "10",
+          "key": "10",
+          "fotoUrl": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/ALPISTE_SIMPLE.png",
           "img": {
-            "thumbnail": "",
-            "fullSize": ""
+            "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Failidmx%2FBertClient%40main%2Fimg%2Fproduct%2FALPISTE_SIMPLE.png&w=320&h=320&fit=cover&q=72&output=webp",
+            "fullSize": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/ALPISTE_SIMPLE.png"
           },
-          "description": "Energía dulce y práctica",
-          "shortDescription": "Energía dulce y práctica",
-          "longDescription": "Cereal colorido que aporta energía rápida en desayunos prácticos.",
+          "description": "Energía vegetal ligera",
+          "shortDescription": "Energía vegetal ligera",
+          "longDescription": "El alpiste es una semilla ligera utilizada en preparaciones tradicionales. Aporta nutrientes naturales dentro de una alimentación consciente.",
           "price": 15.0,
-          "weight": 75.0,
+          "weight": 125.0,
           "unit": "g",
-          "peso": "75 g",
-          "category_id": "C12"
+          "peso": "125 g",
+          "category_id": "C8"
+        }
+      ]
+    },
+    {
+      "name": "Snacks enchilados/deshidratados",
+      "id": "C9",
+      "emoji": "🌶️",
+      "shortDescription": "Picante rico con toque mexicano",
+      "longDescription": "",
+      "url": "",
+      "color": "",
+      "refs": 14,
+      "items": [
+        {
+          "name": "BETABEL DESHIDRATADO",
+          "id": "26",
+          "key": "26",
+          "fotoUrl": "https://raw.githubusercontent.com/ailidmx/BertClient/main/img/product/BETABEL.png",
+          "img": {
+            "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Failidmx%2FBertClient%2Fmain%2Fimg%2Fproduct%2FBETABEL.png&w=320&h=320&fit=cover&q=72&output=webp",
+            "fullSize": "https://raw.githubusercontent.com/ailidmx/BertClient/main/img/product/BETABEL.png"
+          },
+          "description": "Energía vegetal crujiente",
+          "shortDescription": "Energía vegetal crujiente",
+          "longDescription": "Alternativa vegetal práctica con aporte de fibra natural.",
+          "price": 15.0,
+          "weight": 30.0,
+          "unit": "g",
+          "peso": "30 g",
+          "category_id": "C9"
         },
         {
-          "name": "CEREAL HOJUELA AZUCARADA",
-          "id": "59",
-          "key": "59",
+          "name": "CAMOTE ADOBADO",
+          "id": "47",
+          "key": "47",
           "fotoUrl": "",
           "img": {
             "thumbnail": "",
             "fullSize": ""
           },
-          "description": "Dulzor ligero matutino",
-          "shortDescription": "Dulzor ligero matutino",
-          "longDescription": "Hojuelas crujientes con perfil dulce clásico.",
+          "description": "Dulzor especiado natural",
+          "shortDescription": "Dulzor especiado natural",
+          "longDescription": "Camote con toque adobado que combina dulzor y carácter.",
           "price": 15.0,
-          "weight": 100.0,
+          "weight": 30.0,
           "unit": "g",
-          "peso": "100 g",
-          "category_id": "C12"
+          "peso": "30 g",
+          "category_id": "C9"
         },
         {
-          "name": "CEREAL RIKIRROZ MAIZORO (CHOCO KRISPIS)",
-          "id": "60",
-          "key": "60",
+          "name": "CAMOTE DESHIDRATADO",
+          "id": "48",
+          "key": "48",
           "fotoUrl": "",
           "img": {
             "thumbnail": "",
             "fullSize": ""
           },
-          "description": "Chocolate crujiente",
-          "shortDescription": "Chocolate crujiente",
-          "longDescription": "Cereal con perfil de cacao para desayunos energéticos.",
+          "description": "Dulzor natural y energía estable",
+          "shortDescription": "Dulzor natural y energía estable",
+          "longDescription": "Fuente de carbohidratos naturales para energía progresiva.",
           "price": 15.0,
-          "weight": 100.0,
+          "weight": 30.0,
           "unit": "g",
-          "peso": "100 g",
-          "category_id": "C12"
+          "peso": "30 g",
+          "category_id": "C9"
+        },
+        {
+          "name": "FRUTA PICADA",
+          "id": "90",
+          "key": "90",
+          "fotoUrl": "",
+          "img": {
+            "thumbnail": "",
+            "fullSize": ""
+          },
+          "description": "Energía frutal práctica",
+          "shortDescription": "Energía frutal práctica",
+          "longDescription": "Mezcla de fruta deshidratada lista para consumo.",
+          "price": 15.0,
+          "weight": 60.0,
+          "unit": "g",
+          "peso": "60 g",
+          "category_id": "C9"
+        },
+        {
+          "name": "JAMAICA C/ CHILE",
+          "id": "119",
+          "key": "119",
+          "fotoUrl": "",
+          "img": {
+            "thumbnail": "",
+            "fullSize": ""
+          },
+          "description": "Frescura con carácter",
+          "shortDescription": "Frescura con carácter",
+          "longDescription": "La jamaica con chile combina acidez refrescante con un toque vibrante.",
+          "price": 15.0,
+          "weight": 20.0,
+          "unit": "g",
+          "peso": "20 g",
+          "category_id": "C9"
+        },
+        {
+          "name": "JICAMA ADOBADA",
+          "id": "122",
+          "key": "122",
+          "fotoUrl": "",
+          "img": {
+            "thumbnail": "",
+            "fullSize": ""
+          },
+          "description": "Frescura natural con intensidad",
+          "shortDescription": "Frescura natural con intensidad",
+          "longDescription": "Botana ligera con toque especiado.",
+          "price": 15.0,
+          "weight": 30.0,
+          "unit": "g",
+          "peso": "30 g",
+          "category_id": "C9"
+        },
+        {
+          "name": "JICAMA C/ LIMON",
+          "id": "123",
+          "key": "123",
+          "fotoUrl": "",
+          "img": {
+            "thumbnail": "",
+            "fullSize": ""
+          },
+          "description": "Frescura cítrica ligera",
+          "shortDescription": "Frescura cítrica ligera",
+          "longDescription": "Snack vegetal con perfil ácido refrescante y textura ligera.",
+          "price": 15.0,
+          "weight": 30.0,
+          "unit": "g",
+          "peso": "30 g",
+          "category_id": "C9"
+        },
+        {
+          "name": "JICAMA FUEGO",
+          "id": "124",
+          "key": "124",
+          "fotoUrl": "",
+          "img": {
+            "thumbnail": "",
+            "fullSize": ""
+          },
+          "description": "Intensidad vegetal picante",
+          "shortDescription": "Intensidad vegetal picante",
+          "longDescription": "Jícama deshidratada con perfil especiado intenso.",
+          "price": 15.0,
+          "weight": 30.0,
+          "unit": "g",
+          "peso": "30 g",
+          "category_id": "C9"
+        },
+        {
+          "name": "JICAMA HABANERO",
+          "id": "125",
+          "key": "125",
+          "fotoUrl": "",
+          "img": {
+            "thumbnail": "",
+            "fullSize": ""
+          },
+          "description": "Picante vibrante vegetal",
+          "shortDescription": "Picante vibrante vegetal",
+          "longDescription": "Snack vegetal con toque habanero y carácter dinámico.",
+          "price": 15.0,
+          "weight": 30.0,
+          "unit": "g",
+          "peso": "30 g",
+          "category_id": "C9"
+        },
+        {
+          "name": "JICAMA QUESO",
+          "id": "126",
+          "key": "126",
+          "fotoUrl": "",
+          "img": {
+            "thumbnail": "",
+            "fullSize": ""
+          },
+          "description": "Frescura con sabor intenso",
+          "shortDescription": "Frescura con sabor intenso",
+          "longDescription": "Variante vegetal con perfil especiado.",
+          "price": 15.0,
+          "weight": 30.0,
+          "unit": "g",
+          "peso": "30 g",
+          "category_id": "C9"
+        },
+        {
+          "name": "JICAMA SALSAS NEGRAS",
+          "id": "127",
+          "key": "127",
+          "fotoUrl": "",
+          "img": {
+            "thumbnail": "",
+            "fullSize": ""
+          },
+          "description": "Vegetal vibrante",
+          "shortDescription": "Vegetal vibrante",
+          "longDescription": "Botana ligera con intensidad característica.",
+          "price": 15.0,
+          "weight": 0,
+          "unit": "g",
+          "peso": "",
+          "category_id": "C9"
+        },
+        {
+          "name": "MANGO NATURAL ENCHILADO PREMIER",
+          "id": "145",
+          "key": "145",
+          "fotoUrl": "",
+          "img": {
+            "thumbnail": "",
+            "fullSize": ""
+          },
+          "description": "Energía tropical con carácter",
+          "shortDescription": "Energía tropical con carácter",
+          "longDescription": "Mango deshidratado con equilibrio dulce-picante.",
+          "price": 15.0,
+          "weight": 40.0,
+          "unit": "g",
+          "peso": "40 g",
+          "category_id": "C9"
+        },
+        {
+          "name": "MANGO PETACON CHAMOY",
+          "id": "146",
+          "key": "146",
+          "fotoUrl": "",
+          "img": {
+            "thumbnail": "",
+            "fullSize": ""
+          },
+          "description": "Dulce picante tropical",
+          "shortDescription": "Dulce picante tropical",
+          "longDescription": "Mango con chamoy que combina dulzor y carácter.",
+          "price": 15.0,
+          "weight": 70.0,
+          "unit": "g",
+          "peso": "70 g",
+          "category_id": "C9"
+        },
+        {
+          "name": "PEPINO C/ SALSAS NEGRAS",
+          "id": "165",
+          "key": "165",
+          "fotoUrl": "",
+          "img": {
+            "thumbnail": "",
+            "fullSize": ""
+          },
+          "description": "Frescura intensa vegetal",
+          "shortDescription": "Frescura intensa vegetal",
+          "longDescription": "Pepino deshidratado con perfil especiado y ligero.",
+          "price": 15.0,
+          "weight": 30.0,
+          "unit": "g",
+          "peso": "30 g",
+          "category_id": "C9"
+        }
+      ]
+    },
+    {
+      "name": "Café",
+      "id": "C18",
+      "emoji": "☕",
+      "shortDescription": "Café para empezar o acompañar",
+      "longDescription": "",
+      "url": "",
+      "color": "",
+      "refs": 4,
+      "items": [
+        {
+          "name": "CACAO MOLIDO",
+          "id": "42",
+          "key": "42",
+          "fotoUrl": "",
+          "img": {
+            "thumbnail": "",
+            "fullSize": ""
+          },
+          "description": "Antioxidantes y energía natural",
+          "shortDescription": "Antioxidantes y energía natural",
+          "longDescription": "El cacao molido conserva compuestos naturales y sabor profundo para bebidas y recetas.",
+          "price": 15.0,
+          "weight": 25.0,
+          "unit": "g",
+          "peso": "25 g",
+          "category_id": "C18"
+        },
+        {
+          "name": "CAFE CON CHOCOLATE",
+          "id": "43",
+          "key": "43",
+          "fotoUrl": "",
+          "img": {
+            "thumbnail": "",
+            "fullSize": ""
+          },
+          "description": "Energía reconfortante",
+          "shortDescription": "Energía reconfortante",
+          "longDescription": "La combinación de café y chocolate ofrece un perfil intenso y estimulante.",
+          "price": 15.0,
+          "weight": 25.0,
+          "unit": "g",
+          "peso": "25 g",
+          "category_id": "C18"
+        },
+        {
+          "name": "CAFE GRANO TOST AMERICANO",
+          "id": "44",
+          "key": "44",
+          "fotoUrl": "",
+          "img": {
+            "thumbnail": "",
+            "fullSize": ""
+          },
+          "description": "",
+          "shortDescription": "",
+          "longDescription": "",
+          "price": 15.0,
+          "weight": 20.0,
+          "unit": "g",
+          "peso": "20 g",
+          "category_id": "C18"
+        },
+        {
+          "name": "CAFE SOLUBLE",
+          "id": "45",
+          "key": "45",
+          "fotoUrl": "",
+          "img": {
+            "thumbnail": "",
+            "fullSize": ""
+          },
+          "description": "Energía inmediata y práctica",
+          "shortDescription": "Energía inmediata y práctica",
+          "longDescription": "El café soluble permite disfrutar energía y enfoque en segundos, ideal para rutinas activas.",
+          "price": 15.0,
+          "weight": 16.0,
+          "unit": "g",
+          "peso": "16 g",
+          "category_id": "C18"
+        }
+      ]
+    },
+    {
+      "name": "Frutas tradicionales",
+      "id": "C17",
+      "emoji": "🍒",
+      "shortDescription": "Sabores clásicos y regionales",
+      "longDescription": "",
+      "url": "",
+      "color": "",
+      "refs": 4,
+      "items": [
+        {
+          "name": "ATE DE MEMBRILLO",
+          "id": "21",
+          "key": "21",
+          "fotoUrl": "",
+          "img": {
+            "thumbnail": "",
+            "fullSize": ""
+          },
+          "description": "Dulzor tradicional y natural",
+          "shortDescription": "Dulzor tradicional y natural",
+          "longDescription": "El ate de membrillo ofrece un perfil dulce intenso con textura firme. Ideal para acompañar quesos o disfrutar en pequeñas porciones como parte de un momento consciente.",
+          "price": 15.0,
+          "weight": 90.0,
+          "unit": "g",
+          "peso": "90 g",
+          "category_id": "C17"
+        },
+        {
+          "name": "CEREZA CHERRY",
+          "id": "61",
+          "key": "61",
+          "fotoUrl": "",
+          "img": {
+            "thumbnail": "",
+            "fullSize": ""
+          },
+          "description": "Dulzor clásico y suave",
+          "shortDescription": "Dulzor clásico y suave",
+          "longDescription": "Pequeño dulce con perfil frutal para disfrutar ocasionalmente.",
+          "price": 15.0,
+          "weight": 60.0,
+          "unit": "g",
+          "peso": "60 g",
+          "category_id": "C17"
+        },
+        {
+          "name": "COCO REBANADO NATURAL Y DORADO",
+          "id": "73",
+          "key": "73",
+          "fotoUrl": "",
+          "img": {
+            "thumbnail": "",
+            "fullSize": ""
+          },
+          "description": "Energía tropical crujiente",
+          "shortDescription": "Energía tropical crujiente",
+          "longDescription": "Coco en láminas con textura y sabor natural.",
+          "price": 15.0,
+          "weight": 40.0,
+          "unit": "g",
+          "peso": "40 g",
+          "category_id": "C17"
+        },
+        {
+          "name": "TAMARINDO ENTERO",
+          "id": "189",
+          "key": "189",
+          "fotoUrl": "",
+          "img": {
+            "thumbnail": "",
+            "fullSize": ""
+          },
+          "description": "Energía ácida natural",
+          "shortDescription": "Energía ácida natural",
+          "longDescription": "El tamarindo aporta sabor intenso ideal para bebidas tradicionales.",
+          "price": 15.0,
+          "weight": 70.0,
+          "unit": "g",
+          "peso": "70 g",
+          "category_id": "C17"
         }
       ]
     },
@@ -2428,7 +1792,7 @@
       "longDescription": "",
       "url": "",
       "color": "",
-      "refs": 0,
+      "refs": 12,
       "items": [
         {
           "name": "ABANGO",
@@ -2649,32 +2013,134 @@
       ]
     },
     {
-      "name": "Huevos",
-      "id": "C14",
-      "emoji": "🥚",
-      "shortDescription": "Proteína fresca para cualquier receta",
+      "name": "Cereales comerciales",
+      "id": "C12",
+      "emoji": "🥣",
+      "shortDescription": "Cereales favoritos para snack rápido",
       "longDescription": "",
       "url": "",
       "color": "",
-      "refs": 0,
+      "refs": 3,
       "items": [
         {
-          "name": "HUEVOS DE GRANJA ROJOS",
-          "id": "117",
-          "key": "117",
+          "name": "CEREAL FRUTIRUEDA (FROOT LOOPS)",
+          "id": "58",
+          "key": "58",
           "fotoUrl": "",
           "img": {
             "thumbnail": "",
             "fullSize": ""
           },
-          "description": "Proteína completa natural",
-          "shortDescription": "Proteína completa natural",
-          "longDescription": "Fuente natural de proteína y nutrientes esenciales.",
+          "description": "Energía dulce y práctica",
+          "shortDescription": "Energía dulce y práctica",
+          "longDescription": "Cereal colorido que aporta energía rápida en desayunos prácticos.",
           "price": 15.0,
-          "weight": 3.0,
-          "unit": "pieza",
-          "peso": "3 pieza",
-          "category_id": "C14"
+          "weight": 75.0,
+          "unit": "g",
+          "peso": "75 g",
+          "category_id": "C12"
+        },
+        {
+          "name": "CEREAL HOJUELA AZUCARADA",
+          "id": "59",
+          "key": "59",
+          "fotoUrl": "",
+          "img": {
+            "thumbnail": "",
+            "fullSize": ""
+          },
+          "description": "Dulzor ligero matutino",
+          "shortDescription": "Dulzor ligero matutino",
+          "longDescription": "Hojuelas crujientes con perfil dulce clásico.",
+          "price": 15.0,
+          "weight": 100.0,
+          "unit": "g",
+          "peso": "100 g",
+          "category_id": "C12"
+        },
+        {
+          "name": "CEREAL RIKIRROZ MAIZORO (CHOCO KRISPIS)",
+          "id": "60",
+          "key": "60",
+          "fotoUrl": "",
+          "img": {
+            "thumbnail": "",
+            "fullSize": ""
+          },
+          "description": "Chocolate crujiente",
+          "shortDescription": "Chocolate crujiente",
+          "longDescription": "Cereal con perfil de cacao para desayunos energéticos.",
+          "price": 15.0,
+          "weight": 100.0,
+          "unit": "g",
+          "peso": "100 g",
+          "category_id": "C12"
+        }
+      ]
+    },
+    {
+      "name": "Chiles",
+      "id": "C16",
+      "emoji": "🌶️",
+      "shortDescription": "El picante base de la cocina mexicana",
+      "longDescription": "",
+      "url": "",
+      "color": "",
+      "refs": 3,
+      "items": [
+        {
+          "name": "CHILE ANCHO 1ERA PASERA",
+          "id": "65",
+          "key": "65",
+          "fotoUrl": "",
+          "img": {
+            "thumbnail": "",
+            "fullSize": ""
+          },
+          "description": "Intensidad profunda",
+          "shortDescription": "Intensidad profunda",
+          "longDescription": "Chile seco con perfil aromático tradicional.",
+          "price": 15.0,
+          "weight": 50.0,
+          "unit": "g",
+          "peso": "50 g",
+          "category_id": "C16"
+        },
+        {
+          "name": "CHILE INDIO S/C S-17",
+          "id": "66",
+          "key": "66",
+          "fotoUrl": "",
+          "img": {
+            "thumbnail": "",
+            "fullSize": ""
+          },
+          "description": "Picante natural",
+          "shortDescription": "Picante natural",
+          "longDescription": "Aporta intensidad y carácter a preparaciones.",
+          "price": 15.0,
+          "weight": 70.0,
+          "unit": "g",
+          "peso": "70 g",
+          "category_id": "C16"
+        },
+        {
+          "name": "CHILE MIRASOL 1ERA PASERA",
+          "id": "67",
+          "key": "67",
+          "fotoUrl": "",
+          "img": {
+            "thumbnail": "",
+            "fullSize": ""
+          },
+          "description": "Sabor tradicional",
+          "shortDescription": "Sabor tradicional",
+          "longDescription": "Chile seco con notas profundas y especiadas.",
+          "price": 15.0,
+          "weight": 55.0,
+          "unit": "g",
+          "peso": "55 g",
+          "category_id": "C16"
         }
       ]
     },
@@ -2686,7 +2152,7 @@
       "longDescription": "",
       "url": "",
       "color": "",
-      "refs": 0,
+      "refs": 24,
       "items": [
         {
           "name": "AJO ENTERO MEDIANO",
@@ -3123,446 +2589,32 @@
       ]
     },
     {
-      "name": "Chiles",
-      "id": "C16",
-      "emoji": "🌶️",
-      "shortDescription": "El picante base de la cocina mexicana",
+      "name": "Huevos",
+      "id": "C14",
+      "emoji": "🥚",
+      "shortDescription": "Proteína fresca para cualquier receta",
       "longDescription": "",
       "url": "",
       "color": "",
-      "refs": 0,
+      "refs": 1,
       "items": [
         {
-          "name": "CHILE ANCHO 1ERA PASERA",
-          "id": "65",
-          "key": "65",
+          "name": "HUEVOS DE GRANJA ROJOS",
+          "id": "117",
+          "key": "117",
           "fotoUrl": "",
           "img": {
             "thumbnail": "",
             "fullSize": ""
           },
-          "description": "Intensidad profunda",
-          "shortDescription": "Intensidad profunda",
-          "longDescription": "Chile seco con perfil aromático tradicional.",
+          "description": "Proteína completa natural",
+          "shortDescription": "Proteína completa natural",
+          "longDescription": "Fuente natural de proteína y nutrientes esenciales.",
           "price": 15.0,
-          "weight": 50.0,
-          "unit": "g",
-          "peso": "50 g",
-          "category_id": "C16"
-        },
-        {
-          "name": "CHILE INDIO S/C S-17",
-          "id": "66",
-          "key": "66",
-          "fotoUrl": "",
-          "img": {
-            "thumbnail": "",
-            "fullSize": ""
-          },
-          "description": "Picante natural",
-          "shortDescription": "Picante natural",
-          "longDescription": "Aporta intensidad y carácter a preparaciones.",
-          "price": 15.0,
-          "weight": 70.0,
-          "unit": "g",
-          "peso": "70 g",
-          "category_id": "C16"
-        },
-        {
-          "name": "CHILE MIRASOL 1ERA PASERA",
-          "id": "67",
-          "key": "67",
-          "fotoUrl": "",
-          "img": {
-            "thumbnail": "",
-            "fullSize": ""
-          },
-          "description": "Sabor tradicional",
-          "shortDescription": "Sabor tradicional",
-          "longDescription": "Chile seco con notas profundas y especiadas.",
-          "price": 15.0,
-          "weight": 55.0,
-          "unit": "g",
-          "peso": "55 g",
-          "category_id": "C16"
-        }
-      ]
-    },
-    {
-      "name": "Frutas tradicionales",
-      "id": "C17",
-      "emoji": "🍒",
-      "shortDescription": "Sabores clásicos y regionales",
-      "longDescription": "",
-      "url": "",
-      "color": "",
-      "refs": 0,
-      "items": [
-        {
-          "name": "ATE DE MEMBRILLO",
-          "id": "21",
-          "key": "21",
-          "fotoUrl": "",
-          "img": {
-            "thumbnail": "",
-            "fullSize": ""
-          },
-          "description": "Dulzor tradicional y natural",
-          "shortDescription": "Dulzor tradicional y natural",
-          "longDescription": "El ate de membrillo ofrece un perfil dulce intenso con textura firme. Ideal para acompañar quesos o disfrutar en pequeñas porciones como parte de un momento consciente.",
-          "price": 15.0,
-          "weight": 90.0,
-          "unit": "g",
-          "peso": "90 g",
-          "category_id": "C17"
-        },
-        {
-          "name": "CEREZA CHERRY",
-          "id": "61",
-          "key": "61",
-          "fotoUrl": "",
-          "img": {
-            "thumbnail": "",
-            "fullSize": ""
-          },
-          "description": "Dulzor clásico y suave",
-          "shortDescription": "Dulzor clásico y suave",
-          "longDescription": "Pequeño dulce con perfil frutal para disfrutar ocasionalmente.",
-          "price": 15.0,
-          "weight": 60.0,
-          "unit": "g",
-          "peso": "60 g",
-          "category_id": "C17"
-        },
-        {
-          "name": "COCO REBANADO NATURAL Y DORADO",
-          "id": "73",
-          "key": "73",
-          "fotoUrl": "",
-          "img": {
-            "thumbnail": "",
-            "fullSize": ""
-          },
-          "description": "Energía tropical crujiente",
-          "shortDescription": "Energía tropical crujiente",
-          "longDescription": "Coco en láminas con textura y sabor natural.",
-          "price": 15.0,
-          "weight": 40.0,
-          "unit": "g",
-          "peso": "40 g",
-          "category_id": "C17"
-        },
-        {
-          "name": "TAMARINDO ENTERO",
-          "id": "189",
-          "key": "189",
-          "fotoUrl": "",
-          "img": {
-            "thumbnail": "",
-            "fullSize": ""
-          },
-          "description": "Energía ácida natural",
-          "shortDescription": "Energía ácida natural",
-          "longDescription": "El tamarindo aporta sabor intenso ideal para bebidas tradicionales.",
-          "price": 15.0,
-          "weight": 70.0,
-          "unit": "g",
-          "peso": "70 g",
-          "category_id": "C17"
-        }
-      ]
-    },
-    {
-      "name": "Café",
-      "id": "C18",
-      "emoji": "☕",
-      "shortDescription": "Café para empezar o acompañar",
-      "longDescription": "",
-      "url": "",
-      "color": "",
-      "refs": 0,
-      "items": [
-        {
-          "name": "CACAO MOLIDO",
-          "id": "42",
-          "key": "42",
-          "fotoUrl": "",
-          "img": {
-            "thumbnail": "",
-            "fullSize": ""
-          },
-          "description": "Antioxidantes y energía natural",
-          "shortDescription": "Antioxidantes y energía natural",
-          "longDescription": "El cacao molido conserva compuestos naturales y sabor profundo para bebidas y recetas.",
-          "price": 15.0,
-          "weight": 25.0,
-          "unit": "g",
-          "peso": "25 g",
-          "category_id": "C18"
-        },
-        {
-          "name": "CAFE CON CHOCOLATE",
-          "id": "43",
-          "key": "43",
-          "fotoUrl": "",
-          "img": {
-            "thumbnail": "",
-            "fullSize": ""
-          },
-          "description": "Energía reconfortante",
-          "shortDescription": "Energía reconfortante",
-          "longDescription": "La combinación de café y chocolate ofrece un perfil intenso y estimulante.",
-          "price": 15.0,
-          "weight": 25.0,
-          "unit": "g",
-          "peso": "25 g",
-          "category_id": "C18"
-        },
-        {
-          "name": "CAFE GRANO TOST AMERICANO",
-          "id": "44",
-          "key": "44",
-          "fotoUrl": "",
-          "img": {
-            "thumbnail": "",
-            "fullSize": ""
-          },
-          "description": "",
-          "shortDescription": "",
-          "longDescription": "",
-          "price": 15.0,
-          "weight": 20.0,
-          "unit": "g",
-          "peso": "20 g",
-          "category_id": "C18"
-        },
-        {
-          "name": "CAFE SOLUBLE",
-          "id": "45",
-          "key": "45",
-          "fotoUrl": "",
-          "img": {
-            "thumbnail": "",
-            "fullSize": ""
-          },
-          "description": "Energía inmediata y práctica",
-          "shortDescription": "Energía inmediata y práctica",
-          "longDescription": "El café soluble permite disfrutar energía y enfoque en segundos, ideal para rutinas activas.",
-          "price": 15.0,
-          "weight": 16.0,
-          "unit": "g",
-          "peso": "16 g",
-          "category_id": "C18"
-        }
-      ]
-    },
-    {
-      "name": "Infusiones y tés",
-      "id": "C19",
-      "emoji": "🫖",
-      "shortDescription": "Bebidas suaves para cada momento",
-      "longDescription": "",
-      "url": "",
-      "color": "",
-      "refs": 0,
-      "items": [
-        {
-          "name": "HIERBABUENA",
-          "id": "112",
-          "key": "112",
-          "fotoUrl": "",
-          "img": {
-            "thumbnail": "",
-            "fullSize": ""
-          },
-          "description": "Frescura digestiva natural",
-          "shortDescription": "Frescura digestiva natural",
-          "longDescription": "Aporta sensación ligera y refrescante después de las comidas.",
-          "price": 15.0,
-          "weight": 70.0,
-          "unit": "g",
-          "peso": "70 g",
-          "category_id": "C19"
-        },
-        {
-          "name": "JAMAICA",
-          "id": "118",
-          "key": "118",
-          "fotoUrl": "",
-          "img": {
-            "thumbnail": "",
-            "fullSize": ""
-          },
-          "description": "Frescura antioxidante",
-          "shortDescription": "Frescura antioxidante",
-          "longDescription": "Flor seca para bebidas refrescantes tradicionales.",
-          "price": 15.0,
-          "weight": 90.0,
-          "unit": "g",
-          "peso": "90 g",
-          "category_id": "C19"
-        },
-        {
-          "name": "MANZANILLA FLOR IMPORTADA",
-          "id": "149",
-          "key": "149",
-          "fotoUrl": "",
-          "img": {
-            "thumbnail": "",
-            "fullSize": ""
-          },
-          "description": "Calma natural y descanso suave",
-          "shortDescription": "Calma natural y descanso suave",
-          "longDescription": "Infusión tradicionalmente utilizada para favorecer relajación y bienestar digestivo.",
-          "price": 15.0,
-          "weight": 20.0,
-          "unit": "g",
-          "peso": "20 g",
-          "category_id": "C19"
-        },
-        {
-          "name": "TE BLANCO",
-          "id": "191",
-          "key": "191",
-          "fotoUrl": "",
-          "img": {
-            "thumbnail": "",
-            "fullSize": ""
-          },
-          "description": "Pureza ligera y antioxidante",
-          "shortDescription": "Pureza ligera y antioxidante",
-          "longDescription": "Sabor delicado y aporte antioxidante natural.",
-          "price": 15.0,
-          "weight": 20.0,
-          "unit": "g",
-          "peso": "20 g",
-          "category_id": "C19"
-        },
-        {
-          "name": "TE CHAI",
-          "id": "192",
-          "key": "192",
-          "fotoUrl": "",
-          "img": {
-            "thumbnail": "",
-            "fullSize": ""
-          },
-          "description": "Calor especiado y energía",
-          "shortDescription": "Calor especiado y energía",
-          "longDescription": "Mezcla especiada con carácter reconfortante.",
-          "price": 15.0,
-          "weight": 20.0,
-          "unit": "g",
-          "peso": "20 g",
-          "category_id": "C19"
-        },
-        {
-          "name": "TE JAZMIN",
-          "id": "193",
-          "key": "193",
-          "fotoUrl": "",
-          "img": {
-            "thumbnail": "",
-            "fullSize": ""
-          },
-          "description": "Aromático y relajante",
-          "shortDescription": "Aromático y relajante",
-          "longDescription": "Experiencia sensorial floral y suave.",
-          "price": 15.0,
-          "weight": 15.0,
-          "unit": "g",
-          "peso": "15 g",
-          "category_id": "C19"
-        },
-        {
-          "name": "TE LIMON",
-          "id": "194",
-          "key": "194",
-          "fotoUrl": "",
-          "img": {
-            "thumbnail": "",
-            "fullSize": ""
-          },
-          "description": "Frescura revitalizante",
-          "shortDescription": "Frescura revitalizante",
-          "longDescription": "Perfil cítrico ligero y refrescante.",
-          "price": 15.0,
-          "weight": 60.0,
-          "unit": "g",
-          "peso": "60 g",
-          "category_id": "C19"
-        },
-        {
-          "name": "TE NEGRO CORTE BOLITA",
-          "id": "195",
-          "key": "195",
-          "fotoUrl": "",
-          "img": {
-            "thumbnail": "",
-            "fullSize": ""
-          },
-          "description": "Energía intensa y enfoque",
-          "shortDescription": "Energía intensa y enfoque",
-          "longDescription": "Perfil más robusto para mayor estimulación.",
-          "price": 15.0,
-          "weight": 20.0,
-          "unit": "g",
-          "peso": "20 g",
-          "category_id": "C19"
-        },
-        {
-          "name": "TE ROJO",
-          "id": "196",
-          "key": "196",
-          "fotoUrl": "",
-          "img": {
-            "thumbnail": "",
-            "fullSize": ""
-          },
-          "description": "Equilibrio digestivo tradicional",
-          "shortDescription": "Equilibrio digestivo tradicional",
-          "longDescription": "Perfil profundo para acompañar comidas.",
-          "price": 15.0,
-          "weight": 20.0,
-          "unit": "g",
-          "peso": "20 g",
-          "category_id": "C19"
-        },
-        {
-          "name": "TE VERDE GP ENTERO",
-          "id": "197",
-          "key": "197",
-          "fotoUrl": "",
-          "img": {
-            "thumbnail": "",
-            "fullSize": ""
-          },
-          "description": "Energía suave y antioxidante",
-          "shortDescription": "Energía suave y antioxidante",
-          "longDescription": "Aporta vitalidad equilibrada y compuestos antioxidantes.",
-          "price": 15.0,
-          "weight": 20.0,
-          "unit": "g",
-          "peso": "20 g",
-          "category_id": "C19"
-        },
-        {
-          "name": "TILA FLOR",
-          "id": "198",
-          "key": "198",
-          "fotoUrl": "",
-          "img": {
-            "thumbnail": "",
-            "fullSize": ""
-          },
-          "description": "Relajación profunda y natural",
-          "shortDescription": "Relajación profunda y natural",
-          "longDescription": "Ideal para momentos de descanso y calma interior.",
-          "price": 15.0,
-          "weight": 25.0,
-          "unit": "g",
-          "peso": "25 g",
-          "category_id": "C19"
+          "weight": 3.0,
+          "unit": "pieza",
+          "peso": "3 pieza",
+          "category_id": "C14"
         }
       ]
     },
@@ -3574,7 +2626,7 @@
       "longDescription": "",
       "url": "",
       "color": "",
-      "refs": 0,
+      "refs": 16,
       "items": [
         {
           "name": "ALBAHACA",
@@ -3867,98 +2919,1046 @@
       ]
     },
     {
-      "name": "Semillas especiales",
-      "id": "C8",
-      "emoji": "🌱",
-      "shortDescription": "Semillas funcionales para uso específico",
+      "name": "Infusiones y tés",
+      "id": "C19",
+      "emoji": "🫖",
+      "shortDescription": "Bebidas suaves para cada momento",
       "longDescription": "",
       "url": "",
       "color": "",
-      "refs": 0,
+      "refs": 11,
       "items": [
         {
-          "name": "ALPISTE SIMPLE",
-          "id": "10",
-          "key": "10",
-          "fotoUrl": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/ALPISTE_SIMPLE.png",
-          "img": {
-            "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Failidmx%2FBertClient%40main%2Fimg%2Fproduct%2FALPISTE_SIMPLE.png&w=320&h=320&fit=cover&q=72&output=webp",
-            "fullSize": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/ALPISTE_SIMPLE.png"
-          },
-          "description": "Energía vegetal ligera",
-          "shortDescription": "Energía vegetal ligera",
-          "longDescription": "El alpiste es una semilla ligera utilizada en preparaciones tradicionales. Aporta nutrientes naturales dentro de una alimentación consciente.",
-          "price": 15.0,
-          "weight": 125.0,
-          "unit": "g",
-          "peso": "125 g",
-          "category_id": "C8"
-        }
-      ]
-    },
-    {
-      "name": "Extras (No alimentos)",
-      "id": "C21",
-      "emoji": "🧩",
-      "shortDescription": "Accesorios y extras de compra rápida",
-      "longDescription": "",
-      "url": "",
-      "color": "",
-      "refs": 0,
-      "items": [
-        {
-          "name": "GOMINA",
-          "id": "104",
-          "key": "104",
+          "name": "HIERBABUENA",
+          "id": "112",
+          "key": "112",
           "fotoUrl": "",
           "img": {
             "thumbnail": "",
             "fullSize": ""
           },
-          "description": "Textura suave y dulce",
-          "shortDescription": "Textura suave y dulce",
-          "longDescription": "Dulce con consistencia firme y perfil clásico.",
+          "description": "Frescura digestiva natural",
+          "shortDescription": "Frescura digestiva natural",
+          "longDescription": "Aporta sensación ligera y refrescante después de las comidas.",
+          "price": 15.0,
+          "weight": 70.0,
+          "unit": "g",
+          "peso": "70 g",
+          "category_id": "C19"
+        },
+        {
+          "name": "JAMAICA",
+          "id": "118",
+          "key": "118",
+          "fotoUrl": "",
+          "img": {
+            "thumbnail": "",
+            "fullSize": ""
+          },
+          "description": "Frescura antioxidante",
+          "shortDescription": "Frescura antioxidante",
+          "longDescription": "Flor seca para bebidas refrescantes tradicionales.",
+          "price": 15.0,
+          "weight": 90.0,
+          "unit": "g",
+          "peso": "90 g",
+          "category_id": "C19"
+        },
+        {
+          "name": "MANZANILLA FLOR IMPORTADA",
+          "id": "149",
+          "key": "149",
+          "fotoUrl": "",
+          "img": {
+            "thumbnail": "",
+            "fullSize": ""
+          },
+          "description": "Calma natural y descanso suave",
+          "shortDescription": "Calma natural y descanso suave",
+          "longDescription": "Infusión tradicionalmente utilizada para favorecer relajación y bienestar digestivo.",
+          "price": 15.0,
+          "weight": 20.0,
+          "unit": "g",
+          "peso": "20 g",
+          "category_id": "C19"
+        },
+        {
+          "name": "TE BLANCO",
+          "id": "191",
+          "key": "191",
+          "fotoUrl": "",
+          "img": {
+            "thumbnail": "",
+            "fullSize": ""
+          },
+          "description": "Pureza ligera y antioxidante",
+          "shortDescription": "Pureza ligera y antioxidante",
+          "longDescription": "Sabor delicado y aporte antioxidante natural.",
+          "price": 15.0,
+          "weight": 20.0,
+          "unit": "g",
+          "peso": "20 g",
+          "category_id": "C19"
+        },
+        {
+          "name": "TE CHAI",
+          "id": "192",
+          "key": "192",
+          "fotoUrl": "",
+          "img": {
+            "thumbnail": "",
+            "fullSize": ""
+          },
+          "description": "Calor especiado y energía",
+          "shortDescription": "Calor especiado y energía",
+          "longDescription": "Mezcla especiada con carácter reconfortante.",
+          "price": 15.0,
+          "weight": 20.0,
+          "unit": "g",
+          "peso": "20 g",
+          "category_id": "C19"
+        },
+        {
+          "name": "TE JAZMIN",
+          "id": "193",
+          "key": "193",
+          "fotoUrl": "",
+          "img": {
+            "thumbnail": "",
+            "fullSize": ""
+          },
+          "description": "Aromático y relajante",
+          "shortDescription": "Aromático y relajante",
+          "longDescription": "Experiencia sensorial floral y suave.",
+          "price": 15.0,
+          "weight": 15.0,
+          "unit": "g",
+          "peso": "15 g",
+          "category_id": "C19"
+        },
+        {
+          "name": "TE LIMON",
+          "id": "194",
+          "key": "194",
+          "fotoUrl": "",
+          "img": {
+            "thumbnail": "",
+            "fullSize": ""
+          },
+          "description": "Frescura revitalizante",
+          "shortDescription": "Frescura revitalizante",
+          "longDescription": "Perfil cítrico ligero y refrescante.",
           "price": 15.0,
           "weight": 60.0,
           "unit": "g",
           "peso": "60 g",
-          "category_id": "C21"
+          "category_id": "C19"
         },
         {
-          "name": "LIBRETA (PIEZA)",
-          "id": "132",
-          "key": "132",
+          "name": "TE NEGRO CORTE BOLITA",
+          "id": "195",
+          "key": "195",
           "fotoUrl": "",
           "img": {
             "thumbnail": "",
             "fullSize": ""
           },
-          "description": "Organización práctica",
-          "shortDescription": "Organización práctica",
-          "longDescription": "Libreta funcional para planificación y notas cotidianas.",
+          "description": "Energía intensa y enfoque",
+          "shortDescription": "Energía intensa y enfoque",
+          "longDescription": "Perfil más robusto para mayor estimulación.",
           "price": 15.0,
-          "weight": 1.0,
-          "unit": "pieza",
-          "peso": "1 pieza",
-          "category_id": "C21"
+          "weight": 20.0,
+          "unit": "g",
+          "peso": "20 g",
+          "category_id": "C19"
         },
         {
-          "name": "PULSERA",
-          "id": "176",
-          "key": "176",
+          "name": "TE ROJO",
+          "id": "196",
+          "key": "196",
           "fotoUrl": "",
           "img": {
             "thumbnail": "",
             "fullSize": ""
           },
-          "description": "Detalle sencillo",
-          "shortDescription": "Detalle sencillo",
-          "longDescription": "Accesorio ligero ideal como pequeño detalle.",
+          "description": "Equilibrio digestivo tradicional",
+          "shortDescription": "Equilibrio digestivo tradicional",
+          "longDescription": "Perfil profundo para acompañar comidas.",
           "price": 15.0,
-          "weight": 1.0,
+          "weight": 20.0,
+          "unit": "g",
+          "peso": "20 g",
+          "category_id": "C19"
+        },
+        {
+          "name": "TE VERDE GP ENTERO",
+          "id": "197",
+          "key": "197",
+          "fotoUrl": "",
+          "img": {
+            "thumbnail": "",
+            "fullSize": ""
+          },
+          "description": "Energía suave y antioxidante",
+          "shortDescription": "Energía suave y antioxidante",
+          "longDescription": "Aporta vitalidad equilibrada y compuestos antioxidantes.",
+          "price": 15.0,
+          "weight": 20.0,
+          "unit": "g",
+          "peso": "20 g",
+          "category_id": "C19"
+        },
+        {
+          "name": "TILA FLOR",
+          "id": "198",
+          "key": "198",
+          "fotoUrl": "",
+          "img": {
+            "thumbnail": "",
+            "fullSize": ""
+          },
+          "description": "Relajación profunda y natural",
+          "shortDescription": "Relajación profunda y natural",
+          "longDescription": "Ideal para momentos de descanso y calma interior.",
+          "price": 15.0,
+          "weight": 25.0,
+          "unit": "g",
+          "peso": "25 g",
+          "category_id": "C19"
+        }
+      ]
+    },
+    {
+      "name": "Fruta natural/deshidratada",
+      "id": "C4",
+      "emoji": "🍓",
+      "shortDescription": "Dulzor natural para snack saludable",
+      "longDescription": "",
+      "url": "",
+      "color": "",
+      "refs": 7,
+      "items": [
+        {
+          "name": "ARANDANO OCEAN",
+          "id": "16",
+          "key": "16",
+          "fotoUrl": "",
+          "img": {
+            "thumbnail": "",
+            "fullSize": ""
+          },
+          "description": "Antioxidantes y energía ligera",
+          "shortDescription": "Antioxidantes y energía ligera",
+          "longDescription": "El arándano deshidratado aporta sabor y compuestos antioxidantes naturales en un formato práctico para el día a día.",
+          "price": 15.0,
+          "weight": 65.0,
+          "unit": "g",
+          "peso": "65 g",
+          "category_id": "C4"
+        },
+        {
+          "name": "CHABACANO ENTERO",
+          "id": "62",
+          "key": "62",
+          "fotoUrl": "",
+          "img": {
+            "thumbnail": "",
+            "fullSize": ""
+          },
+          "description": "Dulzor natural concentrado",
+          "shortDescription": "Dulzor natural concentrado",
+          "longDescription": "Fruta deshidratada con fibra y energía práctica.",
+          "price": 15.0,
+          "weight": 25.0,
+          "unit": "g",
+          "peso": "25 g",
+          "category_id": "C4"
+        },
+        {
+          "name": "CIRUELA PASA S/HUESO",
+          "id": "70",
+          "key": "70",
+          "fotoUrl": "",
+          "img": {
+            "thumbnail": "",
+            "fullSize": ""
+          },
+          "description": "Fibra natural y digestión ligera",
+          "shortDescription": "Fibra natural y digestión ligera",
+          "longDescription": "La ciruela pasa es conocida por su aporte natural de fibra. Su sabor dulce y textura suave la hacen ideal como snack funcional.",
+          "price": 15.0,
+          "weight": 50.0,
+          "unit": "g",
+          "peso": "50 g",
+          "category_id": "C4"
+        },
+        {
+          "name": "DATIL GRANDE MEDJOOL",
+          "id": "83",
+          "key": "83",
+          "fotoUrl": "",
+          "img": {
+            "thumbnail": "",
+            "fullSize": ""
+          },
+          "description": "Energía natural inmediata",
+          "shortDescription": "Energía natural inmediata",
+          "longDescription": "El dátil Medjool es una fuente natural de energía gracias a sus azúcares propios. Ideal para recargar vitalidad antes o después de actividad física.",
+          "price": 15.0,
+          "weight": 50.0,
+          "unit": "g",
+          "peso": "50 g",
+          "category_id": "C4"
+        },
+        {
+          "name": "MANZANA DESHIDRATADA ANILLOS",
+          "id": "148",
+          "key": "148",
+          "fotoUrl": "",
+          "img": {
+            "thumbnail": "",
+            "fullSize": ""
+          },
+          "description": "Dulzor natural y fibra",
+          "shortDescription": "Dulzor natural y fibra",
+          "longDescription": "Snack práctico con aporte natural de fibra.",
+          "price": 15.0,
+          "weight": 45.0,
+          "unit": "g",
+          "peso": "45 g",
+          "category_id": "C4"
+        },
+        {
+          "name": "PLATANO DESHYDRATADO",
+          "id": "173",
+          "key": "173",
+          "fotoUrl": "",
+          "img": {
+            "thumbnail": "",
+            "fullSize": ""
+          },
+          "description": "Energía rápida y natural",
+          "shortDescription": "Energía rápida y natural",
+          "longDescription": "Ideal antes o después de actividad física.",
+          "price": 15.0,
+          "weight": 30.0,
+          "unit": "g",
+          "peso": "30 g",
+          "category_id": "C4"
+        },
+        {
+          "name": "UVA PASA MEDIANA",
+          "id": "200",
+          "key": "200",
+          "fotoUrl": "",
+          "img": {
+            "thumbnail": "",
+            "fullSize": ""
+          },
+          "description": "Dulzor natural y energía",
+          "shortDescription": "Dulzor natural y energía",
+          "longDescription": "Fruta deshidratada con aporte natural de energía.",
+          "price": 15.0,
+          "weight": 80.0,
+          "unit": "g",
+          "peso": "80 g",
+          "category_id": "C4"
+        }
+      ]
+    },
+    {
+      "name": "Granos y superfoods",
+      "id": "C1",
+      "emoji": "🌾",
+      "shortDescription": "Energía limpia y nutrición diaria",
+      "longDescription": "",
+      "url": "",
+      "color": "",
+      "refs": 13,
+      "items": [
+        {
+          "name": "AMARANTO",
+          "id": "12",
+          "key": "12",
+          "fotoUrl": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/AMARANTO.png",
+          "img": {
+            "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Failidmx%2FBertClient%40main%2Fimg%2Fproduct%2FAMARANTO.png&w=320&h=320&fit=cover&q=72&output=webp",
+            "fullSize": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/AMARANTO.png"
+          },
+          "description": "Fuerza ancestral y nutrición densa",
+          "shortDescription": "Fuerza ancestral y nutrición densa",
+          "longDescription": "El amaranto es un grano tradicional rico en proteína vegetal y minerales esenciales.",
+          "price": 15.0,
+          "weight": 50.0,
+          "unit": "g",
+          "peso": "50 g",
+          "category_id": "C1"
+        },
+        {
+          "name": "AMOROZ AMARANTO CHICO",
+          "id": "13",
+          "key": "13",
+          "fotoUrl": "https://raw.githubusercontent.com/ailidmx/BertClient/main/img/product/AMARNATO-CHICO.png",
+          "img": {
+            "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Failidmx%2FBertClient%2Fmain%2Fimg%2Fproduct%2FAMARNATO-CHICO.png&w=320&h=320&fit=cover&q=72&output=webp",
+            "fullSize": "https://raw.githubusercontent.com/ailidmx/BertClient/main/img/product/AMARNATO-CHICO.png"
+          },
+          "description": "Energía dulce ancestral",
+          "shortDescription": "Energía dulce ancestral",
+          "longDescription": "Pequeñas barras de amaranto que combinan tradición y energía práctica para el día.",
+          "price": 15.0,
+          "weight": 2.0,
           "unit": "pieza",
-          "peso": "1 pieza",
-          "category_id": "C21"
+          "peso": "2 pieza",
+          "category_id": "C1"
+        },
+        {
+          "name": "ARROZ INTEGRAL",
+          "id": "19",
+          "key": "19",
+          "fotoUrl": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/ARROZ-INTEGRAL.png",
+          "img": {
+            "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Failidmx%2FBertClient%40main%2Fimg%2Fproduct%2FARROZ-INTEGRAL.png&w=320&h=320&fit=cover&q=72&output=webp",
+            "fullSize": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/ARROZ-INTEGRAL.png"
+          },
+          "description": "Energía estable y natural",
+          "shortDescription": "Energía estable y natural",
+          "longDescription": "El arroz integral conserva fibra y nutrientes para una energía progresiva.",
+          "price": 15.0,
+          "weight": 280.0,
+          "unit": "g",
+          "peso": "280 g",
+          "category_id": "C1"
+        },
+        {
+          "name": "AVENA INTEGRAL GRANDE",
+          "id": "23",
+          "key": "23",
+          "fotoUrl": "",
+          "img": {
+            "thumbnail": "",
+            "fullSize": ""
+          },
+          "description": "Energía prolongada y bienestar digestivo",
+          "shortDescription": "Energía prolongada y bienestar digestivo",
+          "longDescription": "La avena integral ayuda a mantener energía constante durante la mañana.",
+          "price": 15.0,
+          "weight": 350.0,
+          "unit": "g",
+          "peso": "350 g",
+          "category_id": "C1"
+        },
+        {
+          "name": "CHIA DELGADA",
+          "id": "63",
+          "key": "63",
+          "fotoUrl": "",
+          "img": {
+            "thumbnail": "",
+            "fullSize": ""
+          },
+          "description": "Fibra esencial y equilibrio natural",
+          "shortDescription": "Fibra esencial y equilibrio natural",
+          "longDescription": "Rica en fibra y ácidos grasos esenciales, la chía favorece la saciedad y el equilibrio digestivo. Fácil de incorporar en smoothies y desayunos.",
+          "price": 15.0,
+          "weight": 65.0,
+          "unit": "g",
+          "peso": "65 g",
+          "category_id": "C1"
+        },
+        {
+          "name": "GRANOLA SANTA MAURA",
+          "id": "105",
+          "key": "105",
+          "fotoUrl": "",
+          "img": {
+            "thumbnail": "",
+            "fullSize": ""
+          },
+          "description": "Energía completa y equilibrada",
+          "shortDescription": "Energía completa y equilibrada",
+          "longDescription": "Mezcla de cereales y semillas para energía sostenida.",
+          "price": 15.0,
+          "weight": 75.0,
+          "unit": "g",
+          "peso": "75 g",
+          "category_id": "C1"
+        },
+        {
+          "name": "HARINA DE AMARANTO",
+          "id": "109",
+          "key": "109",
+          "fotoUrl": "",
+          "img": {
+            "thumbnail": "",
+            "fullSize": ""
+          },
+          "description": "Nutrición ancestral en cada receta",
+          "shortDescription": "Nutrición ancestral en cada receta",
+          "longDescription": "Enriquece recetas con proteína vegetal natural.",
+          "price": 15.0,
+          "weight": 40.0,
+          "unit": "g",
+          "peso": "40 g",
+          "category_id": "C1"
+        },
+        {
+          "name": "HARINA DE AVENA",
+          "id": "110",
+          "key": "110",
+          "fotoUrl": "",
+          "img": {
+            "thumbnail": "",
+            "fullSize": ""
+          },
+          "description": "Base nutritiva y versátil",
+          "shortDescription": "Base nutritiva y versátil",
+          "longDescription": "Conserva la fibra del grano para preparaciones equilibradas.",
+          "price": 15.0,
+          "weight": 110.0,
+          "unit": "g",
+          "peso": "110 g",
+          "category_id": "C1"
+        },
+        {
+          "name": "LINAZA",
+          "id": "133",
+          "key": "133",
+          "fotoUrl": "",
+          "img": {
+            "thumbnail": "",
+            "fullSize": ""
+          },
+          "description": "Energía vegetal y digestión ligera",
+          "shortDescription": "Energía vegetal y digestión ligera",
+          "longDescription": "Fuente natural de fibra y grasas saludables, la linaza aporta equilibrio y energía estable.",
+          "price": 15.0,
+          "weight": 100.0,
+          "unit": "g",
+          "peso": "100 g",
+          "category_id": "C1"
+        },
+        {
+          "name": "LINAZA MOLIDA",
+          "id": "134",
+          "key": "134",
+          "fotoUrl": "",
+          "img": {
+            "thumbnail": "",
+            "fullSize": ""
+          },
+          "description": "Nutrición activa y práctica",
+          "shortDescription": "Nutrición activa y práctica",
+          "longDescription": "La versión molida facilita la absorción de nutrientes y mejora la textura de preparaciones saludables.",
+          "price": 15.0,
+          "weight": 60.0,
+          "unit": "g",
+          "peso": "60 g",
+          "category_id": "C1"
+        },
+        {
+          "name": "POLEN",
+          "id": "174",
+          "key": "174",
+          "fotoUrl": "",
+          "img": {
+            "thumbnail": "",
+            "fullSize": ""
+          },
+          "description": "Nutrientes naturales concentrados",
+          "shortDescription": "Nutrientes naturales concentrados",
+          "longDescription": "Producto natural con densidad nutricional elevada.",
+          "price": 15.0,
+          "weight": 30.0,
+          "unit": "g",
+          "peso": "30 g",
+          "category_id": "C1"
+        },
+        {
+          "name": "QUINOA PERLADA",
+          "id": "177",
+          "key": "177",
+          "fotoUrl": "",
+          "img": {
+            "thumbnail": "",
+            "fullSize": ""
+          },
+          "description": "Proteína vegetal completa",
+          "shortDescription": "Proteína vegetal completa",
+          "longDescription": "La quinoa destaca por su aporte equilibrado de proteína vegetal y energía sostenida.",
+          "price": 15.0,
+          "weight": 85.0,
+          "unit": "g",
+          "peso": "85 g",
+          "category_id": "C1"
+        },
+        {
+          "name": "TAPIOCA",
+          "id": "190",
+          "key": "190",
+          "fotoUrl": "",
+          "img": {
+            "thumbnail": "",
+            "fullSize": ""
+          },
+          "description": "Energía ligera versátil",
+          "shortDescription": "Energía ligera versátil",
+          "longDescription": "Base suave ideal para postres y bebidas.",
+          "price": 15.0,
+          "weight": 100.0,
+          "unit": "g",
+          "peso": "100 g",
+          "category_id": "C1"
+        }
+      ]
+    },
+    {
+      "name": "Opciones sin azúcar",
+      "id": "C5",
+      "emoji": "🚫🍬",
+      "shortDescription": "Sabor sin azúcar añadida",
+      "longDescription": "",
+      "url": "",
+      "color": "",
+      "refs": 1,
+      "items": [
+        {
+          "name": "CHOCOLATE AMARGO S/ AZUCAR",
+          "id": "69",
+          "key": "69",
+          "fotoUrl": "",
+          "img": {
+            "thumbnail": "",
+            "fullSize": ""
+          },
+          "description": "Intensidad pura y antioxidante",
+          "shortDescription": "Intensidad pura y antioxidante",
+          "longDescription": "El chocolate amargo sin azúcar ofrece sabor profundo y compuestos naturales del cacao.",
+          "price": 15.0,
+          "weight": 15.0,
+          "unit": "g",
+          "peso": "15 g",
+          "category_id": "C5"
+        }
+      ]
+    },
+    {
+      "name": "Proteína vegetal",
+      "id": "C2",
+      "emoji": "💪",
+      "shortDescription": "Proteínas vegetales para comidas completas",
+      "longDescription": "",
+      "url": "",
+      "color": "",
+      "refs": 9,
+      "items": [
+        {
+          "name": "CHICHARRON DE SOYA",
+          "id": "64",
+          "key": "64",
+          "fotoUrl": "",
+          "img": {
+            "thumbnail": "",
+            "fullSize": ""
+          },
+          "description": "Proteína vegetal crujiente",
+          "shortDescription": "Proteína vegetal crujiente",
+          "longDescription": "Alternativa vegetal rica en proteína.",
+          "price": 15.0,
+          "weight": 25.0,
+          "unit": "g",
+          "peso": "25 g",
+          "category_id": "C2"
+        },
+        {
+          "name": "FRIJOL AYOCOTE PINTO",
+          "id": "84",
+          "key": "84",
+          "fotoUrl": "",
+          "img": {
+            "thumbnail": "",
+            "fullSize": ""
+          },
+          "description": "Proteína vegetal robusta",
+          "shortDescription": "Proteína vegetal robusta",
+          "longDescription": "Variante nutritiva rica en fibra y proteína vegetal.",
+          "price": 15.0,
+          "weight": 100.0,
+          "unit": "g",
+          "peso": "100 g",
+          "category_id": "C2"
+        },
+        {
+          "name": "FRIJOL NEGRO",
+          "id": "85",
+          "key": "85",
+          "fotoUrl": "",
+          "img": {
+            "thumbnail": "",
+            "fullSize": ""
+          },
+          "description": "Tradición nutritiva y energía completa",
+          "shortDescription": "Tradición nutritiva y energía completa",
+          "longDescription": "El frijol negro aporta proteína vegetal y minerales esenciales.",
+          "price": 15.0,
+          "weight": 370.0,
+          "unit": "g",
+          "peso": "370 g",
+          "category_id": "C2"
+        },
+        {
+          "name": "FRIJOL PERUANO HIGUERA",
+          "id": "86",
+          "key": "86",
+          "fotoUrl": "",
+          "img": {
+            "thumbnail": "",
+            "fullSize": ""
+          },
+          "description": "Energía vegetal equilibrada",
+          "shortDescription": "Energía vegetal equilibrada",
+          "longDescription": "Frijol versátil como base alimentaria tradicional.",
+          "price": 15.0,
+          "weight": 310.0,
+          "unit": "g",
+          "peso": "310 g",
+          "category_id": "C2"
+        },
+        {
+          "name": "FRIJOL TEXANO",
+          "id": "87",
+          "key": "87",
+          "fotoUrl": "",
+          "img": {
+            "thumbnail": "",
+            "fullSize": ""
+          },
+          "description": "Base nutritiva clásica",
+          "shortDescription": "Base nutritiva clásica",
+          "longDescription": "Fuente vegetal accesible y práctica.",
+          "price": 15.0,
+          "weight": 333.0,
+          "unit": "g",
+          "peso": "333 g",
+          "category_id": "C2"
+        },
+        {
+          "name": "GARBANZO",
+          "id": "101",
+          "key": "101",
+          "fotoUrl": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/GARBANZO.png",
+          "img": {
+            "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Failidmx%2FBertClient%40main%2Fimg%2Fproduct%2FGARBANZO.png&w=320&h=320&fit=cover&q=72&output=webp",
+            "fullSize": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/GARBANZO.png"
+          },
+          "description": "Proteína vegetal y saciedad",
+          "shortDescription": "Proteína vegetal y saciedad",
+          "longDescription": "El garbanzo aporta proteína vegetal y fibra para comidas equilibradas.",
+          "price": 15.0,
+          "weight": 250.0,
+          "unit": "g",
+          "peso": "250 g",
+          "category_id": "C2"
+        },
+        {
+          "name": "HABA PELADA",
+          "id": "108",
+          "key": "108",
+          "fotoUrl": "",
+          "img": {
+            "thumbnail": "",
+            "fullSize": ""
+          },
+          "description": "Nutrición vegetal ligera",
+          "shortDescription": "Nutrición vegetal ligera",
+          "longDescription": "Fuente de proteína vegetal y fibra.",
+          "price": 15.0,
+          "weight": 85.0,
+          "unit": "g",
+          "peso": "85 g",
+          "category_id": "C2"
+        },
+        {
+          "name": "LENTEJA GRANDE",
+          "id": "131",
+          "key": "131",
+          "fotoUrl": "",
+          "img": {
+            "thumbnail": "",
+            "fullSize": ""
+          },
+          "description": "Energía nutritiva y balanceada",
+          "shortDescription": "Energía nutritiva y balanceada",
+          "longDescription": "Rica en proteína vegetal, la lenteja es base de una alimentación consciente.",
+          "price": 15.0,
+          "weight": 300.0,
+          "unit": "g",
+          "peso": "300 g",
+          "category_id": "C2"
+        },
+        {
+          "name": "SOYA TEXTURIZADA",
+          "id": "186",
+          "key": "186",
+          "fotoUrl": "",
+          "img": {
+            "thumbnail": "",
+            "fullSize": ""
+          },
+          "description": "",
+          "shortDescription": "",
+          "longDescription": "",
+          "price": 15.0,
+          "weight": 125.0,
+          "unit": "g",
+          "peso": "125 g",
+          "category_id": "C2"
+        }
+      ]
+    },
+    {
+      "name": "Semillas y nueces",
+      "id": "C3",
+      "emoji": "🥜",
+      "shortDescription": "Grasas buenas, fibra y saciedad",
+      "longDescription": "",
+      "url": "",
+      "color": "",
+      "refs": 13,
+      "items": [
+        {
+          "name": "AJONJOLI NEGRO",
+          "id": "4",
+          "key": "4",
+          "fotoUrl": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/AJONJOLI_NEGRO.png",
+          "img": {
+            "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Failidmx%2FBertClient%40main%2Fimg%2Fproduct%2FAJONJOLI_NEGRO.png&w=320&h=320&fit=cover&q=72&output=webp",
+            "fullSize": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/AJONJOLI_NEGRO.png"
+          },
+          "description": "Minerales y energía vegetal",
+          "shortDescription": "Minerales y energía vegetal",
+          "longDescription": "El ajonjolí negro es una semilla rica en grasas saludables y minerales naturales. Ideal para aportar textura, sabor y valor nutricional a preparaciones equilibradas.",
+          "price": 15.0,
+          "weight": 30.0,
+          "unit": "g",
+          "peso": "30 g",
+          "category_id": "C3"
+        },
+        {
+          "name": "AJONJOLI SIN CUTICULA",
+          "id": "5",
+          "key": "5",
+          "fotoUrl": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/AJONJOLI_SIN_CUTICULA.png",
+          "img": {
+            "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Failidmx%2FBertClient%40main%2Fimg%2Fproduct%2FAJONJOLI_SIN_CUTICULA.png&w=320&h=320&fit=cover&q=72&output=webp",
+            "fullSize": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/AJONJOLI_SIN_CUTICULA.png"
+          },
+          "description": "Energía ligera y versátil",
+          "shortDescription": "Energía ligera y versátil",
+          "longDescription": "Semilla suave y fácil de integrar en recetas dulces o saladas. Fuente natural de grasas saludables y proteína vegetal.",
+          "price": 15.0,
+          "weight": 75.0,
+          "unit": "g",
+          "peso": "75 g",
+          "category_id": "C3"
+        },
+        {
+          "name": "ALMENDRA EN POLVO",
+          "id": "8",
+          "key": "8",
+          "fotoUrl": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/ALMENDRA-EN-POLVO.png",
+          "img": {
+            "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Failidmx%2FBertClient%40main%2Fimg%2Fproduct%2FALMENDRA-EN-POLVO.png&w=320&h=320&fit=cover&q=72&output=webp",
+            "fullSize": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/ALMENDRA-EN-POLVO.png"
+          },
+          "description": "Nutrición versátil y ligera",
+          "shortDescription": "Nutrición versátil y ligera",
+          "longDescription": "La almendra en polvo conserva los beneficios naturales del fruto entero en una forma práctica y versátil. Rica en grasas saludables y proteína vegetal, es perfecta para smoothies, repostería consciente o preparaciones saludables.",
+          "price": 15.0,
+          "weight": 30.0,
+          "unit": "g",
+          "peso": "30 g",
+          "category_id": "C3"
+        },
+        {
+          "name": "ALMENDRA ENTERA",
+          "id": "9",
+          "key": "9",
+          "fotoUrl": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/ALMENDRA-ENTERA.PNG",
+          "img": {
+            "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Failidmx%2FBertClient%40main%2Fimg%2Fproduct%2FALMENDRA-ENTERA.PNG&w=320&h=320&fit=cover&q=72&output=webp",
+            "fullSize": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/ALMENDRA-ENTERA.PNG"
+          },
+          "description": "Energía limpia y saciedad natural",
+          "shortDescription": "Energía limpia y saciedad natural",
+          "longDescription": "La almendra entera aporta energía estable gracias a su contenido natural en grasas saludables, fibra y proteína vegetal. Ideal como snack práctico o complemento en desayunos y ensaladas. Un alimento simple, nutritivo y accesible que ayuda a mantener el equilibrio y la saciedad durante el día.",
+          "price": 15.0,
+          "weight": 30.0,
+          "unit": "g",
+          "peso": "30 g",
+          "category_id": "C3"
+        },
+        {
+          "name": "AVELLANA PELADA",
+          "id": "22",
+          "key": "22",
+          "fotoUrl": "",
+          "img": {
+            "thumbnail": "",
+            "fullSize": ""
+          },
+          "description": "Energía suave y antioxidante natural",
+          "shortDescription": "Energía suave y antioxidante natural",
+          "longDescription": "La avellana pelada combina sabor y nutrición en un formato práctico. Fuente natural de grasas saludables y antioxidantes, aporta energía progresiva sin picos bruscos.",
+          "price": 15.0,
+          "weight": 25.0,
+          "unit": "g",
+          "peso": "25 g",
+          "category_id": "C3"
+        },
+        {
+          "name": "NUEZ DE CASTILLA",
+          "id": "152",
+          "key": "152",
+          "fotoUrl": "",
+          "img": {
+            "thumbnail": "",
+            "fullSize": ""
+          },
+          "description": "Fuerza vegetal y equilibrio",
+          "shortDescription": "Fuerza vegetal y equilibrio",
+          "longDescription": "La nuez de Castilla destaca por su riqueza en ácidos grasos esenciales y nutrientes clave. Su perfil natural favorece la energía sostenida y el bienestar general.",
+          "price": 15.0,
+          "weight": 25.0,
+          "unit": "g",
+          "peso": "25 g",
+          "category_id": "C3"
+        },
+        {
+          "name": "NUEZ DE LA INDIA CON SAL",
+          "id": "153",
+          "key": "153",
+          "fotoUrl": "",
+          "img": {
+            "thumbnail": "",
+            "fullSize": ""
+          },
+          "description": "Energía premium salada",
+          "shortDescription": "Energía premium salada",
+          "longDescription": "Nuez de la India con sal que aporta grasas saludables y textura firme.",
+          "price": 15.0,
+          "weight": 30.0,
+          "unit": "g",
+          "peso": "30 g",
+          "category_id": "C3"
+        },
+        {
+          "name": "NUEZ MITADES",
+          "id": "154",
+          "key": "154",
+          "fotoUrl": "",
+          "img": {
+            "thumbnail": "",
+            "fullSize": ""
+          },
+          "description": "Energía completa y natural",
+          "shortDescription": "Energía completa y natural",
+          "longDescription": "Las mitades de nuez son una opción práctica y nutritiva para el día a día. Ricas en grasas saludables y fibra, ayudan a mantener la saciedad.",
+          "price": 15.0,
+          "weight": 25.0,
+          "unit": "g",
+          "peso": "25 g",
+          "category_id": "C3"
+        },
+        {
+          "name": "NUEZ MIXTA",
+          "id": "155",
+          "key": "155",
+          "fotoUrl": "",
+          "img": {
+            "thumbnail": "",
+            "fullSize": ""
+          },
+          "description": "Nutrición variada y balanceada",
+          "shortDescription": "Nutrición variada y balanceada",
+          "longDescription": "La nuez mixta ofrece una combinación equilibrada de frutos secos que aportan grasas saludables y energía sostenida en un formato práctico.",
+          "price": 15.0,
+          "weight": 60.0,
+          "unit": "g",
+          "peso": "60 g",
+          "category_id": "C3"
+        },
+        {
+          "name": "PEPITA CALABAZA CRUDA IMPORTADA",
+          "id": "166",
+          "key": "166",
+          "fotoUrl": "",
+          "img": {
+            "thumbnail": "",
+            "fullSize": ""
+          },
+          "description": "Minerales esenciales y energía natural",
+          "shortDescription": "Minerales esenciales y energía natural",
+          "longDescription": "Rica en grasas saludables y proteína vegetal.",
+          "price": 15.0,
+          "weight": 50.0,
+          "unit": "g",
+          "peso": "50 g",
+          "category_id": "C3"
+        },
+        {
+          "name": "PISTACHE CHIO",
+          "id": "172",
+          "key": "172",
+          "fotoUrl": "",
+          "img": {
+            "thumbnail": "",
+            "fullSize": ""
+          },
+          "description": "Energía crujiente premium",
+          "shortDescription": "Energía crujiente premium",
+          "longDescription": "Fuente vegetal rica en grasas saludables.",
+          "price": 15.0,
+          "weight": 30.0,
+          "unit": "g",
+          "peso": "30 g",
+          "category_id": "C3"
+        },
+        {
+          "name": "SEMILLA ALFALFA ATOYAC",
+          "id": "182",
+          "key": "182",
+          "fotoUrl": "",
+          "img": {
+            "thumbnail": "",
+            "fullSize": ""
+          },
+          "description": "",
+          "shortDescription": "",
+          "longDescription": "",
+          "price": 15.0,
+          "weight": 40.0,
+          "unit": "g",
+          "peso": "40 g",
+          "category_id": "C3"
+        },
+        {
+          "name": "SEMILLA GIRASOL CRUDA IMPORTADA",
+          "id": "183",
+          "key": "183",
+          "fotoUrl": "",
+          "img": {
+            "thumbnail": "",
+            "fullSize": ""
+          },
+          "description": "Energía ligera y nutritiva",
+          "shortDescription": "Energía ligera y nutritiva",
+          "longDescription": "Fuente natural de vitamina E y grasas saludables.",
+          "price": 15.0,
+          "weight": 60.0,
+          "unit": "g",
+          "peso": "60 g",
+          "category_id": "C3"
         }
       ]
     }
