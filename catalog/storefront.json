@@ -2,7 +2,7 @@
   "meta": {
     "title": "Casa Bert Mini App",
     "subtitle": "Catálogo dinámico",
-    "updatedAt": "19/02/2026 20:08",
+    "updatedAt": "19/02/2026 20:22",
     "cacheSeconds": 180
   },
   "brand": {
@@ -52,10 +52,10 @@
           "name": "BOTANA MIXTA",
           "id": "31",
           "key": "31",
-          "fotoUrl": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/BOTANA_MIXTA.png",
+          "fotoUrl": "https://assets.casabert.mx/img/product/ai/BOTANA_MIXTA.png",
           "img": {
-            "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Failidmx%2FBertClient%40main%2Fimg%2Fproduct%2FBOTANA_MIXTA.png&w=320&h=320&fit=cover&q=72&output=webp",
-            "fullSize": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/BOTANA_MIXTA.png"
+            "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fassets.casabert.mx%2Fimg%2Fproduct%2Fai%2FBOTANA_MIXTA.png&w=320&h=320&fit=cover&q=72&output=webp",
+            "fullSize": "https://assets.casabert.mx/img/product/ai/BOTANA_MIXTA.png"
           },
           "description": "Energía variada y práctica",
           "shortDescription": "Energía variada y práctica",
@@ -406,10 +406,10 @@
           "name": "CACAHUATE DORADO",
           "id": "33",
           "key": "33",
-          "fotoUrl": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/CACAHUATE%20DORADO.png",
+          "fotoUrl": "https://assets.casabert.mx/img/product/ai/CACAHUATE%20DORADO.png",
           "img": {
-            "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Failidmx%2FBertClient%40main%2Fimg%2Fproduct%2FCACAHUATE%2520DORADO.png&w=320&h=320&fit=cover&q=72&output=webp",
-            "fullSize": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/CACAHUATE%20DORADO.png"
+            "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fassets.casabert.mx%2Fimg%2Fproduct%2Fai%2FCACAHUATE%2520DORADO.png&w=320&h=320&fit=cover&q=72&output=webp",
+            "fullSize": "https://assets.casabert.mx/img/product/ai/CACAHUATE%20DORADO.png"
           },
           "description": "Energía vegetal crujiente",
           "shortDescription": "Energía vegetal crujiente",
@@ -424,10 +424,10 @@
           "name": "CACAHUATE ENCHILADO GRANDE",
           "id": "34",
           "key": "34",
-          "fotoUrl": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/CACAHUATE%20ENCHILADO%20GRANDE.png",
+          "fotoUrl": "https://assets.casabert.mx/img/product/ai/CACAHUATE%20ENCHILADO%20GRANDE.png",
           "img": {
-            "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Failidmx%2FBertClient%40main%2Fimg%2Fproduct%2FCACAHUATE%2520ENCHILADO%2520GRANDE.png&w=320&h=320&fit=cover&q=72&output=webp",
-            "fullSize": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/CACAHUATE%20ENCHILADO%20GRANDE.png"
+            "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fassets.casabert.mx%2Fimg%2Fproduct%2Fai%2FCACAHUATE%2520ENCHILADO%2520GRANDE.png&w=320&h=320&fit=cover&q=72&output=webp",
+            "fullSize": "https://assets.casabert.mx/img/product/ai/CACAHUATE%20ENCHILADO%20GRANDE.png"
           },
           "description": "Energía con intensidad",
           "shortDescription": "Energía con intensidad",
@@ -460,10 +460,10 @@
           "name": "CACAHUATE JAPONES HOT NUT",
           "id": "36",
           "key": "36",
-          "fotoUrl": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/CACAHUATE%20JAPONES%20HOT%20NUT.png",
+          "fotoUrl": "https://assets.casabert.mx/img/product/ai/CACAHUATE%20JAPONES%20HOT%20NUT.png",
           "img": {
-            "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Failidmx%2FBertClient%40main%2Fimg%2Fproduct%2FCACAHUATE%2520JAPONES%2520HOT%2520NUT.png&w=320&h=320&fit=cover&q=72&output=webp",
-            "fullSize": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/CACAHUATE%20JAPONES%20HOT%20NUT.png"
+            "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fassets.casabert.mx%2Fimg%2Fproduct%2Fai%2FCACAHUATE%2520JAPONES%2520HOT%2520NUT.png&w=320&h=320&fit=cover&q=72&output=webp",
+            "fullSize": "https://assets.casabert.mx/img/product/ai/CACAHUATE%20JAPONES%20HOT%20NUT.png"
           },
           "description": "Crujiente intenso y energético",
           "shortDescription": "Crujiente intenso y energético",
@@ -496,10 +496,10 @@
           "name": "CACAHUATE JAPONES SIMPLE DELAROSA",
           "id": "38",
           "key": "38",
-          "fotoUrl": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/CACAHUATE%20JAPONES%20SIMPLE%20DELAROSA.png",
+          "fotoUrl": "https://assets.casabert.mx/img/product/ai/CACAHUATE%20JAPONES%20SIMPLE%20DELAROSA.png",
           "img": {
-            "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Failidmx%2FBertClient%40main%2Fimg%2Fproduct%2FCACAHUATE%2520JAPONES%2520SIMPLE%2520DELAROSA.png&w=320&h=320&fit=cover&q=72&output=webp",
-            "fullSize": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/CACAHUATE%20JAPONES%20SIMPLE%20DELAROSA.png"
+            "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fassets.casabert.mx%2Fimg%2Fproduct%2Fai%2FCACAHUATE%2520JAPONES%2520SIMPLE%2520DELAROSA.png&w=320&h=320&fit=cover&q=72&output=webp",
+            "fullSize": "https://assets.casabert.mx/img/product/ai/CACAHUATE%20JAPONES%20SIMPLE%20DELAROSA.png"
           },
           "description": "Crujiente clásico tradicional",
           "shortDescription": "Crujiente clásico tradicional",
@@ -514,10 +514,10 @@
           "name": "CACAHUATE JUMBO C/ CUTICULA",
           "id": "39",
           "key": "39",
-          "fotoUrl": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/CACAHUATE%20CASCARITA.png",
+          "fotoUrl": "https://assets.casabert.mx/img/product/ai/CACAHUATE%20CASCARITA.png",
           "img": {
-            "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Failidmx%2FBertClient%40main%2Fimg%2Fproduct%2FCACAHUATE%2520CASCARITA.png&w=320&h=320&fit=cover&q=72&output=webp",
-            "fullSize": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/CACAHUATE%20CASCARITA.png"
+            "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fassets.casabert.mx%2Fimg%2Fproduct%2Fai%2FCACAHUATE%2520CASCARITA.png&w=320&h=320&fit=cover&q=72&output=webp",
+            "fullSize": "https://assets.casabert.mx/img/product/ai/CACAHUATE%20CASCARITA.png"
           },
           "description": "Energía clásica y natural",
           "shortDescription": "Energía clásica y natural",
@@ -532,10 +532,10 @@
           "name": "CACAHUATE MACHO GRANDE",
           "id": "40",
           "key": "40",
-          "fotoUrl": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/CACAHUATE%20MACHO%20GRANDE.png",
+          "fotoUrl": "https://assets.casabert.mx/img/product/ai/CACAHUATE%20MACHO%20GRANDE.png",
           "img": {
-            "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Failidmx%2FBertClient%40main%2Fimg%2Fproduct%2FCACAHUATE%2520MACHO%2520GRANDE.png&w=320&h=320&fit=cover&q=72&output=webp",
-            "fullSize": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/CACAHUATE%20MACHO%20GRANDE.png"
+            "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fassets.casabert.mx%2Fimg%2Fproduct%2Fai%2FCACAHUATE%2520MACHO%2520GRANDE.png&w=320&h=320&fit=cover&q=72&output=webp",
+            "fullSize": "https://assets.casabert.mx/img/product/ai/CACAHUATE%20MACHO%20GRANDE.png"
           },
           "description": "Energía potente natural",
           "shortDescription": "Energía potente natural",
@@ -550,10 +550,10 @@
           "name": "CACAHUATE MARTAJADO",
           "id": "41",
           "key": "41",
-          "fotoUrl": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/CACAHUATE%20MARTAJADO.png",
+          "fotoUrl": "https://assets.casabert.mx/img/product/ai/CACAHUATE%20MARTAJADO.png",
           "img": {
-            "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Failidmx%2FBertClient%40main%2Fimg%2Fproduct%2FCACAHUATE%2520MARTAJADO.png&w=320&h=320&fit=cover&q=72&output=webp",
-            "fullSize": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/CACAHUATE%20MARTAJADO.png"
+            "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fassets.casabert.mx%2Fimg%2Fproduct%2Fai%2FCACAHUATE%2520MARTAJADO.png&w=320&h=320&fit=cover&q=72&output=webp",
+            "fullSize": "https://assets.casabert.mx/img/product/ai/CACAHUATE%20MARTAJADO.png"
           },
           "description": "Intensidad crujiente picante",
           "shortDescription": "Intensidad crujiente picante",
@@ -580,10 +580,10 @@
           "name": "ALMENDRA CON CHOCOLATE",
           "id": "7",
           "key": "7",
-          "fotoUrl": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/ALMENDRAS_CON_CHOCOLATE.png",
+          "fotoUrl": "https://assets.casabert.mx/img/product/ai/ALMENDRAS_CON_CHOCOLATE.png",
           "img": {
-            "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Failidmx%2FBertClient%40main%2Fimg%2Fproduct%2FALMENDRAS_CON_CHOCOLATE.png&w=320&h=320&fit=cover&q=72&output=webp",
-            "fullSize": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/ALMENDRAS_CON_CHOCOLATE.png"
+            "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fassets.casabert.mx%2Fimg%2Fproduct%2Fai%2FALMENDRAS_CON_CHOCOLATE.png&w=320&h=320&fit=cover&q=72&output=webp",
+            "fullSize": "https://assets.casabert.mx/img/product/ai/ALMENDRAS_CON_CHOCOLATE.png"
           },
           "description": "Energía crujiente equilibrada",
           "shortDescription": "Energía crujiente equilibrada",
@@ -598,10 +598,10 @@
           "name": "ARO DURAZNO LUCKY",
           "id": "18",
           "key": "18",
-          "fotoUrl": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/ARO-DURAZNO-LUCKY.png",
+          "fotoUrl": "https://assets.casabert.mx/img/product/ai/ARO-DURAZNO-LUCKY.png",
           "img": {
-            "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Failidmx%2FBertClient%40main%2Fimg%2Fproduct%2FARO-DURAZNO-LUCKY.png&w=320&h=320&fit=cover&q=72&output=webp",
-            "fullSize": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/ARO-DURAZNO-LUCKY.png"
+            "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fassets.casabert.mx%2Fimg%2Fproduct%2Fai%2FARO-DURAZNO-LUCKY.png&w=320&h=320&fit=cover&q=72&output=webp",
+            "fullSize": "https://assets.casabert.mx/img/product/ai/ARO-DURAZNO-LUCKY.png"
           },
           "description": "Dulce frutal ligero",
           "shortDescription": "Dulce frutal ligero",
@@ -616,10 +616,10 @@
           "name": "BOMBON MEDIANO",
           "id": "28",
           "key": "28",
-          "fotoUrl": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/BOMBON-MEDIANO.png",
+          "fotoUrl": "https://assets.casabert.mx/img/product/ai/BOMBON-MEDIANO.png",
           "img": {
-            "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Failidmx%2FBertClient%40main%2Fimg%2Fproduct%2FBOMBON-MEDIANO.png&w=320&h=320&fit=cover&q=72&output=webp",
-            "fullSize": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/BOMBON-MEDIANO.png"
+            "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fassets.casabert.mx%2Fimg%2Fproduct%2Fai%2FBOMBON-MEDIANO.png&w=320&h=320&fit=cover&q=72&output=webp",
+            "fullSize": "https://assets.casabert.mx/img/product/ai/BOMBON-MEDIANO.png"
           },
           "description": "Suavidad ligera y dulce",
           "shortDescription": "Suavidad ligera y dulce",
@@ -652,10 +652,10 @@
           "name": "BORRACHITOS",
           "id": "30",
           "key": "30",
-          "fotoUrl": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/BORRACHITOS.png",
+          "fotoUrl": "https://assets.casabert.mx/img/product/ai/BORRACHITOS.png",
           "img": {
-            "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Failidmx%2FBertClient%40main%2Fimg%2Fproduct%2FBORRACHITOS.png&w=320&h=320&fit=cover&q=72&output=webp",
-            "fullSize": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/BORRACHITOS.png"
+            "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fassets.casabert.mx%2Fimg%2Fproduct%2Fai%2FBORRACHITOS.png&w=320&h=320&fit=cover&q=72&output=webp",
+            "fullSize": "https://assets.casabert.mx/img/product/ai/BORRACHITOS.png"
           },
           "description": "Tradición dulce mexicana",
           "shortDescription": "Tradición dulce mexicana",
@@ -1336,10 +1336,10 @@
           "name": "ALPISTE SIMPLE",
           "id": "10",
           "key": "10",
-          "fotoUrl": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/ALPISTE_SIMPLE.png",
+          "fotoUrl": "https://assets.casabert.mx/img/product/ai/ALPISTE_SIMPLE.png",
           "img": {
-            "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Failidmx%2FBertClient%40main%2Fimg%2Fproduct%2FALPISTE_SIMPLE.png&w=320&h=320&fit=cover&q=72&output=webp",
-            "fullSize": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/ALPISTE_SIMPLE.png"
+            "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fassets.casabert.mx%2Fimg%2Fproduct%2Fai%2FALPISTE_SIMPLE.png&w=320&h=320&fit=cover&q=72&output=webp",
+            "fullSize": "https://assets.casabert.mx/img/product/ai/ALPISTE_SIMPLE.png"
           },
           "description": "Energía vegetal ligera",
           "shortDescription": "Energía vegetal ligera",
@@ -1798,10 +1798,10 @@
           "name": "ABANGO",
           "id": "1",
           "key": "1",
-          "fotoUrl": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/ABANGO.png",
+          "fotoUrl": "https://assets.casabert.mx/img/product/ai/ABANGO.png",
           "img": {
-            "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Failidmx%2FBertClient%40main%2Fimg%2Fproduct%2FABANGO.png&w=320&h=320&fit=cover&q=72&output=webp",
-            "fullSize": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/ABANGO.png"
+            "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fassets.casabert.mx%2Fimg%2Fproduct%2Fai%2FABANGO.png&w=320&h=320&fit=cover&q=72&output=webp",
+            "fullSize": "https://assets.casabert.mx/img/product/ai/ABANGO.png"
           },
           "description": "Mezcla herbal tradicional",
           "shortDescription": "Mezcla herbal tradicional",
@@ -1816,10 +1816,10 @@
           "name": "ALUBIA GRANDE",
           "id": "11",
           "key": "11",
-          "fotoUrl": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/ALUBIA_GRANDE.png",
+          "fotoUrl": "https://assets.casabert.mx/img/product/ai/ALUBIA_GRANDE.png",
           "img": {
-            "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Failidmx%2FBertClient%40main%2Fimg%2Fproduct%2FALUBIA_GRANDE.png&w=320&h=320&fit=cover&q=72&output=webp",
-            "fullSize": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/ALUBIA_GRANDE.png"
+            "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fassets.casabert.mx%2Fimg%2Fproduct%2Fai%2FALUBIA_GRANDE.png&w=320&h=320&fit=cover&q=72&output=webp",
+            "fullSize": "https://assets.casabert.mx/img/product/ai/ALUBIA_GRANDE.png"
           },
           "description": "Proteína vegetal completa",
           "shortDescription": "Proteína vegetal completa",
@@ -1852,10 +1852,10 @@
           "name": "AZUCAR ESTANDAR",
           "id": "24",
           "key": "24",
-          "fotoUrl": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/AZUCAR-ESTANDAR.png",
+          "fotoUrl": "https://assets.casabert.mx/img/product/ai/AZUCAR-ESTANDAR.png",
           "img": {
-            "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Failidmx%2FBertClient%40main%2Fimg%2Fproduct%2FAZUCAR-ESTANDAR.png&w=320&h=320&fit=cover&q=72&output=webp",
-            "fullSize": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/AZUCAR-ESTANDAR.png"
+            "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fassets.casabert.mx%2Fimg%2Fproduct%2Fai%2FAZUCAR-ESTANDAR.png&w=320&h=320&fit=cover&q=72&output=webp",
+            "fullSize": "https://assets.casabert.mx/img/product/ai/AZUCAR-ESTANDAR.png"
           },
           "description": "Dulzor clásico y funcional",
           "shortDescription": "Dulzor clásico y funcional",
@@ -2158,10 +2158,10 @@
           "name": "AJO ENTERO MEDIANO",
           "id": "2",
           "key": "2",
-          "fotoUrl": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/AJO_ENTERO-mediano.png",
+          "fotoUrl": "https://assets.casabert.mx/img/product/ai/AJO_ENTERO-mediano.png",
           "img": {
-            "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Failidmx%2FBertClient%40main%2Fimg%2Fproduct%2FAJO_ENTERO-mediano.png&w=320&h=320&fit=cover&q=72&output=webp",
-            "fullSize": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/AJO_ENTERO-mediano.png"
+            "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fassets.casabert.mx%2Fimg%2Fproduct%2Fai%2FAJO_ENTERO-mediano.png&w=320&h=320&fit=cover&q=72&output=webp",
+            "fullSize": "https://assets.casabert.mx/img/product/ai/AJO_ENTERO-mediano.png"
           },
           "description": "Intensidad natural y defensiva",
           "shortDescription": "Intensidad natural y defensiva",
@@ -2176,10 +2176,10 @@
           "name": "AJO MOLIDO",
           "id": "3",
           "key": "3",
-          "fotoUrl": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/AJO_MOLIDO.png",
+          "fotoUrl": "https://assets.casabert.mx/img/product/ai/AJO_MOLIDO.png",
           "img": {
-            "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Failidmx%2FBertClient%40main%2Fimg%2Fproduct%2FAJO_MOLIDO.png&w=320&h=320&fit=cover&q=72&output=webp",
-            "fullSize": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/AJO_MOLIDO.png"
+            "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fassets.casabert.mx%2Fimg%2Fproduct%2Fai%2FAJO_MOLIDO.png&w=320&h=320&fit=cover&q=72&output=webp",
+            "fullSize": "https://assets.casabert.mx/img/product/ai/AJO_MOLIDO.png"
           },
           "description": "Sabor práctico y potente",
           "shortDescription": "Sabor práctico y potente",
@@ -2212,10 +2212,10 @@
           "name": "ANIS VERDE",
           "id": "15",
           "key": "15",
-          "fotoUrl": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/ANIS%20VERDE.png",
+          "fotoUrl": "https://assets.casabert.mx/img/product/ai/ANIS%20VERDE.png",
           "img": {
-            "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Failidmx%2FBertClient%40main%2Fimg%2Fproduct%2FANIS%2520VERDE.png&w=320&h=320&fit=cover&q=72&output=webp",
-            "fullSize": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/ANIS%20VERDE.png"
+            "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fassets.casabert.mx%2Fimg%2Fproduct%2Fai%2FANIS%2520VERDE.png&w=320&h=320&fit=cover&q=72&output=webp",
+            "fullSize": "https://assets.casabert.mx/img/product/ai/ANIS%20VERDE.png"
           },
           "description": "Dulzor herbal natural",
           "shortDescription": "Dulzor herbal natural",
@@ -2632,10 +2632,10 @@
           "name": "ALBAHACA",
           "id": "6",
           "key": "6",
-          "fotoUrl": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/ALBAHACA.png",
+          "fotoUrl": "https://assets.casabert.mx/img/product/ai/ALBAHACA.png",
           "img": {
-            "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Failidmx%2FBertClient%40main%2Fimg%2Fproduct%2FALBAHACA.png&w=320&h=320&fit=cover&q=72&output=webp",
-            "fullSize": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/ALBAHACA.png"
+            "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fassets.casabert.mx%2Fimg%2Fproduct%2Fai%2FALBAHACA.png&w=320&h=320&fit=cover&q=72&output=webp",
+            "fullSize": "https://assets.casabert.mx/img/product/ai/ALBAHACA.png"
           },
           "description": "Aroma fresco y digestivo",
           "shortDescription": "Aroma fresco y digestivo",
@@ -3280,10 +3280,10 @@
           "name": "AMARANTO",
           "id": "12",
           "key": "12",
-          "fotoUrl": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/AMARANTO.png",
+          "fotoUrl": "https://assets.casabert.mx/img/product/ai/AMARANTO.png",
           "img": {
-            "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Failidmx%2FBertClient%40main%2Fimg%2Fproduct%2FAMARANTO.png&w=320&h=320&fit=cover&q=72&output=webp",
-            "fullSize": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/AMARANTO.png"
+            "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fassets.casabert.mx%2Fimg%2Fproduct%2Fai%2FAMARANTO.png&w=320&h=320&fit=cover&q=72&output=webp",
+            "fullSize": "https://assets.casabert.mx/img/product/ai/AMARANTO.png"
           },
           "description": "Fuerza ancestral y nutrición densa",
           "shortDescription": "Fuerza ancestral y nutrición densa",
@@ -3316,10 +3316,10 @@
           "name": "ARROZ INTEGRAL",
           "id": "19",
           "key": "19",
-          "fotoUrl": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/ARROZ-INTEGRAL.png",
+          "fotoUrl": "https://assets.casabert.mx/img/product/ai/ARROZ-INTEGRAL.png",
           "img": {
-            "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Failidmx%2FBertClient%40main%2Fimg%2Fproduct%2FARROZ-INTEGRAL.png&w=320&h=320&fit=cover&q=72&output=webp",
-            "fullSize": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/ARROZ-INTEGRAL.png"
+            "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fassets.casabert.mx%2Fimg%2Fproduct%2Fai%2FARROZ-INTEGRAL.png&w=320&h=320&fit=cover&q=72&output=webp",
+            "fullSize": "https://assets.casabert.mx/img/product/ai/ARROZ-INTEGRAL.png"
           },
           "description": "Energía estable y natural",
           "shortDescription": "Energía estable y natural",
@@ -3646,10 +3646,10 @@
           "name": "GARBANZO",
           "id": "101",
           "key": "101",
-          "fotoUrl": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/GARBANZO.png",
+          "fotoUrl": "https://assets.casabert.mx/img/product/ai/GARBANZO.png",
           "img": {
-            "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Failidmx%2FBertClient%40main%2Fimg%2Fproduct%2FGARBANZO.png&w=320&h=320&fit=cover&q=72&output=webp",
-            "fullSize": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/GARBANZO.png"
+            "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fassets.casabert.mx%2Fimg%2Fproduct%2Fai%2FGARBANZO.png&w=320&h=320&fit=cover&q=72&output=webp",
+            "fullSize": "https://assets.casabert.mx/img/product/ai/GARBANZO.png"
           },
           "description": "Proteína vegetal y saciedad",
           "shortDescription": "Proteína vegetal y saciedad",
@@ -3730,10 +3730,10 @@
           "name": "AJONJOLI NEGRO",
           "id": "4",
           "key": "4",
-          "fotoUrl": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/AJONJOLI_NEGRO.png",
+          "fotoUrl": "https://assets.casabert.mx/img/product/ai/AJONJOLI_NEGRO.png",
           "img": {
-            "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Failidmx%2FBertClient%40main%2Fimg%2Fproduct%2FAJONJOLI_NEGRO.png&w=320&h=320&fit=cover&q=72&output=webp",
-            "fullSize": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/AJONJOLI_NEGRO.png"
+            "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fassets.casabert.mx%2Fimg%2Fproduct%2Fai%2FAJONJOLI_NEGRO.png&w=320&h=320&fit=cover&q=72&output=webp",
+            "fullSize": "https://assets.casabert.mx/img/product/ai/AJONJOLI_NEGRO.png"
           },
           "description": "Minerales y energía vegetal",
           "shortDescription": "Minerales y energía vegetal",
@@ -3748,10 +3748,10 @@
           "name": "AJONJOLI SIN CUTICULA",
           "id": "5",
           "key": "5",
-          "fotoUrl": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/AJONJOLI_SIN_CUTICULA.png",
+          "fotoUrl": "https://assets.casabert.mx/img/product/ai/AJONJOLI_SIN_CUTICULA.png",
           "img": {
-            "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Failidmx%2FBertClient%40main%2Fimg%2Fproduct%2FAJONJOLI_SIN_CUTICULA.png&w=320&h=320&fit=cover&q=72&output=webp",
-            "fullSize": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/AJONJOLI_SIN_CUTICULA.png"
+            "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fassets.casabert.mx%2Fimg%2Fproduct%2Fai%2FAJONJOLI_SIN_CUTICULA.png&w=320&h=320&fit=cover&q=72&output=webp",
+            "fullSize": "https://assets.casabert.mx/img/product/ai/AJONJOLI_SIN_CUTICULA.png"
           },
           "description": "Energía ligera y versátil",
           "shortDescription": "Energía ligera y versátil",
@@ -3766,10 +3766,10 @@
           "name": "ALMENDRA EN POLVO",
           "id": "8",
           "key": "8",
-          "fotoUrl": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/ALMENDRA-EN-POLVO.png",
+          "fotoUrl": "https://assets.casabert.mx/img/product/ai/ALMENDRA-EN-POLVO.png",
           "img": {
-            "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Failidmx%2FBertClient%40main%2Fimg%2Fproduct%2FALMENDRA-EN-POLVO.png&w=320&h=320&fit=cover&q=72&output=webp",
-            "fullSize": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/ALMENDRA-EN-POLVO.png"
+            "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fassets.casabert.mx%2Fimg%2Fproduct%2Fai%2FALMENDRA-EN-POLVO.png&w=320&h=320&fit=cover&q=72&output=webp",
+            "fullSize": "https://assets.casabert.mx/img/product/ai/ALMENDRA-EN-POLVO.png"
           },
           "description": "Nutrición versátil y ligera",
           "shortDescription": "Nutrición versátil y ligera",
@@ -3784,10 +3784,10 @@
           "name": "ALMENDRA ENTERA",
           "id": "9",
           "key": "9",
-          "fotoUrl": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/ALMENDRA-ENTERA.PNG",
+          "fotoUrl": "https://assets.casabert.mx/img/product/ai/ALMENDRA-ENTERA.PNG",
           "img": {
-            "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Failidmx%2FBertClient%40main%2Fimg%2Fproduct%2FALMENDRA-ENTERA.PNG&w=320&h=320&fit=cover&q=72&output=webp",
-            "fullSize": "https://cdn.jsdelivr.net/gh/ailidmx/BertClient@main/img/product/ALMENDRA-ENTERA.PNG"
+            "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fassets.casabert.mx%2Fimg%2Fproduct%2Fai%2FALMENDRA-ENTERA.PNG&w=320&h=320&fit=cover&q=72&output=webp",
+            "fullSize": "https://assets.casabert.mx/img/product/ai/ALMENDRA-ENTERA.PNG"
           },
           "description": "Energía limpia y saciedad natural",
           "shortDescription": "Energía limpia y saciedad natural",
