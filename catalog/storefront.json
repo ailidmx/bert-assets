@@ -2,7 +2,7 @@
   "meta": {
     "title": "Casa Bert Mini App",
     "subtitle": "Catálogo dinámico",
-    "updatedAt": "19/02/2026 20:22",
+    "updatedAt": "19/02/2026 20:25",
     "cacheSeconds": 180
   },
   "brand": {
@@ -41,6 +41,7 @@
     {
       "name": "Botanas saladas",
       "id": "C7",
+      "zone": "Antojo",
       "emoji": "🧂",
       "shortDescription": "Snacks salados para compartir",
       "longDescription": "",
@@ -52,9 +53,9 @@
           "name": "BOTANA MIXTA",
           "id": "31",
           "key": "31",
-          "fotoUrl": "https://assets.casabert.mx/img/product/ai/BOTANA_MIXTA.png",
           "img": {
             "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fassets.casabert.mx%2Fimg%2Fproduct%2Fai%2FBOTANA_MIXTA.png&w=320&h=320&fit=cover&q=72&output=webp",
+            "carousel": "https://images.weserv.nl/?url=https%3A%2F%2Fassets.casabert.mx%2Fimg%2Fproduct%2Fai%2FBOTANA_MIXTA.png&w=640&h=640&fit=cover&q=74&output=webp",
             "fullSize": "https://assets.casabert.mx/img/product/ai/BOTANA_MIXTA.png"
           },
           "description": "Energía variada y práctica",
@@ -70,9 +71,9 @@
           "name": "FRITURA ENCHILADA",
           "id": "88",
           "key": "88",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Crujiente picante",
@@ -88,9 +89,9 @@
           "name": "GARBANZO ENCHILADO",
           "id": "102",
           "key": "102",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Proteína vegetal con carácter",
@@ -106,9 +107,9 @@
           "name": "HABA ENCHILADA",
           "id": "107",
           "key": "107",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Proteína vegetal con carácter",
@@ -124,9 +125,9 @@
           "name": "MAIZ CHILE LIMON",
           "id": "138",
           "key": "138",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Crujiente fresco y vibrante",
@@ -142,9 +143,9 @@
           "name": "MAIZ INFLADO CHILE LIMON",
           "id": "139",
           "key": "139",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Ligero y dinámico",
@@ -160,9 +161,9 @@
           "name": "MAIZ INFLADO JALAPENO",
           "id": "140",
           "key": "140",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Picante ligero crujiente",
@@ -178,9 +179,9 @@
           "name": "MAIZ INFLADO QUESO CHILE",
           "id": "141",
           "key": "141",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Sabor intenso crujiente",
@@ -196,9 +197,9 @@
           "name": "MAIZ INFLADO RANCHERO",
           "id": "142",
           "key": "142",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Crujiente especiado",
@@ -214,9 +215,9 @@
           "name": "MAIZ INFLADO SALSAS NEGRAS",
           "id": "143",
           "key": "143",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Intensidad vibrante",
@@ -232,9 +233,9 @@
           "name": "MAIZ PALOMERO",
           "id": "144",
           "key": "144",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Snack natural y ligero",
@@ -250,9 +251,9 @@
           "name": "PALOMITA NATURAL",
           "id": "158",
           "key": "158",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Snack ligero y simple",
@@ -268,9 +269,9 @@
           "name": "PALOMITA QUESO",
           "id": "201",
           "key": "201",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "",
@@ -286,9 +287,9 @@
           "name": "PAPA FRITA",
           "id": "162",
           "key": "162",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Crujiente clásico energético",
@@ -304,9 +305,9 @@
           "name": "PRETZEL C/ CHOCOLATE",
           "id": "175",
           "key": "175",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "",
@@ -322,9 +323,9 @@
           "name": "SEMILLA TAPATIA DORADA",
           "id": "184",
           "key": "184",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Energía crujiente tradicional",
@@ -340,9 +341,9 @@
           "name": "TAKIS COLIFLOR FUEGO",
           "id": "187",
           "key": "187",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Crujiente vegetal picante",
@@ -358,9 +359,9 @@
           "name": "TAKIS ESPINACA LIMON",
           "id": "188",
           "key": "188",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Vegetal crujiente cítrico",
@@ -377,6 +378,7 @@
     {
       "name": "Cacahuates",
       "id": "C6",
+      "zone": "Antojo",
       "emoji": "🥜",
       "shortDescription": "El clásico antojo crujiente",
       "longDescription": "",
@@ -388,9 +390,9 @@
           "name": "CACAHUATE C/CARAMEL",
           "id": "32",
           "key": "32",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Energía dulce y crujiente",
@@ -406,9 +408,9 @@
           "name": "CACAHUATE DORADO",
           "id": "33",
           "key": "33",
-          "fotoUrl": "https://assets.casabert.mx/img/product/ai/CACAHUATE%20DORADO.png",
           "img": {
             "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fassets.casabert.mx%2Fimg%2Fproduct%2Fai%2FCACAHUATE%2520DORADO.png&w=320&h=320&fit=cover&q=72&output=webp",
+            "carousel": "https://images.weserv.nl/?url=https%3A%2F%2Fassets.casabert.mx%2Fimg%2Fproduct%2Fai%2FCACAHUATE%2520DORADO.png&w=640&h=640&fit=cover&q=74&output=webp",
             "fullSize": "https://assets.casabert.mx/img/product/ai/CACAHUATE%20DORADO.png"
           },
           "description": "Energía vegetal crujiente",
@@ -424,9 +426,9 @@
           "name": "CACAHUATE ENCHILADO GRANDE",
           "id": "34",
           "key": "34",
-          "fotoUrl": "https://assets.casabert.mx/img/product/ai/CACAHUATE%20ENCHILADO%20GRANDE.png",
           "img": {
             "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fassets.casabert.mx%2Fimg%2Fproduct%2Fai%2FCACAHUATE%2520ENCHILADO%2520GRANDE.png&w=320&h=320&fit=cover&q=72&output=webp",
+            "carousel": "https://images.weserv.nl/?url=https%3A%2F%2Fassets.casabert.mx%2Fimg%2Fproduct%2Fai%2FCACAHUATE%2520ENCHILADO%2520GRANDE.png&w=640&h=640&fit=cover&q=74&output=webp",
             "fullSize": "https://assets.casabert.mx/img/product/ai/CACAHUATE%20ENCHILADO%20GRANDE.png"
           },
           "description": "Energía con intensidad",
@@ -442,9 +444,9 @@
           "name": "CACAHUATE GARAMPINADO",
           "id": "35",
           "key": "35",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Dulce crujiente tradicional",
@@ -460,9 +462,9 @@
           "name": "CACAHUATE JAPONES HOT NUT",
           "id": "36",
           "key": "36",
-          "fotoUrl": "https://assets.casabert.mx/img/product/ai/CACAHUATE%20JAPONES%20HOT%20NUT.png",
           "img": {
             "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fassets.casabert.mx%2Fimg%2Fproduct%2Fai%2FCACAHUATE%2520JAPONES%2520HOT%2520NUT.png&w=320&h=320&fit=cover&q=72&output=webp",
+            "carousel": "https://images.weserv.nl/?url=https%3A%2F%2Fassets.casabert.mx%2Fimg%2Fproduct%2Fai%2FCACAHUATE%2520JAPONES%2520HOT%2520NUT.png&w=640&h=640&fit=cover&q=74&output=webp",
             "fullSize": "https://assets.casabert.mx/img/product/ai/CACAHUATE%20JAPONES%20HOT%20NUT.png"
           },
           "description": "Crujiente intenso y energético",
@@ -478,9 +480,9 @@
           "name": "CACAHUATE JAPONES HOT QUESO",
           "id": "37",
           "key": "37",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Crujiente intenso y sabroso",
@@ -496,9 +498,9 @@
           "name": "CACAHUATE JAPONES SIMPLE DELAROSA",
           "id": "38",
           "key": "38",
-          "fotoUrl": "https://assets.casabert.mx/img/product/ai/CACAHUATE%20JAPONES%20SIMPLE%20DELAROSA.png",
           "img": {
             "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fassets.casabert.mx%2Fimg%2Fproduct%2Fai%2FCACAHUATE%2520JAPONES%2520SIMPLE%2520DELAROSA.png&w=320&h=320&fit=cover&q=72&output=webp",
+            "carousel": "https://images.weserv.nl/?url=https%3A%2F%2Fassets.casabert.mx%2Fimg%2Fproduct%2Fai%2FCACAHUATE%2520JAPONES%2520SIMPLE%2520DELAROSA.png&w=640&h=640&fit=cover&q=74&output=webp",
             "fullSize": "https://assets.casabert.mx/img/product/ai/CACAHUATE%20JAPONES%20SIMPLE%20DELAROSA.png"
           },
           "description": "Crujiente clásico tradicional",
@@ -514,9 +516,9 @@
           "name": "CACAHUATE JUMBO C/ CUTICULA",
           "id": "39",
           "key": "39",
-          "fotoUrl": "https://assets.casabert.mx/img/product/ai/CACAHUATE%20CASCARITA.png",
           "img": {
             "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fassets.casabert.mx%2Fimg%2Fproduct%2Fai%2FCACAHUATE%2520CASCARITA.png&w=320&h=320&fit=cover&q=72&output=webp",
+            "carousel": "https://images.weserv.nl/?url=https%3A%2F%2Fassets.casabert.mx%2Fimg%2Fproduct%2Fai%2FCACAHUATE%2520CASCARITA.png&w=640&h=640&fit=cover&q=74&output=webp",
             "fullSize": "https://assets.casabert.mx/img/product/ai/CACAHUATE%20CASCARITA.png"
           },
           "description": "Energía clásica y natural",
@@ -532,9 +534,9 @@
           "name": "CACAHUATE MACHO GRANDE",
           "id": "40",
           "key": "40",
-          "fotoUrl": "https://assets.casabert.mx/img/product/ai/CACAHUATE%20MACHO%20GRANDE.png",
           "img": {
             "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fassets.casabert.mx%2Fimg%2Fproduct%2Fai%2FCACAHUATE%2520MACHO%2520GRANDE.png&w=320&h=320&fit=cover&q=72&output=webp",
+            "carousel": "https://images.weserv.nl/?url=https%3A%2F%2Fassets.casabert.mx%2Fimg%2Fproduct%2Fai%2FCACAHUATE%2520MACHO%2520GRANDE.png&w=640&h=640&fit=cover&q=74&output=webp",
             "fullSize": "https://assets.casabert.mx/img/product/ai/CACAHUATE%20MACHO%20GRANDE.png"
           },
           "description": "Energía potente natural",
@@ -550,9 +552,9 @@
           "name": "CACAHUATE MARTAJADO",
           "id": "41",
           "key": "41",
-          "fotoUrl": "https://assets.casabert.mx/img/product/ai/CACAHUATE%20MARTAJADO.png",
           "img": {
             "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fassets.casabert.mx%2Fimg%2Fproduct%2Fai%2FCACAHUATE%2520MARTAJADO.png&w=320&h=320&fit=cover&q=72&output=webp",
+            "carousel": "https://images.weserv.nl/?url=https%3A%2F%2Fassets.casabert.mx%2Fimg%2Fproduct%2Fai%2FCACAHUATE%2520MARTAJADO.png&w=640&h=640&fit=cover&q=74&output=webp",
             "fullSize": "https://assets.casabert.mx/img/product/ai/CACAHUATE%20MARTAJADO.png"
           },
           "description": "Intensidad crujiente picante",
@@ -569,6 +571,7 @@
     {
       "name": "Dulces",
       "id": "C10",
+      "zone": "Antojo",
       "emoji": "🍭",
       "shortDescription": "Antojitos dulces para consentirte",
       "longDescription": "",
@@ -580,9 +583,9 @@
           "name": "ALMENDRA CON CHOCOLATE",
           "id": "7",
           "key": "7",
-          "fotoUrl": "https://assets.casabert.mx/img/product/ai/ALMENDRAS_CON_CHOCOLATE.png",
           "img": {
             "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fassets.casabert.mx%2Fimg%2Fproduct%2Fai%2FALMENDRAS_CON_CHOCOLATE.png&w=320&h=320&fit=cover&q=72&output=webp",
+            "carousel": "https://images.weserv.nl/?url=https%3A%2F%2Fassets.casabert.mx%2Fimg%2Fproduct%2Fai%2FALMENDRAS_CON_CHOCOLATE.png&w=640&h=640&fit=cover&q=74&output=webp",
             "fullSize": "https://assets.casabert.mx/img/product/ai/ALMENDRAS_CON_CHOCOLATE.png"
           },
           "description": "Energía crujiente equilibrada",
@@ -598,9 +601,9 @@
           "name": "ARO DURAZNO LUCKY",
           "id": "18",
           "key": "18",
-          "fotoUrl": "https://assets.casabert.mx/img/product/ai/ARO-DURAZNO-LUCKY.png",
           "img": {
             "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fassets.casabert.mx%2Fimg%2Fproduct%2Fai%2FARO-DURAZNO-LUCKY.png&w=320&h=320&fit=cover&q=72&output=webp",
+            "carousel": "https://images.weserv.nl/?url=https%3A%2F%2Fassets.casabert.mx%2Fimg%2Fproduct%2Fai%2FARO-DURAZNO-LUCKY.png&w=640&h=640&fit=cover&q=74&output=webp",
             "fullSize": "https://assets.casabert.mx/img/product/ai/ARO-DURAZNO-LUCKY.png"
           },
           "description": "Dulce frutal ligero",
@@ -616,9 +619,9 @@
           "name": "BOMBON MEDIANO",
           "id": "28",
           "key": "28",
-          "fotoUrl": "https://assets.casabert.mx/img/product/ai/BOMBON-MEDIANO.png",
           "img": {
             "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fassets.casabert.mx%2Fimg%2Fproduct%2Fai%2FBOMBON-MEDIANO.png&w=320&h=320&fit=cover&q=72&output=webp",
+            "carousel": "https://images.weserv.nl/?url=https%3A%2F%2Fassets.casabert.mx%2Fimg%2Fproduct%2Fai%2FBOMBON-MEDIANO.png&w=640&h=640&fit=cover&q=74&output=webp",
             "fullSize": "https://assets.casabert.mx/img/product/ai/BOMBON-MEDIANO.png"
           },
           "description": "Suavidad ligera y dulce",
@@ -634,9 +637,9 @@
           "name": "BOMBON MINIATURA",
           "id": "29",
           "key": "29",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Dulce ligero clásico",
@@ -652,9 +655,9 @@
           "name": "BORRACHITOS",
           "id": "30",
           "key": "30",
-          "fotoUrl": "https://assets.casabert.mx/img/product/ai/BORRACHITOS.png",
           "img": {
             "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fassets.casabert.mx%2Fimg%2Fproduct%2Fai%2FBORRACHITOS.png&w=320&h=320&fit=cover&q=72&output=webp",
+            "carousel": "https://images.weserv.nl/?url=https%3A%2F%2Fassets.casabert.mx%2Fimg%2Fproduct%2Fai%2FBORRACHITOS.png&w=640&h=640&fit=cover&q=74&output=webp",
             "fullSize": "https://assets.casabert.mx/img/product/ai/BORRACHITOS.png"
           },
           "description": "Tradición dulce mexicana",
@@ -670,9 +673,9 @@
           "name": "CANGURU MANGO",
           "id": "51",
           "key": "51",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Dulzor tropical divertido",
@@ -688,9 +691,9 @@
           "name": "CANGURU SANDIA",
           "id": "52",
           "key": "52",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Frescura dulce y vibrante",
@@ -706,9 +709,9 @@
           "name": "CANGURU TAMARINDO",
           "id": "53",
           "key": "53",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Intensidad dulce-ácida",
@@ -724,9 +727,9 @@
           "name": "CHISPAS DE CHOCOLATE LUSSEL",
           "id": "68",
           "key": "68",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Dulzor práctico y versátil",
@@ -742,9 +745,9 @@
           "name": "CONFICHOKY",
           "id": "77",
           "key": "77",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Crujiente dulce clásico",
@@ -760,9 +763,9 @@
           "name": "CORAZON LUCKY",
           "id": "79",
           "key": "79",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Dulzor divertido y ligero",
@@ -778,9 +781,9 @@
           "name": "CUCHARADA DE TAMARINDO",
           "id": "202",
           "key": "202",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "",
@@ -796,9 +799,9 @@
           "name": "FRUTA LUCKY",
           "id": "89",
           "key": "89",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Dulce suave y frutal",
@@ -814,9 +817,9 @@
           "name": "GAJO COLOR",
           "id": "91",
           "key": "91",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Dulzor vibrante",
@@ -832,9 +835,9 @@
           "name": "GOMAS FRUTAS DEL BOSQUE",
           "id": "103",
           "key": "103",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Frutal intenso",
@@ -850,9 +853,9 @@
           "name": "HUESITO (CHOCO-GALLETA)",
           "id": "116",
           "key": "116",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Crujiente con chocolate",
@@ -868,9 +871,9 @@
           "name": "LAPOSSE SOUR FRUTS",
           "id": "128",
           "key": "128",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Dulce ácido y dinámico",
@@ -886,9 +889,9 @@
           "name": "LOMBRICES",
           "id": "135",
           "key": "135",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Dulce divertido",
@@ -904,9 +907,9 @@
           "name": "LOMBRICES ACIDITAS (NEON LUCKY)",
           "id": "136",
           "key": "136",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Dulce ácido vibrante",
@@ -922,9 +925,9 @@
           "name": "LUNETA DE COLORES",
           "id": "137",
           "key": "137",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Chocolate clásico colorido",
@@ -940,9 +943,9 @@
           "name": "MANGOMITA",
           "id": "147",
           "key": "147",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Dulce frutal con intensidad",
@@ -958,9 +961,9 @@
           "name": "MINI-LUNETAS",
           "id": "151",
           "key": "151",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Color y energía divertida",
@@ -976,9 +979,9 @@
           "name": "PANDA RICOLINO",
           "id": "161",
           "key": "161",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Dulce suave tradicional",
@@ -994,9 +997,9 @@
           "name": "PASAS CON CHOCOLATE",
           "id": "163",
           "key": "163",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Dulzor natural equilibrado",
@@ -1012,9 +1015,9 @@
           "name": "SHARK LUCKY",
           "id": "185",
           "key": "185",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Dulce divertido",
@@ -1030,9 +1033,9 @@
           "name": "TAMALITO DE TAMARINDO",
           "id": "201",
           "key": "201",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "",
@@ -1049,6 +1052,7 @@
     {
       "name": "Extras (No alimentos)",
       "id": "C21",
+      "zone": "Antojo",
       "emoji": "🧩",
       "shortDescription": "Accesorios y extras de compra rápida",
       "longDescription": "",
@@ -1060,9 +1064,9 @@
           "name": "GOMINA",
           "id": "104",
           "key": "104",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Textura suave y dulce",
@@ -1078,9 +1082,9 @@
           "name": "LIBRETA (PIEZA)",
           "id": "132",
           "key": "132",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Organización práctica",
@@ -1096,9 +1100,9 @@
           "name": "PULSERA",
           "id": "176",
           "key": "176",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Detalle sencillo",
@@ -1115,6 +1119,7 @@
     {
       "name": "Galletas",
       "id": "C11",
+      "zone": "Antojo",
       "emoji": "🍪",
       "shortDescription": "Galletas tradicionales para toda hora",
       "longDescription": "",
@@ -1126,9 +1131,9 @@
           "name": "GALLETA ANIMALITO",
           "id": "92",
           "key": "92",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Crujiente dulce clásico",
@@ -1144,9 +1149,9 @@
           "name": "GALLETA AVENA (CAJA)",
           "id": "93",
           "key": "93",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Fibra ligera y dulzor suave",
@@ -1162,9 +1167,9 @@
           "name": "GALLETA BIROTITO (CAJA)",
           "id": "94",
           "key": "94",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Dulce ligero tradicional",
@@ -1180,9 +1185,9 @@
           "name": "GALLETA CAMPECHANA (CAJA)",
           "id": "95",
           "key": "95",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Textura crujiente dulce",
@@ -1198,9 +1203,9 @@
           "name": "GALLETA INTEGRAL MULTIGRANO (CAJA)",
           "id": "96",
           "key": "96",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Energía más equilibrada",
@@ -1216,9 +1221,9 @@
           "name": "GALLETA MANTEQUILLA (CAJA)",
           "id": "97",
           "key": "97",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Suavidad tradicional",
@@ -1234,9 +1239,9 @@
           "name": "GALLETA MINI LETRA",
           "id": "98",
           "key": "98",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Dulce divertido",
@@ -1252,9 +1257,9 @@
           "name": "GALLETA OREJAS",
           "id": "99",
           "key": "99",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Crujiente clásico",
@@ -1270,9 +1275,9 @@
           "name": "GALLETA POLVORON DE NARANJA",
           "id": "100",
           "key": "100",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Dulzor cítrico tradicional",
@@ -1288,9 +1293,9 @@
           "name": "PAN DE TRIGO Y SALVADO",
           "id": "159",
           "key": "159",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Fibra y energía estable",
@@ -1306,9 +1311,9 @@
           "name": "PAN DE TRIGO Y SALVADO C/FRUTOS",
           "id": "160",
           "key": "160",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Energía con textura natural",
@@ -1325,6 +1330,7 @@
     {
       "name": "Semillas especiales",
       "id": "C8",
+      "zone": "Antojo",
       "emoji": "🌱",
       "shortDescription": "Semillas funcionales para uso específico",
       "longDescription": "",
@@ -1336,9 +1342,9 @@
           "name": "ALPISTE SIMPLE",
           "id": "10",
           "key": "10",
-          "fotoUrl": "https://assets.casabert.mx/img/product/ai/ALPISTE_SIMPLE.png",
           "img": {
             "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fassets.casabert.mx%2Fimg%2Fproduct%2Fai%2FALPISTE_SIMPLE.png&w=320&h=320&fit=cover&q=72&output=webp",
+            "carousel": "https://images.weserv.nl/?url=https%3A%2F%2Fassets.casabert.mx%2Fimg%2Fproduct%2Fai%2FALPISTE_SIMPLE.png&w=640&h=640&fit=cover&q=74&output=webp",
             "fullSize": "https://assets.casabert.mx/img/product/ai/ALPISTE_SIMPLE.png"
           },
           "description": "Energía vegetal ligera",
@@ -1355,6 +1361,7 @@
     {
       "name": "Snacks enchilados/deshidratados",
       "id": "C9",
+      "zone": "Antojo",
       "emoji": "🌶️",
       "shortDescription": "Picante rico con toque mexicano",
       "longDescription": "",
@@ -1366,10 +1373,10 @@
           "name": "BETABEL DESHIDRATADO",
           "id": "26",
           "key": "26",
-          "fotoUrl": "https://raw.githubusercontent.com/ailidmx/BertClient/main/img/product/BETABEL.png",
           "img": {
-            "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Failidmx%2FBertClient%2Fmain%2Fimg%2Fproduct%2FBETABEL.png&w=320&h=320&fit=cover&q=72&output=webp",
-            "fullSize": "https://raw.githubusercontent.com/ailidmx/BertClient/main/img/product/BETABEL.png"
+            "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Failidmx%2Fbert-assets%40main%2Fimg%2Fproduct%2Fai%2FBETABEL.png&w=320&h=320&fit=cover&q=72&output=webp",
+            "carousel": "https://images.weserv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Failidmx%2Fbert-assets%40main%2Fimg%2Fproduct%2Fai%2FBETABEL.png&w=640&h=640&fit=cover&q=74&output=webp",
+            "fullSize": "https://cdn.jsdelivr.net/gh/ailidmx/bert-assets@main/img/product/ai/BETABEL.png"
           },
           "description": "Energía vegetal crujiente",
           "shortDescription": "Energía vegetal crujiente",
@@ -1384,9 +1391,9 @@
           "name": "CAMOTE ADOBADO",
           "id": "47",
           "key": "47",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Dulzor especiado natural",
@@ -1402,9 +1409,9 @@
           "name": "CAMOTE DESHIDRATADO",
           "id": "48",
           "key": "48",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Dulzor natural y energía estable",
@@ -1420,9 +1427,9 @@
           "name": "FRUTA PICADA",
           "id": "90",
           "key": "90",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Energía frutal práctica",
@@ -1438,9 +1445,9 @@
           "name": "JAMAICA C/ CHILE",
           "id": "119",
           "key": "119",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Frescura con carácter",
@@ -1456,9 +1463,9 @@
           "name": "JICAMA ADOBADA",
           "id": "122",
           "key": "122",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Frescura natural con intensidad",
@@ -1474,9 +1481,9 @@
           "name": "JICAMA C/ LIMON",
           "id": "123",
           "key": "123",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Frescura cítrica ligera",
@@ -1492,9 +1499,9 @@
           "name": "JICAMA FUEGO",
           "id": "124",
           "key": "124",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Intensidad vegetal picante",
@@ -1510,9 +1517,9 @@
           "name": "JICAMA HABANERO",
           "id": "125",
           "key": "125",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Picante vibrante vegetal",
@@ -1528,9 +1535,9 @@
           "name": "JICAMA QUESO",
           "id": "126",
           "key": "126",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Frescura con sabor intenso",
@@ -1546,9 +1553,9 @@
           "name": "JICAMA SALSAS NEGRAS",
           "id": "127",
           "key": "127",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Vegetal vibrante",
@@ -1564,9 +1571,9 @@
           "name": "MANGO NATURAL ENCHILADO PREMIER",
           "id": "145",
           "key": "145",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Energía tropical con carácter",
@@ -1582,9 +1589,9 @@
           "name": "MANGO PETACON CHAMOY",
           "id": "146",
           "key": "146",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Dulce picante tropical",
@@ -1600,9 +1607,9 @@
           "name": "PEPINO C/ SALSAS NEGRAS",
           "id": "165",
           "key": "165",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Frescura intensa vegetal",
@@ -1619,6 +1626,7 @@
     {
       "name": "Café",
       "id": "C18",
+      "zone": "Café & Bebidas",
       "emoji": "☕",
       "shortDescription": "Café para empezar o acompañar",
       "longDescription": "",
@@ -1630,9 +1638,9 @@
           "name": "CACAO MOLIDO",
           "id": "42",
           "key": "42",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Antioxidantes y energía natural",
@@ -1648,9 +1656,9 @@
           "name": "CAFE CON CHOCOLATE",
           "id": "43",
           "key": "43",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Energía reconfortante",
@@ -1666,9 +1674,9 @@
           "name": "CAFE GRANO TOST AMERICANO",
           "id": "44",
           "key": "44",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "",
@@ -1684,9 +1692,9 @@
           "name": "CAFE SOLUBLE",
           "id": "45",
           "key": "45",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Energía inmediata y práctica",
@@ -1703,6 +1711,7 @@
     {
       "name": "Frutas tradicionales",
       "id": "C17",
+      "zone": "Café & Bebidas",
       "emoji": "🍒",
       "shortDescription": "Sabores clásicos y regionales",
       "longDescription": "",
@@ -1714,9 +1723,9 @@
           "name": "ATE DE MEMBRILLO",
           "id": "21",
           "key": "21",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Dulzor tradicional y natural",
@@ -1732,9 +1741,9 @@
           "name": "CEREZA CHERRY",
           "id": "61",
           "key": "61",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Dulzor clásico y suave",
@@ -1750,9 +1759,9 @@
           "name": "COCO REBANADO NATURAL Y DORADO",
           "id": "73",
           "key": "73",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Energía tropical crujiente",
@@ -1768,9 +1777,9 @@
           "name": "TAMARINDO ENTERO",
           "id": "189",
           "key": "189",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Energía ácida natural",
@@ -1787,6 +1796,7 @@
     {
       "name": "Básicos",
       "id": "C13",
+      "zone": "Cocina Tradicional",
       "emoji": "🧺",
       "shortDescription": "Despensa esencial de todos los días",
       "longDescription": "",
@@ -1798,9 +1808,9 @@
           "name": "ABANGO",
           "id": "1",
           "key": "1",
-          "fotoUrl": "https://assets.casabert.mx/img/product/ai/ABANGO.png",
           "img": {
             "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fassets.casabert.mx%2Fimg%2Fproduct%2Fai%2FABANGO.png&w=320&h=320&fit=cover&q=72&output=webp",
+            "carousel": "https://images.weserv.nl/?url=https%3A%2F%2Fassets.casabert.mx%2Fimg%2Fproduct%2Fai%2FABANGO.png&w=640&h=640&fit=cover&q=74&output=webp",
             "fullSize": "https://assets.casabert.mx/img/product/ai/ABANGO.png"
           },
           "description": "Mezcla herbal tradicional",
@@ -1816,9 +1826,9 @@
           "name": "ALUBIA GRANDE",
           "id": "11",
           "key": "11",
-          "fotoUrl": "https://assets.casabert.mx/img/product/ai/ALUBIA_GRANDE.png",
           "img": {
             "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fassets.casabert.mx%2Fimg%2Fproduct%2Fai%2FALUBIA_GRANDE.png&w=320&h=320&fit=cover&q=72&output=webp",
+            "carousel": "https://images.weserv.nl/?url=https%3A%2F%2Fassets.casabert.mx%2Fimg%2Fproduct%2Fai%2FALUBIA_GRANDE.png&w=640&h=640&fit=cover&q=74&output=webp",
             "fullSize": "https://assets.casabert.mx/img/product/ai/ALUBIA_GRANDE.png"
           },
           "description": "Proteína vegetal completa",
@@ -1834,9 +1844,9 @@
           "name": "ARROZ PROGRESO EXTRA",
           "id": "20",
           "key": "20",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Base energética clásica",
@@ -1852,9 +1862,9 @@
           "name": "AZUCAR ESTANDAR",
           "id": "24",
           "key": "24",
-          "fotoUrl": "https://assets.casabert.mx/img/product/ai/AZUCAR-ESTANDAR.png",
           "img": {
             "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fassets.casabert.mx%2Fimg%2Fproduct%2Fai%2FAZUCAR-ESTANDAR.png&w=320&h=320&fit=cover&q=72&output=webp",
+            "carousel": "https://images.weserv.nl/?url=https%3A%2F%2Fassets.casabert.mx%2Fimg%2Fproduct%2Fai%2FAZUCAR-ESTANDAR.png&w=640&h=640&fit=cover&q=74&output=webp",
             "fullSize": "https://assets.casabert.mx/img/product/ai/AZUCAR-ESTANDAR.png"
           },
           "description": "Dulzor clásico y funcional",
@@ -1870,9 +1880,9 @@
           "name": "AZUCAR MASCABADO",
           "id": "25",
           "key": "25",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Dulzor natural y profundo",
@@ -1888,9 +1898,9 @@
           "name": "CEBADA PELADA",
           "id": "55",
           "key": "55",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Energía tradicional",
@@ -1906,9 +1916,9 @@
           "name": "GRENETINA GEL CENTRO 300 BLUM",
           "id": "106",
           "key": "106",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Textura natural funcional",
@@ -1924,9 +1934,9 @@
           "name": "HARINA DE TRIGO (ESPUMA DE CHAPALA)",
           "id": "111",
           "key": "111",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Base clásica versátil",
@@ -1942,9 +1952,9 @@
           "name": "LECHE ENTERA EN POLVO",
           "id": "130",
           "key": "130",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Energía nutritiva práctica",
@@ -1960,9 +1970,9 @@
           "name": "PILONCILLO CONO MEXPAN",
           "id": "168",
           "key": "168",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Dulzor tradicional natural",
@@ -1978,9 +1988,9 @@
           "name": "PILONCILLO MOLIDO",
           "id": "169",
           "key": "169",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Dulzor práctico y auténtico",
@@ -1996,9 +2006,9 @@
           "name": "PINOLE",
           "id": "203",
           "key": "203",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "",
@@ -2015,6 +2025,7 @@
     {
       "name": "Cereales comerciales",
       "id": "C12",
+      "zone": "Cocina Tradicional",
       "emoji": "🥣",
       "shortDescription": "Cereales favoritos para snack rápido",
       "longDescription": "",
@@ -2026,9 +2037,9 @@
           "name": "CEREAL FRUTIRUEDA (FROOT LOOPS)",
           "id": "58",
           "key": "58",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Energía dulce y práctica",
@@ -2044,9 +2055,9 @@
           "name": "CEREAL HOJUELA AZUCARADA",
           "id": "59",
           "key": "59",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Dulzor ligero matutino",
@@ -2062,9 +2073,9 @@
           "name": "CEREAL RIKIRROZ MAIZORO (CHOCO KRISPIS)",
           "id": "60",
           "key": "60",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Chocolate crujiente",
@@ -2081,6 +2092,7 @@
     {
       "name": "Chiles",
       "id": "C16",
+      "zone": "Cocina Tradicional",
       "emoji": "🌶️",
       "shortDescription": "El picante base de la cocina mexicana",
       "longDescription": "",
@@ -2092,9 +2104,9 @@
           "name": "CHILE ANCHO 1ERA PASERA",
           "id": "65",
           "key": "65",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Intensidad profunda",
@@ -2110,9 +2122,9 @@
           "name": "CHILE INDIO S/C S-17",
           "id": "66",
           "key": "66",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Picante natural",
@@ -2128,9 +2140,9 @@
           "name": "CHILE MIRASOL 1ERA PASERA",
           "id": "67",
           "key": "67",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Sabor tradicional",
@@ -2147,6 +2159,7 @@
     {
       "name": "Condimentos y especias",
       "id": "C15",
+      "zone": "Cocina Tradicional",
       "emoji": "🫙",
       "shortDescription": "Sabor y aroma para tu cocina",
       "longDescription": "",
@@ -2158,9 +2171,9 @@
           "name": "AJO ENTERO MEDIANO",
           "id": "2",
           "key": "2",
-          "fotoUrl": "https://assets.casabert.mx/img/product/ai/AJO_ENTERO-mediano.png",
           "img": {
             "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fassets.casabert.mx%2Fimg%2Fproduct%2Fai%2FAJO_ENTERO-mediano.png&w=320&h=320&fit=cover&q=72&output=webp",
+            "carousel": "https://images.weserv.nl/?url=https%3A%2F%2Fassets.casabert.mx%2Fimg%2Fproduct%2Fai%2FAJO_ENTERO-mediano.png&w=640&h=640&fit=cover&q=74&output=webp",
             "fullSize": "https://assets.casabert.mx/img/product/ai/AJO_ENTERO-mediano.png"
           },
           "description": "Intensidad natural y defensiva",
@@ -2176,9 +2189,9 @@
           "name": "AJO MOLIDO",
           "id": "3",
           "key": "3",
-          "fotoUrl": "https://assets.casabert.mx/img/product/ai/AJO_MOLIDO.png",
           "img": {
             "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fassets.casabert.mx%2Fimg%2Fproduct%2Fai%2FAJO_MOLIDO.png&w=320&h=320&fit=cover&q=72&output=webp",
+            "carousel": "https://images.weserv.nl/?url=https%3A%2F%2Fassets.casabert.mx%2Fimg%2Fproduct%2Fai%2FAJO_MOLIDO.png&w=640&h=640&fit=cover&q=74&output=webp",
             "fullSize": "https://assets.casabert.mx/img/product/ai/AJO_MOLIDO.png"
           },
           "description": "Sabor práctico y potente",
@@ -2194,10 +2207,10 @@
           "name": "ANIS ESTRELLA",
           "id": "14",
           "key": "14",
-          "fotoUrl": "https://raw.githubusercontent.com/ailidmx/BertClient/refs/heads/main/img/product/ANIS.png",
           "img": {
-            "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Failidmx%2FBertClient%2Frefs%2Fheads%2Fmain%2Fimg%2Fproduct%2FANIS.png&w=320&h=320&fit=cover&q=72&output=webp",
-            "fullSize": "https://raw.githubusercontent.com/ailidmx/BertClient/refs/heads/main/img/product/ANIS.png"
+            "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Failidmx%2Fbert-assets%40main%2Fimg%2Fproduct%2Fai%2FANIS.png&w=320&h=320&fit=cover&q=72&output=webp",
+            "carousel": "https://images.weserv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Failidmx%2Fbert-assets%40main%2Fimg%2Fproduct%2Fai%2FANIS.png&w=640&h=640&fit=cover&q=74&output=webp",
+            "fullSize": "https://cdn.jsdelivr.net/gh/ailidmx/bert-assets@main/img/product/ai/ANIS.png"
           },
           "description": "Aroma cálido y reconfortante",
           "shortDescription": "Aroma cálido y reconfortante",
@@ -2212,9 +2225,9 @@
           "name": "ANIS VERDE",
           "id": "15",
           "key": "15",
-          "fotoUrl": "https://assets.casabert.mx/img/product/ai/ANIS%20VERDE.png",
           "img": {
             "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fassets.casabert.mx%2Fimg%2Fproduct%2Fai%2FANIS%2520VERDE.png&w=320&h=320&fit=cover&q=72&output=webp",
+            "carousel": "https://images.weserv.nl/?url=https%3A%2F%2Fassets.casabert.mx%2Fimg%2Fproduct%2Fai%2FANIS%2520VERDE.png&w=640&h=640&fit=cover&q=74&output=webp",
             "fullSize": "https://assets.casabert.mx/img/product/ai/ANIS%20VERDE.png"
           },
           "description": "Dulzor herbal natural",
@@ -2230,9 +2243,9 @@
           "name": "BICARBONATO DE SODIO",
           "id": "27",
           "key": "27",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Versatilidad práctica",
@@ -2248,9 +2261,9 @@
           "name": "CANELA EN VARA",
           "id": "49",
           "key": "49",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Calor natural y equilibrio",
@@ -2266,9 +2279,9 @@
           "name": "CANELA PURA MOLIDA",
           "id": "50",
           "key": "50",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Intensidad dulce y especiada",
@@ -2284,9 +2297,9 @@
           "name": "CARDAMOMO",
           "id": "54",
           "key": "54",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Aroma exótico y revitalizante",
@@ -2302,9 +2315,9 @@
           "name": "CEBOLLA ENTERA",
           "id": "56",
           "key": "56",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Base aromática natural",
@@ -2320,9 +2333,9 @@
           "name": "CEBOLLA MOLIDA",
           "id": "57",
           "key": "57",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Sabor práctico y profundo",
@@ -2338,9 +2351,9 @@
           "name": "CLAVO DE OLOR",
           "id": "71",
           "key": "71",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Potencia aromática natural",
@@ -2356,9 +2369,9 @@
           "name": "CLAVO DE OLOR MOLIDO",
           "id": "72",
           "key": "72",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Potencia aromática práctica",
@@ -2374,9 +2387,9 @@
           "name": "COMINO ENTERO",
           "id": "75",
           "key": "75",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Aroma intenso natural",
@@ -2392,9 +2405,9 @@
           "name": "COMINO MOLIDO",
           "id": "76",
           "key": "76",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Intensidad terrosa y digestiva",
@@ -2410,9 +2423,9 @@
           "name": "CONSAZON CONSOME",
           "id": "78",
           "key": "78",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Sabor concentrado práctico",
@@ -2428,9 +2441,9 @@
           "name": "CURCUMA ENTERA",
           "id": "80",
           "key": "80",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Raíz natural vibrante",
@@ -2446,9 +2459,9 @@
           "name": "CURCUMA MOLIDA",
           "id": "81",
           "key": "81",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Color natural y equilibrio",
@@ -2464,9 +2477,9 @@
           "name": "CURRY POLVO",
           "id": "82",
           "key": "82",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Mezcla especiada intensa",
@@ -2482,9 +2495,9 @@
           "name": "NUEZ MOSCADA MOLIDA",
           "id": "156",
           "key": "156",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Aroma cálido intenso",
@@ -2500,9 +2513,9 @@
           "name": "PIMIENTA NEGRA MOLIDA",
           "id": "170",
           "key": "170",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Intensidad clásica y natural",
@@ -2518,9 +2531,9 @@
           "name": "PIMIENTA TABASCO DE ORIGEN",
           "id": "171",
           "key": "171",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Picante profundo",
@@ -2536,9 +2549,9 @@
           "name": "SAL CON AJO",
           "id": "179",
           "key": "179",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Sabor práctico equilibrado",
@@ -2554,9 +2567,9 @@
           "name": "SAL DE MAR DE GRANO",
           "id": "180",
           "key": "180",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Pureza mineral natural",
@@ -2572,9 +2585,9 @@
           "name": "SAL HIMALAYA GRANULADA",
           "id": "181",
           "key": "181",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Minerales naturales y equilibrio",
@@ -2591,6 +2604,7 @@
     {
       "name": "Huevos",
       "id": "C14",
+      "zone": "Cocina Tradicional",
       "emoji": "🥚",
       "shortDescription": "Proteína fresca para cualquier receta",
       "longDescription": "",
@@ -2602,9 +2616,9 @@
           "name": "HUEVOS DE GRANJA ROJOS",
           "id": "117",
           "key": "117",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Proteína completa natural",
@@ -2621,6 +2635,7 @@
     {
       "name": "Hierbas medicinales",
       "id": "C20",
+      "zone": "Natural / Herbolaria",
       "emoji": "🌿",
       "shortDescription": "Bienestar natural por tradición",
       "longDescription": "",
@@ -2632,9 +2647,9 @@
           "name": "ALBAHACA",
           "id": "6",
           "key": "6",
-          "fotoUrl": "https://assets.casabert.mx/img/product/ai/ALBAHACA.png",
           "img": {
             "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fassets.casabert.mx%2Fimg%2Fproduct%2Fai%2FALBAHACA.png&w=320&h=320&fit=cover&q=72&output=webp",
+            "carousel": "https://images.weserv.nl/?url=https%3A%2F%2Fassets.casabert.mx%2Fimg%2Fproduct%2Fai%2FALBAHACA.png&w=640&h=640&fit=cover&q=74&output=webp",
             "fullSize": "https://assets.casabert.mx/img/product/ai/ALBAHACA.png"
           },
           "description": "Aroma fresco y digestivo",
@@ -2650,9 +2665,9 @@
           "name": "ARNICA WIPATE",
           "id": "17",
           "key": "17",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Uso tradicional externo",
@@ -2668,9 +2683,9 @@
           "name": "CALENDULA TALLO",
           "id": "46",
           "key": "46",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Infusión floral tradicional",
@@ -2686,9 +2701,9 @@
           "name": "COLA DE CABALLO",
           "id": "74",
           "key": "74",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Bienestar ligero y depuración suave",
@@ -2704,9 +2719,9 @@
           "name": "HOJA CILANTRO",
           "id": "113",
           "key": "113",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Frescura herbal",
@@ -2722,9 +2737,9 @@
           "name": "HOJA EUCALIPTO",
           "id": "114",
           "key": "114",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Aroma refrescante",
@@ -2740,9 +2755,9 @@
           "name": "HOJAS LAUREL ENTERA",
           "id": "115",
           "key": "115",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Aroma profundo natural",
@@ -2758,9 +2773,9 @@
           "name": "JENGIBRE ENTERO (SECO)",
           "id": "120",
           "key": "120",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Raíz intensa natural",
@@ -2776,9 +2791,9 @@
           "name": "JENGIBRE MOLIDO",
           "id": "121",
           "key": "121",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Calor activo y revitalizante",
@@ -2794,9 +2809,9 @@
           "name": "LAVANDA ALUCEMA",
           "id": "129",
           "key": "129",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Serenidad aromática y equilibrio",
@@ -2812,9 +2827,9 @@
           "name": "MENTA VERDE IMPORTADA",
           "id": "150",
           "key": "150",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Energía fresca y ligera",
@@ -2830,9 +2845,9 @@
           "name": "OREGANO CON MARCA",
           "id": "157",
           "key": "157",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Aroma herbal clásico",
@@ -2848,9 +2863,9 @@
           "name": "PASIFLORA",
           "id": "164",
           "key": "164",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Calma interior y descanso",
@@ -2866,9 +2881,9 @@
           "name": "PEREJIL",
           "id": "167",
           "key": "167",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Frescura verde natural",
@@ -2884,9 +2899,9 @@
           "name": "ROMERO",
           "id": "178",
           "key": "178",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Aroma herbal y estimulante",
@@ -2902,9 +2917,9 @@
           "name": "TOMILLO ENTERO",
           "id": "199",
           "key": "199",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Aroma herbal profundo",
@@ -2921,6 +2936,7 @@
     {
       "name": "Infusiones y tés",
       "id": "C19",
+      "zone": "Natural / Herbolaria",
       "emoji": "🫖",
       "shortDescription": "Bebidas suaves para cada momento",
       "longDescription": "",
@@ -2932,9 +2948,9 @@
           "name": "HIERBABUENA",
           "id": "112",
           "key": "112",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Frescura digestiva natural",
@@ -2950,9 +2966,9 @@
           "name": "JAMAICA",
           "id": "118",
           "key": "118",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Frescura antioxidante",
@@ -2968,9 +2984,9 @@
           "name": "MANZANILLA FLOR IMPORTADA",
           "id": "149",
           "key": "149",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Calma natural y descanso suave",
@@ -2986,9 +3002,9 @@
           "name": "TE BLANCO",
           "id": "191",
           "key": "191",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Pureza ligera y antioxidante",
@@ -3004,9 +3020,9 @@
           "name": "TE CHAI",
           "id": "192",
           "key": "192",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Calor especiado y energía",
@@ -3022,9 +3038,9 @@
           "name": "TE JAZMIN",
           "id": "193",
           "key": "193",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Aromático y relajante",
@@ -3040,9 +3056,9 @@
           "name": "TE LIMON",
           "id": "194",
           "key": "194",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Frescura revitalizante",
@@ -3058,9 +3074,9 @@
           "name": "TE NEGRO CORTE BOLITA",
           "id": "195",
           "key": "195",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Energía intensa y enfoque",
@@ -3076,9 +3092,9 @@
           "name": "TE ROJO",
           "id": "196",
           "key": "196",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Equilibrio digestivo tradicional",
@@ -3094,9 +3110,9 @@
           "name": "TE VERDE GP ENTERO",
           "id": "197",
           "key": "197",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Energía suave y antioxidante",
@@ -3112,9 +3128,9 @@
           "name": "TILA FLOR",
           "id": "198",
           "key": "198",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Relajación profunda y natural",
@@ -3131,6 +3147,7 @@
     {
       "name": "Fruta natural/deshidratada",
       "id": "C4",
+      "zone": "Saludable",
       "emoji": "🍓",
       "shortDescription": "Dulzor natural para snack saludable",
       "longDescription": "",
@@ -3142,9 +3159,9 @@
           "name": "ARANDANO OCEAN",
           "id": "16",
           "key": "16",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Antioxidantes y energía ligera",
@@ -3160,9 +3177,9 @@
           "name": "CHABACANO ENTERO",
           "id": "62",
           "key": "62",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Dulzor natural concentrado",
@@ -3178,9 +3195,9 @@
           "name": "CIRUELA PASA S/HUESO",
           "id": "70",
           "key": "70",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Fibra natural y digestión ligera",
@@ -3196,9 +3213,9 @@
           "name": "DATIL GRANDE MEDJOOL",
           "id": "83",
           "key": "83",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Energía natural inmediata",
@@ -3214,9 +3231,9 @@
           "name": "MANZANA DESHIDRATADA ANILLOS",
           "id": "148",
           "key": "148",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Dulzor natural y fibra",
@@ -3232,9 +3249,9 @@
           "name": "PLATANO DESHYDRATADO",
           "id": "173",
           "key": "173",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Energía rápida y natural",
@@ -3250,9 +3267,9 @@
           "name": "UVA PASA MEDIANA",
           "id": "200",
           "key": "200",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Dulzor natural y energía",
@@ -3269,6 +3286,7 @@
     {
       "name": "Granos y superfoods",
       "id": "C1",
+      "zone": "Saludable",
       "emoji": "🌾",
       "shortDescription": "Energía limpia y nutrición diaria",
       "longDescription": "",
@@ -3280,9 +3298,9 @@
           "name": "AMARANTO",
           "id": "12",
           "key": "12",
-          "fotoUrl": "https://assets.casabert.mx/img/product/ai/AMARANTO.png",
           "img": {
             "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fassets.casabert.mx%2Fimg%2Fproduct%2Fai%2FAMARANTO.png&w=320&h=320&fit=cover&q=72&output=webp",
+            "carousel": "https://images.weserv.nl/?url=https%3A%2F%2Fassets.casabert.mx%2Fimg%2Fproduct%2Fai%2FAMARANTO.png&w=640&h=640&fit=cover&q=74&output=webp",
             "fullSize": "https://assets.casabert.mx/img/product/ai/AMARANTO.png"
           },
           "description": "Fuerza ancestral y nutrición densa",
@@ -3298,10 +3316,10 @@
           "name": "AMOROZ AMARANTO CHICO",
           "id": "13",
           "key": "13",
-          "fotoUrl": "https://raw.githubusercontent.com/ailidmx/BertClient/main/img/product/AMARNATO-CHICO.png",
           "img": {
-            "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fraw.githubusercontent.com%2Failidmx%2FBertClient%2Fmain%2Fimg%2Fproduct%2FAMARNATO-CHICO.png&w=320&h=320&fit=cover&q=72&output=webp",
-            "fullSize": "https://raw.githubusercontent.com/ailidmx/BertClient/main/img/product/AMARNATO-CHICO.png"
+            "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Failidmx%2Fbert-assets%40main%2Fimg%2Fproduct%2Fai%2FAMARNATO-CHICO.png&w=320&h=320&fit=cover&q=72&output=webp",
+            "carousel": "https://images.weserv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Failidmx%2Fbert-assets%40main%2Fimg%2Fproduct%2Fai%2FAMARNATO-CHICO.png&w=640&h=640&fit=cover&q=74&output=webp",
+            "fullSize": "https://cdn.jsdelivr.net/gh/ailidmx/bert-assets@main/img/product/ai/AMARNATO-CHICO.png"
           },
           "description": "Energía dulce ancestral",
           "shortDescription": "Energía dulce ancestral",
@@ -3316,9 +3334,9 @@
           "name": "ARROZ INTEGRAL",
           "id": "19",
           "key": "19",
-          "fotoUrl": "https://assets.casabert.mx/img/product/ai/ARROZ-INTEGRAL.png",
           "img": {
             "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fassets.casabert.mx%2Fimg%2Fproduct%2Fai%2FARROZ-INTEGRAL.png&w=320&h=320&fit=cover&q=72&output=webp",
+            "carousel": "https://images.weserv.nl/?url=https%3A%2F%2Fassets.casabert.mx%2Fimg%2Fproduct%2Fai%2FARROZ-INTEGRAL.png&w=640&h=640&fit=cover&q=74&output=webp",
             "fullSize": "https://assets.casabert.mx/img/product/ai/ARROZ-INTEGRAL.png"
           },
           "description": "Energía estable y natural",
@@ -3334,9 +3352,9 @@
           "name": "AVENA INTEGRAL GRANDE",
           "id": "23",
           "key": "23",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Energía prolongada y bienestar digestivo",
@@ -3352,9 +3370,9 @@
           "name": "CHIA DELGADA",
           "id": "63",
           "key": "63",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Fibra esencial y equilibrio natural",
@@ -3370,9 +3388,9 @@
           "name": "GRANOLA SANTA MAURA",
           "id": "105",
           "key": "105",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Energía completa y equilibrada",
@@ -3388,9 +3406,9 @@
           "name": "HARINA DE AMARANTO",
           "id": "109",
           "key": "109",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Nutrición ancestral en cada receta",
@@ -3406,9 +3424,9 @@
           "name": "HARINA DE AVENA",
           "id": "110",
           "key": "110",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Base nutritiva y versátil",
@@ -3424,9 +3442,9 @@
           "name": "LINAZA",
           "id": "133",
           "key": "133",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Energía vegetal y digestión ligera",
@@ -3442,9 +3460,9 @@
           "name": "LINAZA MOLIDA",
           "id": "134",
           "key": "134",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Nutrición activa y práctica",
@@ -3460,9 +3478,9 @@
           "name": "POLEN",
           "id": "174",
           "key": "174",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Nutrientes naturales concentrados",
@@ -3478,9 +3496,9 @@
           "name": "QUINOA PERLADA",
           "id": "177",
           "key": "177",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Proteína vegetal completa",
@@ -3496,9 +3514,9 @@
           "name": "TAPIOCA",
           "id": "190",
           "key": "190",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Energía ligera versátil",
@@ -3515,6 +3533,7 @@
     {
       "name": "Opciones sin azúcar",
       "id": "C5",
+      "zone": "Saludable",
       "emoji": "🚫🍬",
       "shortDescription": "Sabor sin azúcar añadida",
       "longDescription": "",
@@ -3526,9 +3545,9 @@
           "name": "CHOCOLATE AMARGO S/ AZUCAR",
           "id": "69",
           "key": "69",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Intensidad pura y antioxidante",
@@ -3545,6 +3564,7 @@
     {
       "name": "Proteína vegetal",
       "id": "C2",
+      "zone": "Saludable",
       "emoji": "💪",
       "shortDescription": "Proteínas vegetales para comidas completas",
       "longDescription": "",
@@ -3556,9 +3576,9 @@
           "name": "CHICHARRON DE SOYA",
           "id": "64",
           "key": "64",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Proteína vegetal crujiente",
@@ -3574,9 +3594,9 @@
           "name": "FRIJOL AYOCOTE PINTO",
           "id": "84",
           "key": "84",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Proteína vegetal robusta",
@@ -3592,9 +3612,9 @@
           "name": "FRIJOL NEGRO",
           "id": "85",
           "key": "85",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Tradición nutritiva y energía completa",
@@ -3610,9 +3630,9 @@
           "name": "FRIJOL PERUANO HIGUERA",
           "id": "86",
           "key": "86",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Energía vegetal equilibrada",
@@ -3628,9 +3648,9 @@
           "name": "FRIJOL TEXANO",
           "id": "87",
           "key": "87",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Base nutritiva clásica",
@@ -3646,9 +3666,9 @@
           "name": "GARBANZO",
           "id": "101",
           "key": "101",
-          "fotoUrl": "https://assets.casabert.mx/img/product/ai/GARBANZO.png",
           "img": {
             "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fassets.casabert.mx%2Fimg%2Fproduct%2Fai%2FGARBANZO.png&w=320&h=320&fit=cover&q=72&output=webp",
+            "carousel": "https://images.weserv.nl/?url=https%3A%2F%2Fassets.casabert.mx%2Fimg%2Fproduct%2Fai%2FGARBANZO.png&w=640&h=640&fit=cover&q=74&output=webp",
             "fullSize": "https://assets.casabert.mx/img/product/ai/GARBANZO.png"
           },
           "description": "Proteína vegetal y saciedad",
@@ -3664,9 +3684,9 @@
           "name": "HABA PELADA",
           "id": "108",
           "key": "108",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Nutrición vegetal ligera",
@@ -3682,9 +3702,9 @@
           "name": "LENTEJA GRANDE",
           "id": "131",
           "key": "131",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Energía nutritiva y balanceada",
@@ -3700,9 +3720,9 @@
           "name": "SOYA TEXTURIZADA",
           "id": "186",
           "key": "186",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "",
@@ -3719,6 +3739,7 @@
     {
       "name": "Semillas y nueces",
       "id": "C3",
+      "zone": "Saludable",
       "emoji": "🥜",
       "shortDescription": "Grasas buenas, fibra y saciedad",
       "longDescription": "",
@@ -3730,9 +3751,9 @@
           "name": "AJONJOLI NEGRO",
           "id": "4",
           "key": "4",
-          "fotoUrl": "https://assets.casabert.mx/img/product/ai/AJONJOLI_NEGRO.png",
           "img": {
             "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fassets.casabert.mx%2Fimg%2Fproduct%2Fai%2FAJONJOLI_NEGRO.png&w=320&h=320&fit=cover&q=72&output=webp",
+            "carousel": "https://images.weserv.nl/?url=https%3A%2F%2Fassets.casabert.mx%2Fimg%2Fproduct%2Fai%2FAJONJOLI_NEGRO.png&w=640&h=640&fit=cover&q=74&output=webp",
             "fullSize": "https://assets.casabert.mx/img/product/ai/AJONJOLI_NEGRO.png"
           },
           "description": "Minerales y energía vegetal",
@@ -3748,9 +3769,9 @@
           "name": "AJONJOLI SIN CUTICULA",
           "id": "5",
           "key": "5",
-          "fotoUrl": "https://assets.casabert.mx/img/product/ai/AJONJOLI_SIN_CUTICULA.png",
           "img": {
             "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fassets.casabert.mx%2Fimg%2Fproduct%2Fai%2FAJONJOLI_SIN_CUTICULA.png&w=320&h=320&fit=cover&q=72&output=webp",
+            "carousel": "https://images.weserv.nl/?url=https%3A%2F%2Fassets.casabert.mx%2Fimg%2Fproduct%2Fai%2FAJONJOLI_SIN_CUTICULA.png&w=640&h=640&fit=cover&q=74&output=webp",
             "fullSize": "https://assets.casabert.mx/img/product/ai/AJONJOLI_SIN_CUTICULA.png"
           },
           "description": "Energía ligera y versátil",
@@ -3766,9 +3787,9 @@
           "name": "ALMENDRA EN POLVO",
           "id": "8",
           "key": "8",
-          "fotoUrl": "https://assets.casabert.mx/img/product/ai/ALMENDRA-EN-POLVO.png",
           "img": {
             "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fassets.casabert.mx%2Fimg%2Fproduct%2Fai%2FALMENDRA-EN-POLVO.png&w=320&h=320&fit=cover&q=72&output=webp",
+            "carousel": "https://images.weserv.nl/?url=https%3A%2F%2Fassets.casabert.mx%2Fimg%2Fproduct%2Fai%2FALMENDRA-EN-POLVO.png&w=640&h=640&fit=cover&q=74&output=webp",
             "fullSize": "https://assets.casabert.mx/img/product/ai/ALMENDRA-EN-POLVO.png"
           },
           "description": "Nutrición versátil y ligera",
@@ -3784,9 +3805,9 @@
           "name": "ALMENDRA ENTERA",
           "id": "9",
           "key": "9",
-          "fotoUrl": "https://assets.casabert.mx/img/product/ai/ALMENDRA-ENTERA.PNG",
           "img": {
             "thumbnail": "https://images.weserv.nl/?url=https%3A%2F%2Fassets.casabert.mx%2Fimg%2Fproduct%2Fai%2FALMENDRA-ENTERA.PNG&w=320&h=320&fit=cover&q=72&output=webp",
+            "carousel": "https://images.weserv.nl/?url=https%3A%2F%2Fassets.casabert.mx%2Fimg%2Fproduct%2Fai%2FALMENDRA-ENTERA.PNG&w=640&h=640&fit=cover&q=74&output=webp",
             "fullSize": "https://assets.casabert.mx/img/product/ai/ALMENDRA-ENTERA.PNG"
           },
           "description": "Energía limpia y saciedad natural",
@@ -3802,9 +3823,9 @@
           "name": "AVELLANA PELADA",
           "id": "22",
           "key": "22",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Energía suave y antioxidante natural",
@@ -3820,9 +3841,9 @@
           "name": "NUEZ DE CASTILLA",
           "id": "152",
           "key": "152",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Fuerza vegetal y equilibrio",
@@ -3838,9 +3859,9 @@
           "name": "NUEZ DE LA INDIA CON SAL",
           "id": "153",
           "key": "153",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Energía premium salada",
@@ -3856,9 +3877,9 @@
           "name": "NUEZ MITADES",
           "id": "154",
           "key": "154",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Energía completa y natural",
@@ -3874,9 +3895,9 @@
           "name": "NUEZ MIXTA",
           "id": "155",
           "key": "155",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Nutrición variada y balanceada",
@@ -3892,9 +3913,9 @@
           "name": "PEPITA CALABAZA CRUDA IMPORTADA",
           "id": "166",
           "key": "166",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Minerales esenciales y energía natural",
@@ -3910,9 +3931,9 @@
           "name": "PISTACHE CHIO",
           "id": "172",
           "key": "172",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Energía crujiente premium",
@@ -3928,9 +3949,9 @@
           "name": "SEMILLA ALFALFA ATOYAC",
           "id": "182",
           "key": "182",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "",
@@ -3946,9 +3967,9 @@
           "name": "SEMILLA GIRASOL CRUDA IMPORTADA",
           "id": "183",
           "key": "183",
-          "fotoUrl": "",
           "img": {
             "thumbnail": "",
+            "carousel": "",
             "fullSize": ""
           },
           "description": "Energía ligera y nutritiva",
@@ -3959,6 +3980,178 @@
           "unit": "g",
           "peso": "60 g",
           "category_id": "C3"
+        }
+      ]
+    }
+  ],
+  "zones": [
+    {
+      "name": "Antojo",
+      "slug": "antojo",
+      "description": "Compra impulsiva, dulces, botanas, sabor",
+      "emoji": "🍿",
+      "storeArea": "Caja",
+      "nbCat": 7,
+      "nbRef": 83,
+      "margin": 52.0,
+      "refs": 83,
+      "categories": [
+        {
+          "id": "C7",
+          "name": "Botanas saladas",
+          "refs": 18
+        },
+        {
+          "id": "C6",
+          "name": "Cacahuates",
+          "refs": 10
+        },
+        {
+          "id": "C10",
+          "name": "Dulces",
+          "refs": 26
+        },
+        {
+          "id": "C21",
+          "name": "Extras (No alimentos)",
+          "refs": 3
+        },
+        {
+          "id": "C11",
+          "name": "Galletas",
+          "refs": 11
+        },
+        {
+          "id": "C8",
+          "name": "Semillas especiales",
+          "refs": 1
+        },
+        {
+          "id": "C9",
+          "name": "Snacks enchilados/deshidratados",
+          "refs": 14
+        }
+      ]
+    },
+    {
+      "name": "Cocina Tradicional",
+      "slug": "cocinatradicional",
+      "description": "Despensa base y cocina mexicana",
+      "emoji": "🍲",
+      "storeArea": "Centro",
+      "nbCat": 5,
+      "nbRef": 43,
+      "margin": 56.0,
+      "refs": 43,
+      "categories": [
+        {
+          "id": "C13",
+          "name": "Básicos",
+          "refs": 12
+        },
+        {
+          "id": "C12",
+          "name": "Cereales comerciales",
+          "refs": 3
+        },
+        {
+          "id": "C16",
+          "name": "Chiles",
+          "refs": 3
+        },
+        {
+          "id": "C15",
+          "name": "Condimentos y especias",
+          "refs": 24
+        },
+        {
+          "id": "C14",
+          "name": "Huevos",
+          "refs": 1
+        }
+      ]
+    },
+    {
+      "name": "Saludable",
+      "slug": "saludable",
+      "description": "Alimentación consciente, superfoods, proteína vegetal",
+      "emoji": "⁠🥗",
+      "storeArea": "Entrada",
+      "nbCat": 5,
+      "nbRef": 43,
+      "margin": 55.0,
+      "refs": 43,
+      "categories": [
+        {
+          "id": "C4",
+          "name": "Fruta natural/deshidratada",
+          "refs": 7
+        },
+        {
+          "id": "C1",
+          "name": "Granos y superfoods",
+          "refs": 13
+        },
+        {
+          "id": "C5",
+          "name": "Opciones sin azúcar",
+          "refs": 1
+        },
+        {
+          "id": "C2",
+          "name": "Proteína vegetal",
+          "refs": 9
+        },
+        {
+          "id": "C3",
+          "name": "Semillas y nueces",
+          "refs": 13
+        }
+      ]
+    },
+    {
+      "name": "Natural / Herbolaria",
+      "slug": "naturalherbolaria",
+      "description": "Bienestar natural con hierbas, raíces y semillas funcionales",
+      "emoji": "🌿",
+      "storeArea": "Pared lateral",
+      "nbCat": 2,
+      "nbRef": 27,
+      "margin": 65.0,
+      "refs": 27,
+      "categories": [
+        {
+          "id": "C20",
+          "name": "Hierbas medicinales",
+          "refs": 16
+        },
+        {
+          "id": "C19",
+          "name": "Infusiones y tés",
+          "refs": 11
+        }
+      ]
+    },
+    {
+      "name": "Café & Bebidas",
+      "slug": "cafebebidas",
+      "description": "Café, tés e infusiones para cada momento",
+      "emoji": "☕",
+      "storeArea": "Fondo",
+      "nbCat": 2,
+      "nbRef": 8,
+      "margin": 54.0,
+      "refs": 8,
+      "categories": [
+        {
+          "id": "C18",
+          "name": "Café",
+          "refs": 4
+        },
+        {
+          "id": "C17",
+          "name": "Frutas tradicionales",
+          "refs": 4
         }
       ]
     }
