@@ -2,7 +2,7 @@
   "meta": {
     "title": "Casa Bert Mini App",
     "subtitle": "Catálogo dinámico",
-    "updatedAt": "20/02/2026 07:49",
+    "updatedAt": "20/02/2026 08:04",
     "cacheSeconds": 180
   },
   "brand": {
@@ -3982,6 +3982,46 @@
           "category_id": "C3"
         }
       ]
+    }
+  ],
+  "eventosPackages": [
+    {
+      "promo": "COFFEE",
+      "price": 450,
+      "products": 15,
+      "gifts": 0,
+      "cat1": "Galletas",
+      "cat2": "",
+      "categories": [
+        "Galletas"
+      ],
+      "url": "https://assets.casabert.mx/img/promo/party.png"
+    },
+    {
+      "promo": "PARTY",
+      "price": 450,
+      "products": 30,
+      "gifts": 6,
+      "cat1": "Dulces",
+      "cat2": "Botanas saladas",
+      "categories": [
+        "Dulces",
+        "Botanas saladas"
+      ],
+      "url": "https://assets.casabert.mx/img/promo/coffee-break.png"
+    },
+    {
+      "promo": "SNACKS",
+      "price": 450,
+      "products": 30,
+      "gifts": 6,
+      "cat1": "Snacks enchilados/deshidratados",
+      "cat2": "Semillas y nueces",
+      "categories": [
+        "Snacks enchilados/deshidratados",
+        "Semillas y nueces"
+      ],
+      "url": "https://assets.casabert.mx/img/promo/snacksfit.png"
     }
   ],
   "zones": [
