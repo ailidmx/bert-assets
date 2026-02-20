@@ -2,7 +2,7 @@
   "meta": {
     "title": "Casa Bert Mini App",
     "subtitle": "Catálogo dinámico",
-    "updatedAt": "19/02/2026 21:53",
+    "updatedAt": "19/02/2026 22:57",
     "cacheSeconds": 180
   },
   "brand": {
@@ -577,7 +577,7 @@
       "longDescription": "",
       "url": "",
       "color": "",
-      "refs": 26,
+      "refs": 27,
       "items": [
         {
           "name": "ALMENDRA CON CHOCOLATE",
@@ -850,6 +850,24 @@
           "category_id": "C10"
         },
         {
+          "name": "GOMINA",
+          "id": "104",
+          "key": "104",
+          "img": {
+            "thumbnail": "",
+            "carousel": "",
+            "fullSize": ""
+          },
+          "description": "Textura suave y dulce",
+          "shortDescription": "Textura suave y dulce",
+          "longDescription": "Dulce con consistencia firme y perfil clásico.",
+          "price": 15.0,
+          "weight": 60.0,
+          "unit": "g",
+          "peso": "60 g",
+          "category_id": "C10"
+        },
+        {
           "name": "HUESITO (CHOCO-GALLETA)",
           "id": "116",
           "key": "116",
@@ -1058,26 +1076,8 @@
       "longDescription": "",
       "url": "",
       "color": "",
-      "refs": 3,
+      "refs": 2,
       "items": [
-        {
-          "name": "GOMINA",
-          "id": "104",
-          "key": "104",
-          "img": {
-            "thumbnail": "",
-            "carousel": "",
-            "fullSize": ""
-          },
-          "description": "Textura suave y dulce",
-          "shortDescription": "Textura suave y dulce",
-          "longDescription": "Dulce con consistencia firme y perfil clásico.",
-          "price": 15.0,
-          "weight": 60.0,
-          "unit": "g",
-          "peso": "60 g",
-          "category_id": "C21"
-        },
         {
           "name": "LIBRETA (PIEZA)",
           "id": "132",
@@ -4009,12 +4009,12 @@
         {
           "id": "C10",
           "name": "Dulces",
-          "refs": 26
+          "refs": 27
         },
         {
           "id": "C21",
           "name": "Extras (No alimentos)",
-          "refs": 3
+          "refs": 2
         },
         {
           "id": "C11",
