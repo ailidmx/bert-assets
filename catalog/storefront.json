@@ -2,7 +2,7 @@
   "meta": {
     "title": "Casa Bert Mini App",
     "subtitle": "Catálogo dinámico",
-    "updatedAt": "20/02/2026 08:04",
+    "updatedAt": "22/02/2026 17:13",
     "cacheSeconds": 180
   },
   "brand": {
@@ -2975,9 +2975,9 @@
           "shortDescription": "Frescura antioxidante",
           "longDescription": "Flor seca para bebidas refrescantes tradicionales.",
           "price": 15.0,
-          "weight": 90.0,
+          "weight": 70.0,
           "unit": "g",
-          "peso": "90 g",
+          "peso": "70 g",
           "category_id": "C19"
         },
         {
@@ -3361,9 +3361,9 @@
           "shortDescription": "Energía prolongada y bienestar digestivo",
           "longDescription": "La avena integral ayuda a mantener energía constante durante la mañana.",
           "price": 15.0,
-          "weight": 350.0,
+          "weight": 330.0,
           "unit": "g",
-          "peso": "350 g",
+          "peso": "330 g",
           "category_id": "C1"
         },
         {
@@ -3397,9 +3397,9 @@
           "shortDescription": "Energía completa y equilibrada",
           "longDescription": "Mezcla de cereales y semillas para energía sostenida.",
           "price": 15.0,
-          "weight": 75.0,
+          "weight": 80.0,
           "unit": "g",
-          "peso": "75 g",
+          "peso": "80 g",
           "category_id": "C1"
         },
         {
