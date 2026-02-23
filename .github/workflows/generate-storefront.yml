@@ -37,7 +37,6 @@ jobs:
           GOOGLE_PLACES_API_KEY: ${{ secrets.GOOGLE_PLACES_API_KEY }}
         run: |
           export PYTHONPATH="${PYTHONPATH}:$(pwd)/gsheetpycli:$(pwd)/gsheetpycli/main:$(pwd)/gsheetpycli/services:$(pwd)/gsheetpycli/utils"
-          cp google_places_service_override.py gsheetpycli/main/google_places_service.py
           mkdir -p /tmp/keys catalog
           cat > /tmp/keys/sheet-cli.json <<'JSON'
           ${{ secrets.GSHEET_SERVICE_ACCOUNT_JSON }}
