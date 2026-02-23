@@ -40,7 +40,7 @@ jobs:
           cat > /tmp/keys/sheet-cli.json <<'JSON'
           ${{ secrets.GSHEET_SERVICE_ACCOUNT_JSON }}
           JSON
-          python gsheetpycli/generate_storefront_json.py \
+          python gsheetpycli/main/generate_storefront_json.py \
             --creds /tmp/keys/sheet-cli.json \
             --sheet "1XdMrGB9Je9w-oVj3V0qM-92WNd8TFjmvo0sqG5w_5xc" \
             --general-sheet "GENERAL" \
