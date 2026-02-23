@@ -34,6 +34,7 @@ jobs:
       - name: Generate catalog/storefront.json
         env:
           GSHEET_SERVICE_ACCOUNT_JSON: ${{ secrets.GSHEET_SERVICE_ACCOUNT_JSON }}
+          GOOGLE_PLACES_API_KEY: ${{ secrets.GOOGLE_PLACES_API_KEY }}
         run: |
           mkdir -p /tmp/keys catalog
           cat > /tmp/keys/sheet-cli.json <<'JSON'
