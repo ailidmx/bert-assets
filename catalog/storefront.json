@@ -2,7 +2,7 @@
   "meta": {
     "title": "Casa Bert Mini App",
     "subtitle": "Catálogo dinámico",
-    "updatedAt": "23/02/2026 08:10",
+    "updatedAt": "23/02/2026 15:18",
     "cacheSeconds": 180
   },
   "brand": {
@@ -35,7 +35,12 @@
     "facebook": "",
     "placeId": "ChIJH9nmQ1-xKIQR4Ke7BiCqfGk",
     "photos": [],
-    "instagramPhotos": []
+    "instagramPhotos": [],
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "googleReviews": []
   },
   "catalog": [
     {
