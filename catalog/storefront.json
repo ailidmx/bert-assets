@@ -2,7 +2,7 @@
   "meta": {
     "title": "Casa Bert Mini App",
     "subtitle": "Catálogo dinámico",
-    "updatedAt": "24/02/2026 14:03",
+    "updatedAt": "24/02/2026 14:55",
     "cacheSeconds": 180
   },
   "brand": {
@@ -37,26 +37,26 @@
     "photos": [
       {
         "id": "photo_1",
-        "name": "places/ChIJH9nmQ1-xKIQR4Ke7BiCqfGk/photos/ATCDNfXZeBsEq2iJk1XN4jbj6zw7M3AiNkEw7FpgYy3uQOkcFSyVrGeHxykfTGU0F_GAdAOL7m-9fF-MbleAO9yFHraKenNOsrt-rlzQ563OqDBde5Nn-P-tS513YtjVQyFjVVadDfWddVONT5HiMEkdsnb3ONl6RT-q3bQK_j6pH88YorkbR37gcTVB1GxOh_CMVm8BfgAILtbht546RIpzKpYX0Ts1jS7v9-6lkQP60h1e7cbfalw50Go5TGhBpRhBUKkgnOm0IJg6DMtThwvmSKq6bNtIr6Gm-FP-1KUvhpQ",
-        "url": "https://places.googleapis.com/v1/places/ChIJH9nmQ1-xKIQR4Ke7BiCqfGk/photos/ATCDNfXZeBsEq2iJk1XN4jbj6zw7M3AiNkEw7FpgYy3uQOkcFSyVrGeHxykfTGU0F_GAdAOL7m-9fF-MbleAO9yFHraKenNOsrt-rlzQ563OqDBde5Nn-P-tS513YtjVQyFjVVadDfWddVONT5HiMEkdsnb3ONl6RT-q3bQK_j6pH88YorkbR37gcTVB1GxOh_CMVm8BfgAILtbht546RIpzKpYX0Ts1jS7v9-6lkQP60h1e7cbfalw50Go5TGhBpRhBUKkgnOm0IJg6DMtThwvmSKq6bNtIr6Gm-FP-1KUvhpQ/media?maxHeightPx=800&maxWidthPx=800&key=AIzaSyDuhF6n9FZsiLmnZMJsjnYHmgP80OVzXVY",
+        "name": "places/ChIJH9nmQ1-xKIQR4Ke7BiCqfGk/photos/ATCDNfXlsZtwXxp609WigFQ5bUCYuDNlYJLb2vbI9S78SU31PyOx8HLNduLFHWecz8xm_EKgTo2YYujSW8JU64NVTFOCTqGeiz0WlqzAuM9EzSjMvuEs_6ruPAeEQs7XZFqJXK-z7IOkI-SvKw5hPiqKhHX1_iAj6QGgyXJCFvrd0EeglhOuZGo5WPKd5Sl-Q5HCBx1E5hpPHbM5VrFpvUViDjOCWsww1cVKMl5wgCAZviYe-KatwRkLMQBb8i6v2RW1MKNWXdo1UTM0zO7-d2VP62tSdCbxufv610CECY8nQYA",
+        "url": "https://places.googleapis.com/v1/places/ChIJH9nmQ1-xKIQR4Ke7BiCqfGk/photos/ATCDNfXlsZtwXxp609WigFQ5bUCYuDNlYJLb2vbI9S78SU31PyOx8HLNduLFHWecz8xm_EKgTo2YYujSW8JU64NVTFOCTqGeiz0WlqzAuM9EzSjMvuEs_6ruPAeEQs7XZFqJXK-z7IOkI-SvKw5hPiqKhHX1_iAj6QGgyXJCFvrd0EeglhOuZGo5WPKd5Sl-Q5HCBx1E5hpPHbM5VrFpvUViDjOCWsww1cVKMl5wgCAZviYe-KatwRkLMQBb8i6v2RW1MKNWXdo1UTM0zO7-d2VP62tSdCbxufv610CECY8nQYA/media?maxHeightPx=800&maxWidthPx=800&key=AIzaSyDuhF6n9FZsiLmnZMJsjnYHmgP80OVzXVY",
         "attributions": []
       },
       {
         "id": "photo_2",
-        "name": "places/ChIJH9nmQ1-xKIQR4Ke7BiCqfGk/photos/ATCDNfXSpmNL1n4VU7X1Xbo83AwxYKWVde8qd1lYuRQaJvMLYRoBt9paX7Coaqeuo3kK8MBMWwlJVilliPpWfgc0NnWVO2cPleyTMhJhTUWX00TUQDTam2tAu-7r8U263Iy8bdNxE4bKVPrPDofGbtOLN9NyojTF1O-sC62NWyQqJu_IFqXSPP-PqaIF6eWCdbkZPIdelOfW7UGaIqjzijhnLaJFmoSNhAjkX44uUHIKQLDX5nj5FKWFwnJAZ7jqKJN4AIW0Mp6WSRNz_VOC_x5gw0LTai2V1o9-iKpoK4qr1WI",
-        "url": "https://places.googleapis.com/v1/places/ChIJH9nmQ1-xKIQR4Ke7BiCqfGk/photos/ATCDNfXSpmNL1n4VU7X1Xbo83AwxYKWVde8qd1lYuRQaJvMLYRoBt9paX7Coaqeuo3kK8MBMWwlJVilliPpWfgc0NnWVO2cPleyTMhJhTUWX00TUQDTam2tAu-7r8U263Iy8bdNxE4bKVPrPDofGbtOLN9NyojTF1O-sC62NWyQqJu_IFqXSPP-PqaIF6eWCdbkZPIdelOfW7UGaIqjzijhnLaJFmoSNhAjkX44uUHIKQLDX5nj5FKWFwnJAZ7jqKJN4AIW0Mp6WSRNz_VOC_x5gw0LTai2V1o9-iKpoK4qr1WI/media?maxHeightPx=800&maxWidthPx=800&key=AIzaSyDuhF6n9FZsiLmnZMJsjnYHmgP80OVzXVY",
+        "name": "places/ChIJH9nmQ1-xKIQR4Ke7BiCqfGk/photos/ATCDNfVDjYSCYpxkvXqs_7J3xSJAmKeVildqFacUQVhBDVcMfFEzrG6b_jmDhcQQi2vVCpB9wsGx-xnDzRL6x73R__1le08ZTKh1Ewp5KZhwOzMo4h3AbHN9fZCX3jd2JMzY9sEWE5XcjLvMEEAUv62gXfVMqhdVcr_7mJdvLVWAccpV-eskj9aG3klqYbYH9GMy88ZaNZ9r0YN8Y6TRu2DMzO_xcEvvI_eTEnIHsVNjTXIsjXVhAAmWciQlCuafP9n4qvoC6P7Aep9wxjPgWRmYWg2tfwKSu6SBR9kcM49lZTM",
+        "url": "https://places.googleapis.com/v1/places/ChIJH9nmQ1-xKIQR4Ke7BiCqfGk/photos/ATCDNfVDjYSCYpxkvXqs_7J3xSJAmKeVildqFacUQVhBDVcMfFEzrG6b_jmDhcQQi2vVCpB9wsGx-xnDzRL6x73R__1le08ZTKh1Ewp5KZhwOzMo4h3AbHN9fZCX3jd2JMzY9sEWE5XcjLvMEEAUv62gXfVMqhdVcr_7mJdvLVWAccpV-eskj9aG3klqYbYH9GMy88ZaNZ9r0YN8Y6TRu2DMzO_xcEvvI_eTEnIHsVNjTXIsjXVhAAmWciQlCuafP9n4qvoC6P7Aep9wxjPgWRmYWg2tfwKSu6SBR9kcM49lZTM/media?maxHeightPx=800&maxWidthPx=800&key=AIzaSyDuhF6n9FZsiLmnZMJsjnYHmgP80OVzXVY",
         "attributions": []
       },
       {
         "id": "photo_3",
-        "name": "places/ChIJH9nmQ1-xKIQR4Ke7BiCqfGk/photos/ATCDNfV2RrZYE0q3kacqMg1lobJ0gzt_vN1mbhfpfh-sZ9cd0vaTVkvcIL-IU2oTYIwE0pBPKOfkcEXXNxkJsphjK1VAW4Uk4jalbnT_5zm30xoHVS_b2RlsUdh6mUOyIgY700AKHkMKZ56TUgC_YGXZL17uzy09qH9x-96V4dhdCJHsPRVLehKF_B_OeRPGZI41iDGWMvBvGOiycV-CR3jnKmuoBnUFQ6uL6dz0-0YWlVGWtx6W81ZxDWrG3ln32TWNph2F9J56AnWIdP7nsHIbgBVV_nOMhsx9fIgE8rMb6vs",
-        "url": "https://places.googleapis.com/v1/places/ChIJH9nmQ1-xKIQR4Ke7BiCqfGk/photos/ATCDNfV2RrZYE0q3kacqMg1lobJ0gzt_vN1mbhfpfh-sZ9cd0vaTVkvcIL-IU2oTYIwE0pBPKOfkcEXXNxkJsphjK1VAW4Uk4jalbnT_5zm30xoHVS_b2RlsUdh6mUOyIgY700AKHkMKZ56TUgC_YGXZL17uzy09qH9x-96V4dhdCJHsPRVLehKF_B_OeRPGZI41iDGWMvBvGOiycV-CR3jnKmuoBnUFQ6uL6dz0-0YWlVGWtx6W81ZxDWrG3ln32TWNph2F9J56AnWIdP7nsHIbgBVV_nOMhsx9fIgE8rMb6vs/media?maxHeightPx=800&maxWidthPx=800&key=AIzaSyDuhF6n9FZsiLmnZMJsjnYHmgP80OVzXVY",
+        "name": "places/ChIJH9nmQ1-xKIQR4Ke7BiCqfGk/photos/ATCDNfXQeCK53WtG-_MwVVKktda34IyjLmrfyHYwmtK85CvRRCEtJn4j7JJHALNDaGtbapFf95eqU0AqMLxP5iYlTrl-61LJcVfN1TuvsiWvT5J_Elma8U841gVtB-XdQfVaY3k-TAejVXGQj3N7b2iLn6mcXebHJ_NwoERn3rPQ1EOm0B5qaFon5hrsIW_VfCNQIuVRaeSYD7QbLeWHy6p1d1DJlSUpk5rqoqdwZxgVRrO1hLQEAKnvu9AufA4q3WrUeINRttWIL4HagtFjRt6My4LpGrn237HnMaNWwQCb53c",
+        "url": "https://places.googleapis.com/v1/places/ChIJH9nmQ1-xKIQR4Ke7BiCqfGk/photos/ATCDNfXQeCK53WtG-_MwVVKktda34IyjLmrfyHYwmtK85CvRRCEtJn4j7JJHALNDaGtbapFf95eqU0AqMLxP5iYlTrl-61LJcVfN1TuvsiWvT5J_Elma8U841gVtB-XdQfVaY3k-TAejVXGQj3N7b2iLn6mcXebHJ_NwoERn3rPQ1EOm0B5qaFon5hrsIW_VfCNQIuVRaeSYD7QbLeWHy6p1d1DJlSUpk5rqoqdwZxgVRrO1hLQEAKnvu9AufA4q3WrUeINRttWIL4HagtFjRt6My4LpGrn237HnMaNWwQCb53c/media?maxHeightPx=800&maxWidthPx=800&key=AIzaSyDuhF6n9FZsiLmnZMJsjnYHmgP80OVzXVY",
         "attributions": []
       },
       {
         "id": "photo_4",
-        "name": "places/ChIJH9nmQ1-xKIQR4Ke7BiCqfGk/photos/ATCDNfV-O7jFns9xdLLOoxkCSssCZA3GuWNeBhaiqLtvgr0ef7cVv-UkxyPM4bLwyd03EtTHxISlowqhGgggdQZi2KofXM0az7k2xj-Tft3bHehKL9kH6LozrJ8eslEl-8FIKVqOzEtgnHzYSHubcSvTVCUm3rb2x7kFQcFmLrvzeFbUEy3a874xCfcWpoTtIo4uXD0fmInuC6VN1XWTQnR2h22_CZjLNVy-szRKd8rEPNYg4uEnDQ_GrlolMQCGBtFfsh8avrM6ucmT_VkTn1HGNie4ziK2OFp3Uhf4UJTiv5E",
-        "url": "https://places.googleapis.com/v1/places/ChIJH9nmQ1-xKIQR4Ke7BiCqfGk/photos/ATCDNfV-O7jFns9xdLLOoxkCSssCZA3GuWNeBhaiqLtvgr0ef7cVv-UkxyPM4bLwyd03EtTHxISlowqhGgggdQZi2KofXM0az7k2xj-Tft3bHehKL9kH6LozrJ8eslEl-8FIKVqOzEtgnHzYSHubcSvTVCUm3rb2x7kFQcFmLrvzeFbUEy3a874xCfcWpoTtIo4uXD0fmInuC6VN1XWTQnR2h22_CZjLNVy-szRKd8rEPNYg4uEnDQ_GrlolMQCGBtFfsh8avrM6ucmT_VkTn1HGNie4ziK2OFp3Uhf4UJTiv5E/media?maxHeightPx=800&maxWidthPx=800&key=AIzaSyDuhF6n9FZsiLmnZMJsjnYHmgP80OVzXVY",
+        "name": "places/ChIJH9nmQ1-xKIQR4Ke7BiCqfGk/photos/ATCDNfXAcfESRmAh3JJ-bdpbW5yTcn7v7MMYTSJ8oSMRN4jdqbBIxJ1myqinDYQkCRsgEsjOxlZY0vBpo6-zVNb5Su-rhoua5Ra063q98o9JWjQA6EvmXAwuBjVlVOrykIYUHrKBqjLuurGa58wUbz8XxReTSHKu6jlgWEu7t_hpMbJgp0hSML1lZaP9_2jxqVcvwjF-3_5mCttAxPLXEmFW1FG4_L23KjeDCUSaVO-QVzDdN-WtrjfWNUdUwI9TXEoPXOLVp-q75dIGSkHVT2QcdM2JhThF-u2BZBsKrr14X5g",
+        "url": "https://places.googleapis.com/v1/places/ChIJH9nmQ1-xKIQR4Ke7BiCqfGk/photos/ATCDNfXAcfESRmAh3JJ-bdpbW5yTcn7v7MMYTSJ8oSMRN4jdqbBIxJ1myqinDYQkCRsgEsjOxlZY0vBpo6-zVNb5Su-rhoua5Ra063q98o9JWjQA6EvmXAwuBjVlVOrykIYUHrKBqjLuurGa58wUbz8XxReTSHKu6jlgWEu7t_hpMbJgp0hSML1lZaP9_2jxqVcvwjF-3_5mCttAxPLXEmFW1FG4_L23KjeDCUSaVO-QVzDdN-WtrjfWNUdUwI9TXEoPXOLVp-q75dIGSkHVT2QcdM2JhThF-u2BZBsKrr14X5g/media?maxHeightPx=800&maxWidthPx=800&key=AIzaSyDuhF6n9FZsiLmnZMJsjnYHmgP80OVzXVY",
         "attributions": []
       }
     ],
@@ -86,7 +86,7 @@
       "longDescription": "",
       "url": "",
       "color": "",
-      "refs": 19,
+      "refs": 20,
       "items": [
         {
           "name": "BOTANA MIXTA",
@@ -107,6 +107,24 @@
           "category_id": "C7"
         },
         {
+          "name": "CHURRO DE MAIZ",
+          "id": "71",
+          "key": "71",
+          "img": {
+            "thumbnail": "",
+            "carousel": "",
+            "fullSize": ""
+          },
+          "description": "",
+          "shortDescription": "",
+          "longDescription": "",
+          "price": 15.0,
+          "weight": 90.0,
+          "unit": "g",
+          "peso": "90 g",
+          "category_id": "C7"
+        },
+        {
           "name": "FRITURA DE TRIGO (RUEDITAS)",
           "id": "93",
           "key": "93",
@@ -119,9 +137,9 @@
           "shortDescription": "",
           "longDescription": "",
           "price": 15.0,
-          "weight": 100.0,
+          "weight": 50.0,
           "unit": "g",
-          "peso": "100 g",
+          "peso": "50 g",
           "category_id": "C7"
         },
         {
@@ -4162,14 +4180,14 @@
       "emoji": "🍿",
       "storeArea": "Caja",
       "nbCat": 7,
-      "nbRef": 85,
+      "nbRef": 86,
       "margin": 52.0,
-      "refs": 85,
+      "refs": 86,
       "categories": [
         {
           "id": "C7",
           "name": "Botanas saladas",
-          "refs": 19
+          "refs": 20
         },
         {
           "id": "C6",
