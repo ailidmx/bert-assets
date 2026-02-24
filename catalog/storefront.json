@@ -2,7 +2,7 @@
   "meta": {
     "title": "Casa Bert Mini App",
     "subtitle": "Catálogo dinámico",
-    "updatedAt": "24/02/2026 15:22",
+    "updatedAt": "24/02/2026 15:24",
     "cacheSeconds": 180
   },
   "brand": {
@@ -37,26 +37,26 @@
     "photos": [
       {
         "id": "photo_1",
-        "name": "places/ChIJH9nmQ1-xKIQR4Ke7BiCqfGk/photos/ATCDNfXS-7MsUYTZbLPerVSVl7xm8Gj8HCclHETJKnYLvOsuAYjUaSjZkIygAc7VR1TWK2hcmCptMX-OvJsyB-t25aA5Ya0cVNEO6KBrqEoZwTkrWEUaevIGY6wz7WlBRsRCzhrlr-j2_bwdw7fmBG_tb_sizWakEIQRHNHOy08J3VIlt0ekdBleTxhdARvX8vpn7LqTV17DTVzfFUTfkuCj6OCl3mVVtaiSqd_W50IhxxUTdSLTGodbOw_XhiQEScvyn_jY8Ov2VyQiKp-JhP65M4W0n6JgYcuYtpmYTQSeAQo",
-        "url": "https://places.googleapis.com/v1/places/ChIJH9nmQ1-xKIQR4Ke7BiCqfGk/photos/ATCDNfXS-7MsUYTZbLPerVSVl7xm8Gj8HCclHETJKnYLvOsuAYjUaSjZkIygAc7VR1TWK2hcmCptMX-OvJsyB-t25aA5Ya0cVNEO6KBrqEoZwTkrWEUaevIGY6wz7WlBRsRCzhrlr-j2_bwdw7fmBG_tb_sizWakEIQRHNHOy08J3VIlt0ekdBleTxhdARvX8vpn7LqTV17DTVzfFUTfkuCj6OCl3mVVtaiSqd_W50IhxxUTdSLTGodbOw_XhiQEScvyn_jY8Ov2VyQiKp-JhP65M4W0n6JgYcuYtpmYTQSeAQo/media?maxHeightPx=800&maxWidthPx=800&key=AIzaSyDuhF6n9FZsiLmnZMJsjnYHmgP80OVzXVY",
+        "name": "places/ChIJH9nmQ1-xKIQR4Ke7BiCqfGk/photos/ATCDNfUjU9C6jTSOs8TQMgjy9vrRzyHFJ7ODe9g5vLoS-DfNn1yd3awlrE1vNo4-KREsrhMlmUkm5W-W5xf7wFluPpX6wcKzdKwhPlvgaFSKBL-uKHQAaVNpdsxYNYkcN9mMPwmXwGsOoYeu_36GdbYd6_2iH-8mKnrlybSvbLkxqORSGdzZdWUG7YnApjAwJtFC22sIQjlLgEbfFXNKklIlUnYDl8xCXBiQW0xxtbK9sytY2v9ciEpi3aJlK02nkZzXXxw13HKRmi8aX9H7KSLwVfE7nHahPLcCeFD0NK5F8us",
+        "url": "https://places.googleapis.com/v1/places/ChIJH9nmQ1-xKIQR4Ke7BiCqfGk/photos/ATCDNfUjU9C6jTSOs8TQMgjy9vrRzyHFJ7ODe9g5vLoS-DfNn1yd3awlrE1vNo4-KREsrhMlmUkm5W-W5xf7wFluPpX6wcKzdKwhPlvgaFSKBL-uKHQAaVNpdsxYNYkcN9mMPwmXwGsOoYeu_36GdbYd6_2iH-8mKnrlybSvbLkxqORSGdzZdWUG7YnApjAwJtFC22sIQjlLgEbfFXNKklIlUnYDl8xCXBiQW0xxtbK9sytY2v9ciEpi3aJlK02nkZzXXxw13HKRmi8aX9H7KSLwVfE7nHahPLcCeFD0NK5F8us/media?maxHeightPx=800&maxWidthPx=800&key=AIzaSyDuhF6n9FZsiLmnZMJsjnYHmgP80OVzXVY",
         "attributions": []
       },
       {
         "id": "photo_2",
-        "name": "places/ChIJH9nmQ1-xKIQR4Ke7BiCqfGk/photos/ATCDNfXaGimGnJxYk4yFr4EKYj8wj2YwDFfLElhPBSosOSsBfti35kEL2a9VZTJt4oK_byZTItEuVn17cNiNb8SdnonknnB543sEMzGnGj20vmRk8fgnJop7lLLDKu7cKQzFbS5HoJRiw09zrVzFchDX1Owfwcg9dQNiPTlw1JvDJ_0NfyRzti_ivufA7yI6cQhfrnAU_NwIx0jvkeeO9Fgf9wwm41s5Hn4GLdlmZZBdOIwz0QlDDVmbsy9CzI1b81X6BWnHIx07zpnhMNrxbKmoV6iO8nDLXFILDk7F0uVtZGM",
-        "url": "https://places.googleapis.com/v1/places/ChIJH9nmQ1-xKIQR4Ke7BiCqfGk/photos/ATCDNfXaGimGnJxYk4yFr4EKYj8wj2YwDFfLElhPBSosOSsBfti35kEL2a9VZTJt4oK_byZTItEuVn17cNiNb8SdnonknnB543sEMzGnGj20vmRk8fgnJop7lLLDKu7cKQzFbS5HoJRiw09zrVzFchDX1Owfwcg9dQNiPTlw1JvDJ_0NfyRzti_ivufA7yI6cQhfrnAU_NwIx0jvkeeO9Fgf9wwm41s5Hn4GLdlmZZBdOIwz0QlDDVmbsy9CzI1b81X6BWnHIx07zpnhMNrxbKmoV6iO8nDLXFILDk7F0uVtZGM/media?maxHeightPx=800&maxWidthPx=800&key=AIzaSyDuhF6n9FZsiLmnZMJsjnYHmgP80OVzXVY",
+        "name": "places/ChIJH9nmQ1-xKIQR4Ke7BiCqfGk/photos/ATCDNfX3Y35h9gHMl5yWktxcTrTo5V9zX6natsLE-L7LSG824nPjja6UCgQVMsq4DExmLoocLdd7D3YB31zH0OyVOKHFgIwZcyUEGmDvX6d9X9xJ1P-zOUJFuXBCM8fVzFBAVkUo4kNhtlNSJgeo3wsshPSS8eT6viZ5EJBbCr1mNuna7KqK5faZam9s2K0J0rHKr5xxFaMhVfGPHPcUfYA63qEAWgd6-v3OSJX3CbuQ6gDlb4aP4JhT0IqTDca_WytL7bMzaOW9jDHJNjlJkLWg2iIa4KE2LhYTLEWJ9tW9pBs",
+        "url": "https://places.googleapis.com/v1/places/ChIJH9nmQ1-xKIQR4Ke7BiCqfGk/photos/ATCDNfX3Y35h9gHMl5yWktxcTrTo5V9zX6natsLE-L7LSG824nPjja6UCgQVMsq4DExmLoocLdd7D3YB31zH0OyVOKHFgIwZcyUEGmDvX6d9X9xJ1P-zOUJFuXBCM8fVzFBAVkUo4kNhtlNSJgeo3wsshPSS8eT6viZ5EJBbCr1mNuna7KqK5faZam9s2K0J0rHKr5xxFaMhVfGPHPcUfYA63qEAWgd6-v3OSJX3CbuQ6gDlb4aP4JhT0IqTDca_WytL7bMzaOW9jDHJNjlJkLWg2iIa4KE2LhYTLEWJ9tW9pBs/media?maxHeightPx=800&maxWidthPx=800&key=AIzaSyDuhF6n9FZsiLmnZMJsjnYHmgP80OVzXVY",
         "attributions": []
       },
       {
         "id": "photo_3",
-        "name": "places/ChIJH9nmQ1-xKIQR4Ke7BiCqfGk/photos/ATCDNfX7pPM3XjUmGOnZgH2Pn-AghB1O7HSOqNbdK2OyUgYT5k_Ud11RqowaxgcHkHvjek659S5bskGeKzjB3bVlyMzpJKJKuMWQKBOTiX1mYN5gAqK3p3A9NKgjHUvWAqWe1V_9LUwIDc7oBxI1QFJ6h7hCNFhzFgqehWlrZEXpp4JYxhvA-ACWXt22oPilbDjm2bowOTWK3cEnQSpHKbVlFeOYfUQ03ke8ft7Pf0EC46rAzypk5UBvRNvU_MU1UIx0lNePkK1CNiAS-7DlSGDRVCagJIPcXheHoH4Ni1CqaYI",
-        "url": "https://places.googleapis.com/v1/places/ChIJH9nmQ1-xKIQR4Ke7BiCqfGk/photos/ATCDNfX7pPM3XjUmGOnZgH2Pn-AghB1O7HSOqNbdK2OyUgYT5k_Ud11RqowaxgcHkHvjek659S5bskGeKzjB3bVlyMzpJKJKuMWQKBOTiX1mYN5gAqK3p3A9NKgjHUvWAqWe1V_9LUwIDc7oBxI1QFJ6h7hCNFhzFgqehWlrZEXpp4JYxhvA-ACWXt22oPilbDjm2bowOTWK3cEnQSpHKbVlFeOYfUQ03ke8ft7Pf0EC46rAzypk5UBvRNvU_MU1UIx0lNePkK1CNiAS-7DlSGDRVCagJIPcXheHoH4Ni1CqaYI/media?maxHeightPx=800&maxWidthPx=800&key=AIzaSyDuhF6n9FZsiLmnZMJsjnYHmgP80OVzXVY",
+        "name": "places/ChIJH9nmQ1-xKIQR4Ke7BiCqfGk/photos/ATCDNfUrnykmCScteqdipvckbNxsW54NoYsCUxIt0cBZqualYqoBHfEwTceG1iQsCyZUq5TFX5kxXCIKD3FY3fSfNmE0GsPzqxa52NVVzYidXxLNdj2g5tlSV3qtYaY80X7KJz_7qj7ws1W5oM0VFuOtuOTvPVIKVLMNgVSrJRCjqWEpf_NdCmg2ngamGZ6PaTdV-H_8b9eOx_G0bMq0LHNKBA9ZYZAwoRbEXIy7twRWkW6OHqaVfyjhpcQ9QrZ6RkESclqC_4B3zcLOi3W_fqwoeLaCNOUT6XUyyutX8WHqebo",
+        "url": "https://places.googleapis.com/v1/places/ChIJH9nmQ1-xKIQR4Ke7BiCqfGk/photos/ATCDNfUrnykmCScteqdipvckbNxsW54NoYsCUxIt0cBZqualYqoBHfEwTceG1iQsCyZUq5TFX5kxXCIKD3FY3fSfNmE0GsPzqxa52NVVzYidXxLNdj2g5tlSV3qtYaY80X7KJz_7qj7ws1W5oM0VFuOtuOTvPVIKVLMNgVSrJRCjqWEpf_NdCmg2ngamGZ6PaTdV-H_8b9eOx_G0bMq0LHNKBA9ZYZAwoRbEXIy7twRWkW6OHqaVfyjhpcQ9QrZ6RkESclqC_4B3zcLOi3W_fqwoeLaCNOUT6XUyyutX8WHqebo/media?maxHeightPx=800&maxWidthPx=800&key=AIzaSyDuhF6n9FZsiLmnZMJsjnYHmgP80OVzXVY",
         "attributions": []
       },
       {
         "id": "photo_4",
-        "name": "places/ChIJH9nmQ1-xKIQR4Ke7BiCqfGk/photos/ATCDNfVKWS5R62DX8ry_a4_cnXjSYojF-7iRiMgv93FficbE3idgremGjOB4Ekjkl5VarI8UdykTCqrE--fLtamQxIO9mmW3wzKuzJ7cn-G4LdAv_8TdQa261XHqt3Y5EvBLesO_JGkvmYUh9toDU9YON8GvXh2Fn14wjmlYBtwHQoM90kEQrbvUKGi29XMce_xbuQxjD4ZJhnK-tZwIYBjBoGeCkV7eFhKmQojK0G_j2PFByWnLT_J-CiDO4QJISndUcNlU_8LGrq_wN1Od2BSM8Os46zMLS3ylS3cpOrx8ycE",
-        "url": "https://places.googleapis.com/v1/places/ChIJH9nmQ1-xKIQR4Ke7BiCqfGk/photos/ATCDNfVKWS5R62DX8ry_a4_cnXjSYojF-7iRiMgv93FficbE3idgremGjOB4Ekjkl5VarI8UdykTCqrE--fLtamQxIO9mmW3wzKuzJ7cn-G4LdAv_8TdQa261XHqt3Y5EvBLesO_JGkvmYUh9toDU9YON8GvXh2Fn14wjmlYBtwHQoM90kEQrbvUKGi29XMce_xbuQxjD4ZJhnK-tZwIYBjBoGeCkV7eFhKmQojK0G_j2PFByWnLT_J-CiDO4QJISndUcNlU_8LGrq_wN1Od2BSM8Os46zMLS3ylS3cpOrx8ycE/media?maxHeightPx=800&maxWidthPx=800&key=AIzaSyDuhF6n9FZsiLmnZMJsjnYHmgP80OVzXVY",
+        "name": "places/ChIJH9nmQ1-xKIQR4Ke7BiCqfGk/photos/ATCDNfXdR4N0tjgpXDHmW7mgU5sJDLffTc2Oqh09OyR55fRRtrWKU1kVqBTs3TmI22zzXFfHx2lSFv2gteKJHntodVrAMFgUZo92jFb6S0_PzXaFdzolKXpmU5Epx7a8pPgpD4xEtQVhgb7ddqtoU3kmBT1ljW67GbJU0HLHGs_z8UqhlWX1VUTXDK8uriCCzGtbgSc1UWqGDbxBNcmvUbHYXG5vzlbRkgfPGOs3RCXHB7PxbJNDJkHp1YpZEf_ML7rr1lWchc14onEZViShFWwxwzAkYtityj6wQ2n5RhwNu2I",
+        "url": "https://places.googleapis.com/v1/places/ChIJH9nmQ1-xKIQR4Ke7BiCqfGk/photos/ATCDNfXdR4N0tjgpXDHmW7mgU5sJDLffTc2Oqh09OyR55fRRtrWKU1kVqBTs3TmI22zzXFfHx2lSFv2gteKJHntodVrAMFgUZo92jFb6S0_PzXaFdzolKXpmU5Epx7a8pPgpD4xEtQVhgb7ddqtoU3kmBT1ljW67GbJU0HLHGs_z8UqhlWX1VUTXDK8uriCCzGtbgSc1UWqGDbxBNcmvUbHYXG5vzlbRkgfPGOs3RCXHB7PxbJNDJkHp1YpZEf_ML7rr1lWchc14onEZViShFWwxwzAkYtityj6wQ2n5RhwNu2I/media?maxHeightPx=800&maxWidthPx=800&key=AIzaSyDuhF6n9FZsiLmnZMJsjnYHmgP80OVzXVY",
         "attributions": []
       }
     ],
@@ -652,7 +652,7 @@
       "longDescription": "",
       "url": "",
       "color": "",
-      "refs": 28,
+      "refs": 29,
       "items": [
         {
           "name": "ALMENDRA CON CHOCOLATE",
@@ -832,6 +832,24 @@
           "weight": 40.0,
           "unit": "g",
           "peso": "40 g",
+          "category_id": "C10"
+        },
+        {
+          "name": "CONFITADO ALMENDRAS CHOCOLATE S/AZUCAR",
+          "id": "80",
+          "key": "80",
+          "img": {
+            "thumbnail": "",
+            "carousel": "",
+            "fullSize": ""
+          },
+          "description": "",
+          "shortDescription": "",
+          "longDescription": "",
+          "price": 15.0,
+          "weight": 20.0,
+          "unit": "g",
+          "peso": "20 g",
           "category_id": "C10"
         },
         {
@@ -4179,9 +4197,9 @@
       "emoji": "🍿",
       "storeArea": "Caja",
       "nbCat": 7,
-      "nbRef": 86,
+      "nbRef": 87,
       "margin": 52.0,
-      "refs": 86,
+      "refs": 87,
       "categories": [
         {
           "id": "C7",
@@ -4196,7 +4214,7 @@
         {
           "id": "C10",
           "name": "Dulces",
-          "refs": 28
+          "refs": 29
         },
         {
           "id": "C21",
