@@ -2,7 +2,7 @@
   "meta": {
     "title": "Casa Bert Mini App",
     "subtitle": "Catálogo dinámico",
-    "updatedAt": "24/02/2026 23:38",
+    "updatedAt": "25/02/2026 00:43",
     "cacheSeconds": 180
   },
   "brand": {
@@ -37,26 +37,26 @@
     "photos": [
       {
         "id": "photo_1",
-        "name": "places/ChIJH9nmQ1-xKIQR4Ke7BiCqfGk/photos/ATCDNfUW7ZEgEopjsr9rXV6p63Fz1z1t8lu0RGQ8XJLySeWhY8fCCZlDO0r3oQ0s-D17QdXG_LyGQAd4Vwz7W8L7dDyT7sVm3gantcn1HkYgnTzg4zHbtWA9Q956wGM9VzC6YJywQz-AUU6JpptqbTEKa5O29gxJ6teu1xaO8E_QzGHp5A0YlRya3iMLUqoDcZsu0wCFJwa9V7aGzMX-wx9dK931Ejb9Seybr13fkeHookREnac8-QhDPKvSbjNWjzU1jstz_jP8T9wIbUt9JEwdbln7_YztiUOTwBq5kwvP1PU",
-        "url": "https://places.googleapis.com/v1/places/ChIJH9nmQ1-xKIQR4Ke7BiCqfGk/photos/ATCDNfUW7ZEgEopjsr9rXV6p63Fz1z1t8lu0RGQ8XJLySeWhY8fCCZlDO0r3oQ0s-D17QdXG_LyGQAd4Vwz7W8L7dDyT7sVm3gantcn1HkYgnTzg4zHbtWA9Q956wGM9VzC6YJywQz-AUU6JpptqbTEKa5O29gxJ6teu1xaO8E_QzGHp5A0YlRya3iMLUqoDcZsu0wCFJwa9V7aGzMX-wx9dK931Ejb9Seybr13fkeHookREnac8-QhDPKvSbjNWjzU1jstz_jP8T9wIbUt9JEwdbln7_YztiUOTwBq5kwvP1PU/media?maxHeightPx=800&maxWidthPx=800&key=AIzaSyDuhF6n9FZsiLmnZMJsjnYHmgP80OVzXVY",
+        "name": "places/ChIJH9nmQ1-xKIQR4Ke7BiCqfGk/photos/ATCDNfWhxwyDEXViZ0kseoUl7XIYEKFMwUnC6dSgt5QsnHqy3N2v5fCtqWTCdVQy2e5Dq4EFN5yfUg6iSAiQoBmgcGO1bkSjs7RSWslNQyEpQWYXafQUDiHUATmgFNz967SlsJyLNRscs2cHHFedoI1kg1YNParocchtvPm1G6dMIytSE7lPoC7RRHOMyW6hdD_eTzFT7mlKGvy88FF3r6D95E6Ob1qC3LeRdhuC4SORBoIrzBewN0UKh4TqwMUivxpOSS9PFPirrSOOh8ArPgO8IudHzuxbsiQ4nNXZKq_n0vU",
+        "url": "https://places.googleapis.com/v1/places/ChIJH9nmQ1-xKIQR4Ke7BiCqfGk/photos/ATCDNfWhxwyDEXViZ0kseoUl7XIYEKFMwUnC6dSgt5QsnHqy3N2v5fCtqWTCdVQy2e5Dq4EFN5yfUg6iSAiQoBmgcGO1bkSjs7RSWslNQyEpQWYXafQUDiHUATmgFNz967SlsJyLNRscs2cHHFedoI1kg1YNParocchtvPm1G6dMIytSE7lPoC7RRHOMyW6hdD_eTzFT7mlKGvy88FF3r6D95E6Ob1qC3LeRdhuC4SORBoIrzBewN0UKh4TqwMUivxpOSS9PFPirrSOOh8ArPgO8IudHzuxbsiQ4nNXZKq_n0vU/media?maxHeightPx=800&maxWidthPx=800&key=AIzaSyDuhF6n9FZsiLmnZMJsjnYHmgP80OVzXVY",
         "attributions": []
       },
       {
         "id": "photo_2",
-        "name": "places/ChIJH9nmQ1-xKIQR4Ke7BiCqfGk/photos/ATCDNfWGBpfWChJfKZ38-AlRs_lAbiONSHetR7ci1B5aM8Q005zyyoTwb4Ytb6qyR7kwK3G9il1aHtffw2MnfFra4zbtZDS2mK94bAvKZ8Sf9TFccqOHouwffz5YfwExyAkW1nksKAcgVcEbhm33VNPW6QERmoU3I2L37tfdenhCiOhK3Z9dhDk5zOnMr8QqzjwaEav70w_07PEeElkl_XX5ORFjYMuTPmJNVokVikCWIk-hjm9hz7oFnpnQAVsIxJ83tGvigenBv82-xC2W06VOPHtiSMSC6r1Qsyy4NAB5_2Q",
-        "url": "https://places.googleapis.com/v1/places/ChIJH9nmQ1-xKIQR4Ke7BiCqfGk/photos/ATCDNfWGBpfWChJfKZ38-AlRs_lAbiONSHetR7ci1B5aM8Q005zyyoTwb4Ytb6qyR7kwK3G9il1aHtffw2MnfFra4zbtZDS2mK94bAvKZ8Sf9TFccqOHouwffz5YfwExyAkW1nksKAcgVcEbhm33VNPW6QERmoU3I2L37tfdenhCiOhK3Z9dhDk5zOnMr8QqzjwaEav70w_07PEeElkl_XX5ORFjYMuTPmJNVokVikCWIk-hjm9hz7oFnpnQAVsIxJ83tGvigenBv82-xC2W06VOPHtiSMSC6r1Qsyy4NAB5_2Q/media?maxHeightPx=800&maxWidthPx=800&key=AIzaSyDuhF6n9FZsiLmnZMJsjnYHmgP80OVzXVY",
+        "name": "places/ChIJH9nmQ1-xKIQR4Ke7BiCqfGk/photos/ATCDNfU2zqGSdyXkFLL0FXo864KxEP_FqKwP6zBnPa6a_9Hyj8w-WUwJfiq7Kp-DzdifHLd_lhMOp0NHXeYmkedSJUFvFPdtktBNez4CocYWdr2a4OzyZ5WCBp9MmQ5vybTQlAo6BHt9gl57Rfk4SDPkBuh9zGRy-_pNkIBzIQytjGdVw7FMU48eqf_ZIvVrYXWurPWk7QbGzIuF9gQhhXmY2nUzTjS74LtLD0YfGZoIjWFCH3G0CsS3rpIupCD-N1mvYOzGLqK-GTVg9mPwAjgU2bAhJ7CABP_xZnUNJOjX8Iw",
+        "url": "https://places.googleapis.com/v1/places/ChIJH9nmQ1-xKIQR4Ke7BiCqfGk/photos/ATCDNfU2zqGSdyXkFLL0FXo864KxEP_FqKwP6zBnPa6a_9Hyj8w-WUwJfiq7Kp-DzdifHLd_lhMOp0NHXeYmkedSJUFvFPdtktBNez4CocYWdr2a4OzyZ5WCBp9MmQ5vybTQlAo6BHt9gl57Rfk4SDPkBuh9zGRy-_pNkIBzIQytjGdVw7FMU48eqf_ZIvVrYXWurPWk7QbGzIuF9gQhhXmY2nUzTjS74LtLD0YfGZoIjWFCH3G0CsS3rpIupCD-N1mvYOzGLqK-GTVg9mPwAjgU2bAhJ7CABP_xZnUNJOjX8Iw/media?maxHeightPx=800&maxWidthPx=800&key=AIzaSyDuhF6n9FZsiLmnZMJsjnYHmgP80OVzXVY",
         "attributions": []
       },
       {
         "id": "photo_3",
-        "name": "places/ChIJH9nmQ1-xKIQR4Ke7BiCqfGk/photos/ATCDNfV7qoKWJAsQJa2F4pmy8f34iSiT09EpaXxkudKi0uxU6PCe0M620iJfLKgeFCj3nQWFpgJQ8nCpmqx7wtFYkQgK8FT9mnjvt3eubc-VlYx2-Ames-gHRkOGzkfu8IRgQfNNJmcZXAKUR7YVr92pplqTegtzcjGgxajP93lukOBZLKDBioCcBykJVQRVMAmdpmnicvYmZ1Gw8kBXd0JnipEF4Ht5FFhtYKRNwQyygKLiAeJlsdGqOcnRp63fBnCOklRUOccbVDTRY5jXvFXn9HCpRd8uJsAdyM1QoMvvwXs",
-        "url": "https://places.googleapis.com/v1/places/ChIJH9nmQ1-xKIQR4Ke7BiCqfGk/photos/ATCDNfV7qoKWJAsQJa2F4pmy8f34iSiT09EpaXxkudKi0uxU6PCe0M620iJfLKgeFCj3nQWFpgJQ8nCpmqx7wtFYkQgK8FT9mnjvt3eubc-VlYx2-Ames-gHRkOGzkfu8IRgQfNNJmcZXAKUR7YVr92pplqTegtzcjGgxajP93lukOBZLKDBioCcBykJVQRVMAmdpmnicvYmZ1Gw8kBXd0JnipEF4Ht5FFhtYKRNwQyygKLiAeJlsdGqOcnRp63fBnCOklRUOccbVDTRY5jXvFXn9HCpRd8uJsAdyM1QoMvvwXs/media?maxHeightPx=800&maxWidthPx=800&key=AIzaSyDuhF6n9FZsiLmnZMJsjnYHmgP80OVzXVY",
+        "name": "places/ChIJH9nmQ1-xKIQR4Ke7BiCqfGk/photos/ATCDNfVAUc0hRNX3W2yzSB2Yql9V0nboC8D0xB8Qf5xvrHOqhLJBhRhMS_4KehO57AQd4x6Yey7F0nm5vCDYlk58nCLISzNenwaFylGdidF8iyqek7p5LLLIhB_hP2ewTzjLMKMy8IuiNu8ceInNLzOyF5myEqTttw9xXT5TjCkA1fDqOcSC0RhJZxIeOYyau1_vRxAQKBls8PVf26p8wVOGgSdEFE-9eIX4fN4VwyCX-X3NcH_9Wn3RE3Excr6lLfzevKmROjhsH_GFz_cT_l0VqNjruW00NhV2L7kPHvXbHZE",
+        "url": "https://places.googleapis.com/v1/places/ChIJH9nmQ1-xKIQR4Ke7BiCqfGk/photos/ATCDNfVAUc0hRNX3W2yzSB2Yql9V0nboC8D0xB8Qf5xvrHOqhLJBhRhMS_4KehO57AQd4x6Yey7F0nm5vCDYlk58nCLISzNenwaFylGdidF8iyqek7p5LLLIhB_hP2ewTzjLMKMy8IuiNu8ceInNLzOyF5myEqTttw9xXT5TjCkA1fDqOcSC0RhJZxIeOYyau1_vRxAQKBls8PVf26p8wVOGgSdEFE-9eIX4fN4VwyCX-X3NcH_9Wn3RE3Excr6lLfzevKmROjhsH_GFz_cT_l0VqNjruW00NhV2L7kPHvXbHZE/media?maxHeightPx=800&maxWidthPx=800&key=AIzaSyDuhF6n9FZsiLmnZMJsjnYHmgP80OVzXVY",
         "attributions": []
       },
       {
         "id": "photo_4",
-        "name": "places/ChIJH9nmQ1-xKIQR4Ke7BiCqfGk/photos/ATCDNfX05FQHGvbY_5EWvPX9lpLCdSxwzbBV0StOANo_52t_vESrckuwt51nzaz-iWgtlmOxo4jYdE2VwwYA7BvlieFtYo6F5eZYxcVtbk7vpIQJbvEaI2HacWvH4ZnkwF-aBfDGHagn6W-YbUBz_RFMZtXzEqv1crH42F_prwz10OQ5NjFOYXDpS5LXGjhHkXFgmYB7UNG4Ly8mgN_fEXs8CiReFkwEBBW4lukIM2ordZKE60VmGh8I3QJ2F_27Kgqu4A5_REenqDtxQWi7w9x7JbjT61x3GZTKz2Rh8IS-Gv4",
-        "url": "https://places.googleapis.com/v1/places/ChIJH9nmQ1-xKIQR4Ke7BiCqfGk/photos/ATCDNfX05FQHGvbY_5EWvPX9lpLCdSxwzbBV0StOANo_52t_vESrckuwt51nzaz-iWgtlmOxo4jYdE2VwwYA7BvlieFtYo6F5eZYxcVtbk7vpIQJbvEaI2HacWvH4ZnkwF-aBfDGHagn6W-YbUBz_RFMZtXzEqv1crH42F_prwz10OQ5NjFOYXDpS5LXGjhHkXFgmYB7UNG4Ly8mgN_fEXs8CiReFkwEBBW4lukIM2ordZKE60VmGh8I3QJ2F_27Kgqu4A5_REenqDtxQWi7w9x7JbjT61x3GZTKz2Rh8IS-Gv4/media?maxHeightPx=800&maxWidthPx=800&key=AIzaSyDuhF6n9FZsiLmnZMJsjnYHmgP80OVzXVY",
+        "name": "places/ChIJH9nmQ1-xKIQR4Ke7BiCqfGk/photos/ATCDNfWj8srtlMDVeWtjaZZDFTJBHmFe1HXupwlz3jM83HzIyyXxi1M6e4wWBC5RI_TnM65hZOOu2MhCTsUY9MlZ-EZ81n-ocOILC6WFS6yaNaPR-UxZE0_Uc9O57lE8qDFKUMqlcpiEAOQEDTZEx_6I-_krzk1T8xxpVlkcBE_iZUqB_ju_cOqlfj7UXoTMo3YyHmNpMKjQQB2dFeBMHOur-X8X790JsNsSDm2G9lGjts_OWHfTSnAWKtR16-ygT5Wtg4MLLDglzD9fJBirqnIvfnqO9K19s6PLzgdwTATvaI8",
+        "url": "https://places.googleapis.com/v1/places/ChIJH9nmQ1-xKIQR4Ke7BiCqfGk/photos/ATCDNfWj8srtlMDVeWtjaZZDFTJBHmFe1HXupwlz3jM83HzIyyXxi1M6e4wWBC5RI_TnM65hZOOu2MhCTsUY9MlZ-EZ81n-ocOILC6WFS6yaNaPR-UxZE0_Uc9O57lE8qDFKUMqlcpiEAOQEDTZEx_6I-_krzk1T8xxpVlkcBE_iZUqB_ju_cOqlfj7UXoTMo3YyHmNpMKjQQB2dFeBMHOur-X8X790JsNsSDm2G9lGjts_OWHfTSnAWKtR16-ygT5Wtg4MLLDglzD9fJBirqnIvfnqO9K19s6PLzgdwTATvaI8/media?maxHeightPx=800&maxWidthPx=800&key=AIzaSyDuhF6n9FZsiLmnZMJsjnYHmgP80OVzXVY",
         "attributions": []
       }
     ],
