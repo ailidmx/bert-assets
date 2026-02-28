@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "builds": [
+  "routes": [
     {
-      "src": "/img/(.*)",
-      "use": "@vercel/static"
+      "src": "/(.*)",
+      "dest": "/img/$1"
     }
   ]
 }
