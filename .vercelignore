@@ -1,0 +1,6 @@
+# Ignore everything
+*
+
+# Include only necessary files for Vercel deployment
+!img/
+!vercel.json
