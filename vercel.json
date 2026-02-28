@@ -1,9 +1,8 @@
 {
   "$schema": "https://openapi.vercel.sh/vercel.json",
-  "rewrites": [
-    {
-      "source": "/img/(.*)",
-      "destination": "/img/$1"
+  "functions": {
+      "img/": {
+      "runtime": "@vercel/static"
     }
-  ]
+  }
 }

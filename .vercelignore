@@ -1,6 +1,7 @@
-# Ignore everything
-*
-
-# Include only necessary files for Vercel deployment
-!img/
-!vercel.json
+analyze_storefront.py
+google_places_service_override.py
+README.md
+storefront_insights_report.md
+.git/
+.github/
+catalog/
