@@ -1,15 +1,9 @@
 {
-  "version": 2,
-  "builds": [
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "rewrites": [
     {
-      "src": "img/(.*)",
-      "use": "@vercel/static"
-    }
-  ],
-  "routes": [
-    {
-      "src": "/img/(.*)",
-      "dest": "/img/$1"
+      "source": "/img/(.*)",
+      "destination": "/img/$1"
     }
   ]
 }
